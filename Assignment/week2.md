@@ -29,7 +29,6 @@
 
 #### Layer-based compositing
 
-complicated compositing
 
 |stacking order|
 | ------------ |
@@ -46,9 +45,10 @@ ex) After Effects
 
 #### Node-based 
 
-more complicated compositing
 
 미디어 개체를 맵에서 연결한다. 이전 이미지 처리단계인 "context"의 파라미터를 수정할 수 있는 기능을 포함한 매우 유동적인 방법이다. 하지만 워크플로우는 레이어 기반 컴포지팅과 달리 타임라인에서 직접적으로 연결되지 않기 때문에 종종 키프레밍과 시간 효과를 제대로 처리하지 못하는 문제가 발생한다.
+
+![alt text](https://i.stack.imgur.com/Biirj.png)
 
 ex) Nuke, Fusion
 
