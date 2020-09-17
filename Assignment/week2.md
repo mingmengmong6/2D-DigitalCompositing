@@ -18,11 +18,13 @@
 - Digital Actor(디지털 배우)
 - Morphing(몰핑)
 
-#### Node-based and Layer-based compositing
+#### Layer-based vs. Node-based compositing
 
-디지털 컴포지팅에는 두 가지 디지털 컴포지팅 워크플로우가 있는데, 바로 노드 기반 컴포지팅과 레이어 기반 컴포지팅이다.
+디지털 컴포지팅에는 두 가지 디지털 컴포지팅 워크플로우가 있는데, 바로 레이어 기반과 노드 기반 컴포지팅과이다. 노드기반이 더 시간이 절약되며, 더 사실적인 3D 공간을 다룬다.
 
-#### Node-based compositing
+#### Layer-based compositing
+
+ex) After Effects
 
 |stacking order|
 | ------------ |
@@ -31,6 +33,17 @@
 |layer3        |
 |layer4        |
 |layer5        |
+
+오래된 작업순으로 레이어를 쌓아간다.
+
+- complicated compositing
+
+#### Node-based 
+ex) Nuke, Fusion
+
+- more complicated compositing
+
+
 
 ## What is Alpha and Digital color?
 
@@ -78,7 +91,7 @@
 RGB (255,0,0)= 빨간색,
 RGB (255,100,0)= 초록색이 섞인 연한 빨간색
 
-특징: 색 표현력이 높아 있는 그대로의 색을 재현한다.
+특징: 색 표현력이 높아 있는 그대로의 색을 재현한다. 화려한 색상과 인쇄가 필요 없는 웹, 모바일용 이미지에 적합하다.
 
 #### CMYK(Cyan, Magenta, Yellow, Key=Black)
 : 인쇄용 컬러
@@ -93,4 +106,4 @@ RGB (255,100,0)= 초록색이 섞인 연한 빨간색
 
 ![alt text](https://designmanagementlucerne.files.wordpress.com/2013/10/30.png)
 
-색 표현력이 제한적이라 RGB보다 풍부한 색 표현이 불가능하다.
+특징: 색 표현력이 제한적이라 RGB보다 풍부한 색 표현이 불가능하다. 인쇄시 색감 차이가 적어 인쇄할 때 사용한다.
