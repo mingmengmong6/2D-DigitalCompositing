@@ -49,3 +49,5 @@ RGB (255,100,0)= 초록색이 섞인 연한 빨간색
 확대하면, 4가지의 색상으로 이루어져 있다
 
 ![alt text](https://designmanagementlucerne.files.wordpress.com/2013/10/30.png)
+
+특징:
