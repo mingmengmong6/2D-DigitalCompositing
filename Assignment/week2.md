@@ -1,2 +1,3 @@
-# Week 2 과제
-## 색이란 무엇인가?
+# Week 2 Assignment
+## Color
+색의 3속성
