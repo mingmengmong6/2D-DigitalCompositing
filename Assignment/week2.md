@@ -13,6 +13,8 @@
 :애니메이션 이미지와 실사 동화상(live action) 이미지를 합성시키는 기법
 - 2D or 3D images
 - Particle Effects(파티클 이펙트)
+
+![alt text](https://i.pinimg.com/originals/f5/9f/b1/f59fb17e596b8d34c355fbaf273fd861.jpg)
 - Matte Painting(매트 페인팅)
 - Motion Capture(모션 캡쳐)
 - Digital Actor(디지털 배우)
