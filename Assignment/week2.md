@@ -22,4 +22,6 @@
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/7/7b/AdditiveColorMixingII.png)
 
+#### CMYK(Cyan,Magenta, Yellow, Key=Black)
+
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/2/24/SubtractiveColorMixingII.png)
