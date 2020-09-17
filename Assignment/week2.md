@@ -18,6 +18,19 @@
 - Digital Actor(디지털 배우)
 - Morphing(몰핑)
 
+#### Node-based and Layer-based compositing
+
+디지털 컴포지팅에는 두 가지 디지털 컴포지팅 워크플로우가 있는데, 바로 노드 기반 컴포지팅과 레이어 기반 컴포지팅이다.
+
+#### Node-based compositing
+
+|stacking order|
+| ------------ |
+|layer1        |
+|layer2        |
+|layer3        |
+|layer4        |
+|layer5        |
 
 ## What is Alpha and Digital color?
 
