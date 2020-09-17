@@ -1,6 +1,16 @@
 # Week 2 
 ## What is Alpha and Digital color?
 
+### Alpha
+
+#### Alpha compositing
+
+알파 합성은 하나의 이미지를 배경과 결합하여 부분적으로나 전체를 투명하게 만드는 과정이다.
+
+#### Who founded this?
+
+알파 합성의 개념은 1970년대 말 앨비 레이 스미스(Alvy Ray Smith)가 처음 선보였고 1984년에 토머스 포터(Thomas Porter)와 톰 더프(Tom Duff)에 의해 백서를 통해 완전히 개발되었다
+
 ### Color
 색의 3속성
 - 색상(Hue): 색을 구별하는 속성
@@ -50,4 +60,4 @@ RGB (255,100,0)= 초록색이 섞인 연한 빨간색
 
 ![alt text](https://designmanagementlucerne.files.wordpress.com/2013/10/30.png)
 
-특징:
+색 표현력이 제한적이라 RGB보다 풍부한 색 표현이 불가능하다.
