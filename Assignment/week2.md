@@ -1,5 +1,5 @@
 # Week 2 
-## Digital compositing
+## What is Alpha and Digital color?
 
 ### Color
 색의 3속성
@@ -14,7 +14,7 @@
 
 ### Digital Color Mode
 
-- RGB(Red,Green,Blue)
+#### RGB(Red,Green,Blue)
 
 빛을 이용한 표시 장치에 사용되는 컬러
 
