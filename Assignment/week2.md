@@ -24,7 +24,7 @@
 
 #### Layer-based compositing
 
-ex) After Effects
+complicated compositing
 
 |stacking order|
 | ------------ |
@@ -34,14 +34,18 @@ ex) After Effects
 |layer4        |
 |layer5        |
 
-오래된 작업순으로 레이어를 쌓아간다.
-
-- complicated compositing
+-> 오래된 작업순으로 레이어를 쌓아간다.
+ 빠른 2D 및 모션 그래픽과 같은 제한된 3D 효과에 적합하지만, 많고 복잡한 레이어을 갖는 컴포지트에는 어색해진다.
+ 
+ex) After Effects
 
 #### Node-based 
-ex) Nuke, Fusion
 
-- more complicated compositing
+more complicated compositing
+
+미디어 개체를 맵에서 연결한다. 이전 이미지 처리단계인 "context"의 파라미터를 수정할 수 있는 기능을 포함한 매우 유동적인 방법이다. 하지만 워크플로우는 레이어 기반 컴포지팅과 달리 타임라인에서 직접적으로 연결되지 않기 때문에 종종 키프레밍과 시간 효과를 제대로 처리하지 못하는 문제가 발생한다.
+
+ex) Nuke, Fusion
 
 
 
