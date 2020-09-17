@@ -9,7 +9,7 @@
 
 #### Who founded this?
 
-알파 합성의 개념은 1970년대 말 앨비 레이 스미스(Alvy Ray Smith)가 처음 선보였고 1984년에 토머스 포터(Thomas Porter)와 톰 더프(Tom Duff)에 의해 백서를 통해 완전히 개발되었다
+알파 합성의 개념은 1970년대 말 앨비 레이 스미스(Alvy Ray Smith)가 처음 선보였고 1984년에 토머스 포터(Thomas Porter)와 톰 더프(Tom Duff)에 의해 논문을 통해 완전히 개발되었다
 
 ### Color
 색의 3속성
