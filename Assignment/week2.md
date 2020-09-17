@@ -1,15 +1,35 @@
 # Week 2 
+## What is Digital Compositing?
+
+### Digital compositiong
+
+연속된 이미지를 모아 디지털로 최종 이미지를 합성하는 과정으로, 일반적으로 인쇄, 동영상 또는 화면 디스플레이를 위해 사용된다. 디지털 컴포지팅에 사용되는 기본 연산을 '알파 블렌딩'이라고 한다.
+
+#### Techniques
+
+- Live action(실사 촬영)
+- Blue or Green screen(블루/그린스크린)
+- Rotoscoping(로토스코핑)
+:애니메이션 이미지와 실사 동화상(live action) 이미지를 합성시키는 기법
+- 2D or 3D images
+- Particle Effects(파티클 이펙트)
+- Matte Painting(매트 페인팅)
+- Motion Capture(모션 캡쳐)
+- Digital Actor(디지털 배우)
+- Morphing(몰핑)
+
+
 ## What is Alpha and Digital color?
 
 ### Alpha
 
 #### Alpha compositing
 
-알파 합성은 하나의 이미지를 배경과 결합하여 부분적으로나 전체를 투명하게 만드는 과정이다.
+알파 컴포지팅은 하나의 이미지를 배경과 결합하여 부분적으로나 전체를 투명하게 만드는 과정이다.
 
 #### Who founded this?
 
-알파 합성의 개념은 1970년대 말 앨비 레이 스미스(Alvy Ray Smith)가 처음 선보였고 1984년에 토머스 포터(Thomas Porter)와 톰 더프(Tom Duff)에 의해 논문을 통해 완전히 개발되었다
+알파 컴포지팅의 개념은 1970년대 말 앨비 레이 스미스(Alvy Ray Smith)가 처음 선보였고 1984년에 토머스 포터(Thomas Porter)와 톰 더프(Tom Duff)에 의해 논문을 통해 완전히 개발되었다
 
 ### Color
 색의 3속성
