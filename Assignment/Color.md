@@ -1,2 +1,2 @@
-# Week 2 assignment
-## What is the color?
+# Week 2 과제
+## 색이란 무엇인가?
