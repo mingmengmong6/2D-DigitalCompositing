@@ -21,7 +21,7 @@
 
 빨간색(Red), 녹색(Green), 파란색(Blue)의 혼합으로 이루어진다. 혼합할수록 색이 밝아진다
 
-가산혼합(additive color mixing): 빛을 가하여 색을 혼합할때 혼합한 색이 원래의 색보다 밝아지는 혼합
+- 가산혼합(additive color mixing): 빛을 가하여 색을 혼합할때 혼합한 색이 원래의 색보다 밝아지는 혼합
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/7/7b/AdditiveColorMixingII.png)
 
@@ -40,9 +40,9 @@ RGB (255,100,0)= 초록색이 섞인 연한 빨간색
 #### CMYK(Cyan, Magenta, Yellow, Key=Black)
 : 인쇄용 컬러
 
-시안(Cyan), 마젠타(Magenta), 옐로(Yellow)의 혼합으로 이루어진다. 혼합할수록 색이 어두워진다.
+시안(Cyan), 마젠타(Magenta), 옐로(Yellow), 키(Key)컬러 블랙의 혼합으로 이루어진다. 혼합할수록 색이 어두워진다.
 
-감산혼합(subtractive color mixing): 혼합한 색이 원래의 색보다 명도가 낮아지도록 색을 혼합하는 방법
+- 감산혼합(subtractive color mixing): 혼합한 색이 원래의 색보다 명도가 낮아지도록 색을 혼합하는 방법
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/2/24/SubtractiveColorMixingII.png)
 
