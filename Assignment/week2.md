@@ -20,7 +20,12 @@
 
 #### Layer-based vs. Node-based compositing
 
-디지털 컴포지팅에는 두 가지 디지털 컴포지팅 워크플로우가 있는데, 바로 레이어 기반과 노드 기반 컴포지팅과이다. 노드기반이 더 시간이 절약되며, 더 사실적인 3D 공간을 다룬다.
+디지털 컴포지팅에는 바로 레이어 기반과 노드 기반 컴포지팅의 2가지 Work flow(워크플로우)가 있다. 노드기반이 더 시간이 절약되며, 더 사실적인 3D 공간을 다룬다.
+
+| Layer-based      | Node-based       |
+| ---------------- | -----------      | 
+| comlicated       | more complicated |
+| 3d place         | Real 3d space    |
 
 #### Layer-based compositing
 
