@@ -23,11 +23,16 @@
 
 
 가산혼합(additive color mixing): 빛을 가하여 색을 혼합할때 혼합한 색이 원래의 색보다 밝아지는 혼합
+
+
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/7/7b/AdditiveColorMixingII.png)
 
 
 가까이서 보면, 모니터의 색상이 3가지 색상으로 표시된다.
+
+
 ![alt text](https://designmanagementlucerne.files.wordpress.com/2013/10/28.png)
+
 
 
 빨간색, 녹색, 파란색 세 가지의 조합으로 만들어진 화소는 바이트를 이용하여 각각 빨간색 1바이트, 초록색 1바이트, 파란색 1바이트가 들어간다.
@@ -35,6 +40,7 @@
 
 RGB (255,0,0)= 빨간색,
 RGB (255,100,0)= 초록색이 섞인 연한 빨간색
+
 
 특징: 색 표현력이 높아 있는 그대로의 색을 재현한다.
 
