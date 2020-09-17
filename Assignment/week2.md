@@ -40,7 +40,7 @@ RGB (255,100,0)= 초록색이 섞인 연한 빨간색
 #### CMYK(Cyan, Magenta, Yellow, Key=Black)
 : 인쇄용 컬러
 
-시안(Cyan), 마젠타(Magenta), 옐로(Yellow), 키(Key)컬러 블랙의 혼합으로 이루어진다. 혼합할수록 색이 어두워진다.
+시안(Cyan), 마젠타(Magenta), 옐로(Yellow)의 혼합과 키(Key)컬러 블랙의 추가로 표현된다. 혼합할수록 색이 어두워진다.
 
 - 감산혼합(subtractive color mixing): 혼합한 색이 원래의 색보다 명도가 낮아지도록 색을 혼합하는 방법
 
@@ -49,4 +49,3 @@ RGB (255,100,0)= 초록색이 섞인 연한 빨간색
 확대하면, 4가지의 색상으로 이루어져 있다
 
 ![alt text](https://designmanagementlucerne.files.wordpress.com/2013/10/30.png)
-
