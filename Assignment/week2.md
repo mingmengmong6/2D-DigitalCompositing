@@ -19,4 +19,4 @@
 : 빛을 이용한 표시 장치에 사용되는 컬러
 
 가산혼합(additive mixture): 빛을 가하여 색을 혼합할때 혼합한 색이 원래의 색보다 밝아지는 혼합
-https://upload.wikimedia.org/wikipedia/commons/5/5b/Cmyk-rgb.jpg
+![alt text] (https://upload.wikimedia.org/wikipedia/commons/5/5b/Cmyk-rgb.jpg)
