@@ -107,6 +107,10 @@ ex) Nuke, Fusion, Blender
 0의 값 -> 픽셀이 투명하고 수치 정보를 제공하지 않음, 1의 값 -> 지오메트리가 픽셀 윈도우와 완전히 겹치기 때문에 픽셀이 완전히 가림.
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Alpha_compositing.svg/1284px-Alpha_compositing.svg.png)
+
+A over B: A가 전면, B가 배경으로 사용됨
+
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/PorterDuffAdd.png/240px-PorterDuffAdd.png)
 ### Color
 
 #### 색의 3원색 ≠ 빛의 3원색
