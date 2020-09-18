@@ -110,7 +110,22 @@ ex) Nuke, Fusion, Blender
 
 A over B: A가 전면, B가 배경으로 사용됨
 
+ADD operation ↓⇂⇩
+
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/PorterDuffAdd.png/240px-PorterDuffAdd.png)
+
+CLEAR operation
+
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/PorterDuffClear.png/240px-PorterDuffClear.png)
+
+MULTIPLY operation
+
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/PorterDuffMultiply.png/240px-PorterDuffMultiply.png)
+
+OVERLAY operation
+
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/PorterDuffOverlay.png/240px-PorterDuffOverlay.png)
+
 ### Color
 
 #### 색의 3원색 ≠ 빛의 3원색
