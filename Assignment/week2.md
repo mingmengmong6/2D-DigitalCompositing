@@ -3,7 +3,7 @@
 
 ### Digital compositiong
 
-연속된 이미지를 모아 디지털로 최종 이미지를 합성하는 과정으로, 일반적으로 인쇄, 동영상 또는 화면 디스플레이를 위해 사용된다. 디지털 컴포지팅에 사용되는 기본 연산을 '알파 블렌딩'이라고 한다.
+연속된 이미지를 모아 디지털로 최종 이미지를 합성하는 과정. 일반적으로 인쇄, 동영상 또는 화면 디스플레이를 위해 사용된다. 디지털 컴포지팅에 사용되는 기본 연산을 '알파 블렌딩'이라고 한다.
 
 #### Techniques
 
@@ -11,7 +11,7 @@
 - Blue or Green screen(블루/그린스크린)
 - Rotoscoping(로토스코핑)
 
-:로토스코핑은 실사 이미지를 종이나 셀 위에 투사하여 한 프레임씩 윤곽선을 그린 뒤 이 윤곽선을 바탕으로 애니메이션(animation)을 만든 다음 원본 이미지와 합성하는 기법
+:실사 이미지를 종이나 셀 위에 투사하여 한 프레임씩 윤곽선을 그린 뒤 이 윤곽선을 바탕으로 애니메이션(animation)을 만든 다음 원본 이미지와 합성하는 기법
 
 ![alt text](https://dbscthumb-phinf.pstatic.net/4004_000_1/20151028111432679_POON5XVPM.jpg/s_ei217_11_i1.jpg?type=w492_fst_n&wm=Y)
 
@@ -20,11 +20,25 @@
 
 ![alt text](https://i.pinimg.com/originals/f5/9f/b1/f59fb17e596b8d34c355fbaf273fd861.jpg)
 - Matte Painting(매트 페인팅)
+
+실사 장면이나 애니메이션과 결합하여 영화 속 특정 공간을 묘사하거나 구성하는 고도로 사실적인 그림. 매트(matte)가 불필요한 영역을 가리면서 필요한 그림이 노출될 수 있도록 유리판 위에 그림을 그려 촬영하는 기법이다
+
+![alt text](https://cdnb.artstation.com/p/assets/images/images/006/143/817/large/paul-mercer-ancient-civilisations-artstation-challenge-temple-ruins-01-copy.jpg?1496337756)
+
 - Motion Capture(모션 캡쳐)
+
+몸과 얼굴의 자연스러운 움직임을 기록하여 디지털 캐릭터를 제작하는 기법. 실제 동물이나 사람의 연기를 원판으로 삼아 CGI로 만들어지는 캐릭터의 자연스러운 연기를 재현하는 시각효과다
+
+![alt text](https://lh3.googleusercontent.com/proxy/0uF4zXJ7PaWohcidc07ybNCj5HRLq3KnfWP3HEHYX9hb6Mj7OZ-S0qJ4itRsuCts1ocLjLVLXtVAUozM4Yxlvdj8u0DvdcwOYmfKVb8-PVW-HHPHMCsY1yUlxTGQeO5Neg)
+
 - Digital Actor(디지털 배우)
+3차원 CG(Computer Graphics) 기술로 만든 가상의 배우. 실제 배우 수준의 외형과 동작을 가진 배우로, 얼굴 표정, 피부, 머리카락 표현 등의 섬세함은 물론 동작이 자연스러워야 하는 고도의 기술이 요구된다.
+
+![alt text](https://www.fxguide.com/wp-content/uploads/2013/11/compare-actor.jpg)
+
 - Morphing(모핑)
 
-모핑 기법은 하나의 이미지를 다른 이미지로 연속적으로 변형시키는 디지털 시각효과로서 수학적인 과정을 프로그래밍한 소프트웨어에 의해 수행된다 일정한 시간 내 여러 형상을 거쳐 최종 이미지로 변화되는 모습을 재현한다
+하나의 이미지를 다른 이미지로 연속적으로 변형시키는 디지털 시각효과, 일정한 시간 내 여러 형상을 거쳐 최종 이미지로 변화되는 모습을 재현한다
 
 ![alt text](https://ccrma.stanford.edu/~jacobliu/368Report/ah_morph.jpg)
 
