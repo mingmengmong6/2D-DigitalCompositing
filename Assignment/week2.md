@@ -3,7 +3,9 @@
 
 ### Digital compositiong (디지털 합성)
 
-연속된 이미지를 모아 디지털로 최종 이미지를 합성하는 과정. 일반적으로 인쇄, 동영상 또는 화면 디스플레이를 위해 사용된다. 디지털 컴포지팅에 사용되는 기본 연산을 '알파 블렌딩'이라고 한다.
+연속된 이미지를 모아 디지털로 최종 이미지를 합성하는 과정. 일반적으로 인쇄, 동영상 또는 화면 디스플레이를 위해 사용된다. 디지털 컴포지팅에 사용되는 기본 연산을 '알파 블렌딩'이라고 알려져 있다.
+
+알파 블렌딩(Alpha Blending) : 픽셀값을 주는 기능으로서, 반투명인 객체를 렌더링한다. 256단계까지 표시 가능하며 액체나, 보이지 않거나 부분적으로 보이지 않는 객체에도 적용 가능하다. 일반적으로 폭발, 물, 불과 같은 특수효과를 묘사하는데 주로 사용된다.
 
 #### Techniques
 
@@ -51,7 +53,7 @@
 
 #### Layer-based vs. Node-based compositing
 
-2가지의 Work flow(워크플로우)가 존재: 1. Layer-based compositing와 2.Node-based compositing
+2가지의 Work flow(워크플로우)가 존재: Layer-based compositing와 Node-based compositing
 
 |  Layer-based        | Node-based       |
 | ------------------- | -----------      | 
@@ -81,7 +83,7 @@ ex) After Effects
 
 ![alt text](https://i.stack.imgur.com/Biirj.png)
 
-ex) Nuke, Fusion
+ex) Nuke, Fusion, Blender
 
 
 
@@ -93,10 +95,17 @@ ex) Nuke, Fusion
 
 알파 컴포지팅은 하나의 이미지를 배경과 결합하여 부분적으로나 전체를 투명하게 만드는 과정이다.
 
-#### Who founded this?
+#### Why and Who founded this?
 
-알파 컴포지팅의 개념은 1970년대 말 앨비 레이 스미스(Alvy Ray Smith)가 처음 선보였고 1984년에 토머스 포터(Thomas Porter)와 톰 더프(Tom Duff)에 의해 논문을 통해 완전히 개발되었다
+알파 컴포지팅의 개념은 매트정보를 저장하기 위해 1970년대 말 앨비 레이 스미스(Alvy Ray Smith)가 처음 선보였고 1984년에 토머스 포터(Thomas Porter)와 톰 더프(Tom Duff)에 의해 논문을 통해 완전히 개발되었다
 
+#### Description
+
+각 픽셀의 색상을 저장하는 2D 화소(픽셀)에서는 0~1의 값을 갖는 알파 채널에 추가 데이터가 저장된다. 
+
+0의 값 -> 픽셀이 투명하고 수치 정보를 제공하지 않음, 1의 값 -> 지오메트리가 픽셀 윈도우와 완전히 겹치기 때문에 픽셀이 완전히 가림.
+
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Alpha_compositing.svg/1284px-Alpha_compositing.svg.png)
 ### Color
 색의 3속성
 - 색상(Hue): 색을 구별하는 속성
