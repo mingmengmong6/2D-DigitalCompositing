@@ -7,18 +7,24 @@
 
 #### Techniques
 
-- Live action(실사 촬영)
 - Blue or Green screen(블루/그린스크린)
+
+화면을 합성하기 위해 사용되는 녹색의 스크린. 그린스크린이나 블루스크린을 배경으로 찍은 화면에서 녹색이나 푸른색을 옵티컬 프린터(optical printer)를 사용해 빼내서 합성하려는 화면과 결합하여 특수한 효과를 준다.
+
+![alt text](https://lc2702ct1ih1dgpgj15zgyn1-wpengine.netdna-ssl.com/wp-content/uploads/2017/12/crewcallsupret-1204x630.jpg)
+
 - Rotoscoping(로토스코핑)
 
 :실사 이미지를 종이나 셀 위에 투사하여 한 프레임씩 윤곽선을 그린 뒤 이 윤곽선을 바탕으로 애니메이션(animation)을 만든 다음 원본 이미지와 합성하는 기법
 
 ![alt text](https://dbscthumb-phinf.pstatic.net/4004_000_1/20151028111432679_POON5XVPM.jpg/s_ei217_11_i1.jpg?type=w492_fst_n&wm=Y)
 
-- 2D or 3D images
-- Particle Effects(파티클 이펙트)
+- Particle Effects(입자 효과)
 
-![alt text](https://i.pinimg.com/originals/f5/9f/b1/f59fb17e596b8d34c355fbaf273fd861.jpg)
+독립적인 물체들을 잘게 나누고 제작자의 의도에 맞게 조정하여 효과적으로 표현하는 방법. 많은 물체들을 하나의 파티클로 표현하고 실제 물체의 위치와 움직임을 추적하여 자연스런 영상을 만들어낸다.
+
+![alt text](https://tutexpert.com/wp-content/uploads/2013/10/airplaine-composite-1024x576.jpg)
+
 - Matte Painting(매트 페인팅)
 
 실사 장면이나 애니메이션과 결합하여 영화 속 특정 공간을 묘사하거나 구성하는 고도로 사실적인 그림. 매트(matte)가 불필요한 영역을 가리면서 필요한 그림이 노출될 수 있도록 유리판 위에 그림을 그려 촬영하는 기법이다
@@ -32,6 +38,7 @@
 ![alt text](https://lh3.googleusercontent.com/proxy/0uF4zXJ7PaWohcidc07ybNCj5HRLq3KnfWP3HEHYX9hb6Mj7OZ-S0qJ4itRsuCts1ocLjLVLXtVAUozM4Yxlvdj8u0DvdcwOYmfKVb8-PVW-HHPHMCsY1yUlxTGQeO5Neg)
 
 - Digital Actor(디지털 배우)
+
 3차원 CG(Computer Graphics) 기술로 만든 가상의 배우. 실제 배우 수준의 외형과 동작을 가진 배우로, 얼굴 표정, 피부, 머리카락 표현 등의 섬세함은 물론 동작이 자연스러워야 하는 고도의 기술이 요구된다.
 
 ![alt text](https://www.fxguide.com/wp-content/uploads/2013/11/compare-actor.jpg)
@@ -44,12 +51,12 @@
 
 #### Layer-based vs. Node-based compositing
 
-디지털 컴포지팅에는 바로 레이어 기반과 노드 기반 컴포지팅의 2가지 Work flow(워크플로우)가 있다. 시간절약
+디지털 컴포지팅에는 바로 레이어 기반과 노드 기반 컴포지팅의 2가지 Work flow(워크플로우)가 있다.
 
-| Layer-based      | Node-based       |
-| ---------------- | -----------      | 
-| comlicated       | more complicated |
-| 3d place         | Real 3d space    |
+| Layer-based        | Node-based       |
+| ------------------ | -----------      | 
+| comlicated         | more complicated |
+| 3d place           | Real 3d space    |
 
 #### Layer-based compositing
 
@@ -62,7 +69,7 @@
 |layer4        |
 |layer5        |
 
--> 오래된 작업순으로 레이어를 쌓아간다.
+-> 오래된 작업순으로 레이어를 쌓아간다. 타임라인과 이펙트, 키프레임을 포함한 개별적인 레이어로 구성되어 있다.
  빠른 2D 및 모션 그래픽과 같은 제한된 3D 효과에 적합하지만, 많고 복잡한 레이어를 갖는 컴포지트에는 어색해진다.
  
 ex) After Effects
@@ -70,7 +77,7 @@ ex) After Effects
 #### Node-based 
 
 
-미디어 개체를 맵에서 연결한다. 이전 이미지 처리단계인 "context"의 파라미터를 수정할 수 있는 기능을 포함한 매우 유동적인 방법이다. 하지만 워크플로우는 레이어 기반 컴포지팅과 달리 타임라인에서 직접적으로 연결되지 않기 때문에 종종 키프레밍과 시간 효과를 제대로 처리하지 못하는 문제가 발생한다.
+미디어 개체를 맵에서 연결한다. 이전 이미지 처리단계인 "context"의 파라미터를 수정할 수 있는 기능을 포함한 매우 유동적인 방법이다. Work flow(워크플로우)는 레이어 기반 컴포지팅과 달리 타임라인에서 직접적으로 연결되지 않기 때문에 종종 키프레밍과 시간 효과를 제대로 처리하지 못하는 문제가 발생한다.
 
 ![alt text](https://i.stack.imgur.com/Biirj.png)
 
