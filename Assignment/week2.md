@@ -110,7 +110,9 @@ ex) Nuke, Fusion, Blender
 
 A over B: A가 전면, B가 배경으로 사용됨
 
-ADD operation ↓⇂⇩
+녹색과 빨간색 두 가지 색상이 모두 완전히 불투명하고 겹쳐진 예시
+
+ADD operation ↓
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/PorterDuffAdd.png/240px-PorterDuffAdd.png)
 
