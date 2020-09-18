@@ -113,11 +113,13 @@ ex) Nuke, Fusion, Blender
 
 #### 색의 3속성
 - 색상(Hue): 색을 구별하는 속성
+색상환에서 거리가 가까운 색은 유사색, 거리가 비교적 먼 색은 색상차가 커서 대조색, 거리가 가장 먼 정반대쪽의 색은 보색.
 
+![alt text](https://search.pstatic.net/common/?src=http%3A%2F%2Fcafefiles.naver.net%2F20130327_83%2Fi_pang_1364372973772JTEfk_JPEG%2F%25B8%25D5%25BC%25BF%25C0%25C720%25BB%25F6%25BB%25F3%25C8%25AF.jpg&type=sc960_832)
 
 - 명도(Saturation): 색의 밝고 어두운 정도, 색의 밝기
 
-0~3단계는 저명도, 4~6단계는 중명도, 7~10단계는 고명도
+ 0~3단계는 저명도, 4~6단계는 중명도, 7~10단계는 고명도
 
 - 채도(Value): 색의 강약과 선명한 정도
 
