@@ -10,7 +10,11 @@
 - Live action(실사 촬영)
 - Blue or Green screen(블루/그린스크린)
 - Rotoscoping(로토스코핑)
-:애니메이션 이미지와 실사 동화상(live action) 이미지를 합성시키는 기법
+
+:로토스코핑은 실사 이미지를 종이나 셀 위에 투사하여 한 프레임씩 윤곽선을 그린 뒤 이 윤곽선을 바탕으로 애니메이션(animation)을 만든 다음 원본 이미지와 합성하는 기법
+
+![alt text](https://dbscthumb-phinf.pstatic.net/4004_000_1/20151028111432679_POON5XVPM.jpg/s_ei217_11_i1.jpg?type=w492_fst_n&wm=Y)
+
 - 2D or 3D images
 - Particle Effects(파티클 이펙트)
 
@@ -18,7 +22,11 @@
 - Matte Painting(매트 페인팅)
 - Motion Capture(모션 캡쳐)
 - Digital Actor(디지털 배우)
-- Morphing(몰핑)
+- Morphing(모핑)
+
+모핑 기법은 하나의 이미지를 다른 이미지로 연속적으로 변형시키는 디지털 시각효과로서 수학적인 과정을 프로그래밍한 소프트웨어에 의해 수행된다 일정한 시간 내 여러 형상을 거쳐 최종 이미지로 변화되는 모습을 재현한다
+
+![alt text](https://ccrma.stanford.edu/~jacobliu/368Report/ah_morph.jpg)
 
 #### Layer-based vs. Node-based compositing
 
