@@ -17,7 +17,7 @@
 
 - Rotoscoping(로토스코핑)
 
-실사 이미지를 종이나 셀 위에 투사하여 한 프레임씩 윤곽선을 그린 뒤 이 윤곽선을 바탕으로 애니메이션을 만든 다음 원본 이미지와 합성하는 기법
+실사 이미지를 종이나 셀 위에 투사하여 한 프레임씩 윤곽선을 그린 뒤 이 윤곽선을 바탕으로 애니메이션을 만든 다음 원본 이미지와 합성하는 기법.
 
 ![alt text](https://dbscthumb-phinf.pstatic.net/4004_000_1/20151028111432679_POON5XVPM.jpg/s_ei217_11_i1.jpg?type=w492_fst_n&wm=Y)
 
@@ -29,13 +29,13 @@
 
 - Matte Painting(매트 페인팅)
 
-실사 장면이나 애니메이션과 결합하여 영화 속 특정 공간을 묘사하거나 구성하는 고도로 사실적인 그림. 매트(matte)가 불필요한 영역을 가리면서 필요한 그림이 노출될 수 있도록 유리판 위에 그림을 그려 촬영하는 기법이다
+실사 장면이나 애니메이션과 결합하여 영화 속 특정 공간을 묘사하거나 구성하는 고도로 사실적인 그림. 매트(matte)가 불필요한 영역을 가리면서 필요한 그림이 노출될 수 있도록 유리판 위에 그림을 그려 촬영하는 기법.
 
 ![alt text](https://cdnb.artstation.com/p/assets/images/images/006/143/817/large/paul-mercer-ancient-civilisations-artstation-challenge-temple-ruins-01-copy.jpg?1496337756)
 
 - Motion Capture(모션 캡쳐)
 
-몸과 얼굴의 자연스러운 움직임을 기록하여 디지털 캐릭터를 제작하는 기법. 실제 동물이나 사람의 연기를 원판으로 삼아 CGI로 만들어지는 캐릭터의 자연스러운 연기를 재현하는 시각효과다
+몸과 얼굴의 자연스러운 움직임을 기록하여 디지털 캐릭터를 제작하는 기법. 실제 동물이나 사람의 연기를 원판으로 삼아 CGI로 만들어지는 캐릭터의 자연스러운 연기를 재현하는 시각효과.
 
 ![alt text](https://lh3.googleusercontent.com/proxy/0uF4zXJ7PaWohcidc07ybNCj5HRLq3KnfWP3HEHYX9hb6Mj7OZ-S0qJ4itRsuCts1ocLjLVLXtVAUozM4Yxlvdj8u0DvdcwOYmfKVb8-PVW-HHPHMCsY1yUlxTGQeO5Neg)
 
@@ -47,7 +47,7 @@
 
 - Morphing(모핑)
 
-하나의 이미지를 다른 이미지로 연속적으로 변형시키는 디지털 시각효과, 일정한 시간 내 여러 형상을 거쳐 최종 이미지로 변화되는 모습을 재현한다
+하나의 이미지를 다른 이미지로 연속적으로 변형시키는 디지털 시각효과, 일정한 시간 내 여러 형상을 거쳐 최종 이미지로 변화되는 모습을 재현한다.
 
 ![alt text](https://ccrma.stanford.edu/~jacobliu/368Report/ah_morph.jpg)
 
@@ -86,7 +86,6 @@ ex) After Effects
 ex) Nuke, Fusion, Blender
 
 
-
 ## What is Alpha and Digital color?
 
 ### Alpha
@@ -107,11 +106,24 @@ ex) Nuke, Fusion, Blender
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Alpha_compositing.svg/1284px-Alpha_compositing.svg.png)
 ### Color
-색의 3속성
+
+#### 색의 3원색 ≠ 빛의 3원색
+
+색의 3원색: 빨강, 파랑, 노랑 // 빛의 3원색: 빨강, 초록, 파랑, 
+
+#### 색의 3속성
 - 색상(Hue): 색을 구별하는 속성
+
+
 - 명도(Saturation): 색의 밝고 어두운 정도, 색의 밝기
+
+0~3단계는 저명도, 4~6단계는 중명도, 7~10단계는 고명도
+
 - 채도(Value): 색의 강약과 선명한 정도
 
+높은 채도의 색: 순색, 순색에 흰색이나 검은색을 혼합하여 본래의 색보다 밝아지거나 어두워진 색: 청색(맑은 색), 순색에 회색을 혼합하여 탁하거나 낮은 채도의 색: 탁색(흐린 색)
+
+![alt text](https://lightcolourvision.org/wp-content/uploads/10100-0-A-BL-EN-HSB-Colour-Model-Hue-Saturation-and-Brightness-80.jpg)
 
 ### Digital Color
 디지털 신호에 의해 만들어진 색채 표현방법, 최소의 단위는 비트(Bit), 디지털 이미지의 최소 단위는 화소(픽셀 Pixel).
