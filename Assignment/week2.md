@@ -13,6 +13,8 @@
 
 화면을 합성하기 위해 사용되는 녹색의 스크린. 그린스크린이나 블루스크린을 배경으로 찍은 화면에서 녹색이나 푸른색을 옵티컬 프린터(optical printer)를 사용해 빼내서 합성하려는 화면과 결합하여 특수한 효과를 준다. 한국은 푸른색을 많이 사용하며 미국은 주로 녹색을 사용한다.
 
+![alt text](https://postfiles.pstatic.net/MjAxOTA2MDlfMjQx/MDAxNTYwMDIzNTU1NDY1.FYgGuLFf1ac2lGAFlZaJviezR3S1M0Ot91B6_F-2UPYg.89YoWeYag_NaESV4DM7kHn2QplIzT96VImpeiiaYWHEg.JPEG.photo9595/%27기생충%27_제작기_영상_-_YouTube_(1080p).mp4_20190607_225120.938.jpg?type=w773)
+
 ![alt text](https://lc2702ct1ih1dgpgj15zgyn1-wpengine.netdna-ssl.com/wp-content/uploads/2017/12/crewcallsupret-1204x630.jpg)
 
 - Rotoscoping(로토스코핑)
