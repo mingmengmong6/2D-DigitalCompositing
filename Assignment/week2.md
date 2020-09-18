@@ -1,7 +1,7 @@
 # Week 2 
 ## What is Digital Compositing?
 
-### Digital compositiong
+### Digital compositiong (디지털 합성)
 
 연속된 이미지를 모아 디지털로 최종 이미지를 합성하는 과정. 일반적으로 인쇄, 동영상 또는 화면 디스플레이를 위해 사용된다. 디지털 컴포지팅에 사용되는 기본 연산을 '알파 블렌딩'이라고 한다.
 
@@ -53,10 +53,10 @@
 
 디지털 컴포지팅에는 바로 레이어 기반과 노드 기반 컴포지팅의 2가지 Work flow(워크플로우)가 있다.
 
-| Layer-based        | Node-based       |
-| ------------------ | -----------      | 
-| comlicated         | more complicated |
-| 3d place           | Real 3d space    |
+|  Layer-based        | Node-based       |
+| ------------------- | -----------      | 
+|  comlicated         | more complicated |
+|  3d place           | Real 3d space    |
 
 #### Layer-based compositing
 
