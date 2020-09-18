@@ -17,7 +17,7 @@
 
 - Rotoscoping(로토스코핑)
 
-실사 이미지를 종이나 셀 위에 투사하여 한 프레임씩 윤곽선을 그린 뒤 이 윤곽선을 바탕으로 애니메이션을 만든 다음 원본 이미지와 합성하는 기법.
+실사 이미지를 종이나 셀 위에 투사하여 한 프레임씩 윤곽선을 그린 뒤 이 윤곽선을 바탕으로 애니메이션을 만든 다음 원본 이미지와 합성하는 기법. 실사 이미지와 애니메이션이 동일한 숏 내에서 동시에 연기하는 장면이 최종 결과물로 재현된다.
 
 ![alt text](https://dbscthumb-phinf.pstatic.net/4004_000_1/20151028111432679_POON5XVPM.jpg/s_ei217_11_i1.jpg?type=w492_fst_n&wm=Y)
 
@@ -35,9 +35,11 @@
 
 - Motion Capture(모션 캡쳐)
 
-몸과 얼굴의 자연스러운 움직임을 기록하여 디지털 캐릭터를 제작하는 기법. 실제 동물이나 사람의 연기를 원판으로 삼아 CGI로 만들어지는 캐릭터의 자연스러운 연기를 재현하는 시각효과.
+몸과 얼굴의 자연스러운 움직임을 기록하여 디지털 캐릭터를 제작하는 기법. 실제 동물이나 사람의 연기를 원판으로 삼아 CGI로 만들어지는 캐릭터의 자연스러운 연기를 재현하는 시각효과. 디지털 캐릭터에게 연기를 제공하는 휴먼 캐릭터(human character)는 블루 스크린(blue screen)의 역할을 하는 꽉 끼는 옷을 입고 흰색의 전자 마커(marker)들을 그 위에 부착한 채 연기를 한다.
 
 ![alt text](https://lh3.googleusercontent.com/proxy/0uF4zXJ7PaWohcidc07ybNCj5HRLq3KnfWP3HEHYX9hb6Mj7OZ-S0qJ4itRsuCts1ocLjLVLXtVAUozM4Yxlvdj8u0DvdcwOYmfKVb8-PVW-HHPHMCsY1yUlxTGQeO5Neg)
+
+표정 연기의 추출을 위해 눈꺼풀을 포함한 주요 얼굴 근육에도 마커가 부착되며 표정만을 잡는 특수 카메라가 머리에 씌워진다. 수십에서 수백 대의 전자 카메라들이 자외선을 방사하고, 자외선에 반응하는 마커들의 동작을 통해 휴먼 캐릭터(human character)의 연기가 녹화된다.
 
 - Digital Actor(디지털 배우)
 
@@ -113,17 +115,18 @@ ex) Nuke, Fusion, Blender
 
 #### 색의 3속성
 - 색상(Hue): 색을 구별하는 속성
+
 색상환에서 거리가 가까운 색은 유사색, 거리가 비교적 먼 색은 색상차가 커서 대조색, 거리가 가장 먼 정반대쪽의 색은 보색.
 
 ![alt text](https://search.pstatic.net/common/?src=http%3A%2F%2Fcafefiles.naver.net%2F20130327_83%2Fi_pang_1364372973772JTEfk_JPEG%2F%25B8%25D5%25BC%25BF%25C0%25C720%25BB%25F6%25BB%25F3%25C8%25AF.jpg&type=sc960_832)
 
 - 명도(Saturation): 색의 밝고 어두운 정도, 색의 밝기
 
- 0~3단계는 저명도, 4~6단계는 중명도, 7~10단계는 고명도
+ 0-3단계는 저명도, 4-6단계는 중명도, 7-10단계는 고명도
 
 - 채도(Value): 색의 강약과 선명한 정도
 
-높은 채도의 색: 순색, 순색에 흰색이나 검은색을 혼합하여 본래의 색보다 밝아지거나 어두워진 색: 청색(맑은 색), 순색에 회색을 혼합하여 탁하거나 낮은 채도의 색: 탁색(흐린 색)
+높은 채도의 순색, 순색에 흰색이나 검은색을 혼합하여 본래의 색보다 밝아지거나 어두워진 색의 청색, 순색에 회색을 혼합하여 탁하거나 낮은 채도의 탁색(흐린 색)
 
 ![alt text](https://lightcolourvision.org/wp-content/uploads/10100-0-A-BL-EN-HSB-Colour-Model-Hue-Saturation-and-Brightness-80.jpg)
 
