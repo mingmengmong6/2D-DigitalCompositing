@@ -15,7 +15,7 @@
 
 - Rotoscoping(로토스코핑)
 
-:실사 이미지를 종이나 셀 위에 투사하여 한 프레임씩 윤곽선을 그린 뒤 이 윤곽선을 바탕으로 애니메이션(animation)을 만든 다음 원본 이미지와 합성하는 기법
+실사 이미지를 종이나 셀 위에 투사하여 한 프레임씩 윤곽선을 그린 뒤 이 윤곽선을 바탕으로 애니메이션을 만든 다음 원본 이미지와 합성하는 기법
 
 ![alt text](https://dbscthumb-phinf.pstatic.net/4004_000_1/20151028111432679_POON5XVPM.jpg/s_ei217_11_i1.jpg?type=w492_fst_n&wm=Y)
 
@@ -51,7 +51,7 @@
 
 #### Layer-based vs. Node-based compositing
 
-디지털 컴포지팅에는 바로 레이어 기반과 노드 기반 컴포지팅의 2가지 Work flow(워크플로우)가 있다.
+2가지의 Work flow(워크플로우)가 존재: 1. Layer-based compositing와 2.Node-based compositing
 
 |  Layer-based        | Node-based       |
 | ------------------- | -----------      | 
