@@ -37,3 +37,6 @@ LUT는 영상에 직접적으로 적용되어, 보정단계를 훨씬 더 빠르
 
 
 https://groundcontrolcolor.com 에서 LUT를 무료로 다운가능
+
+출처
+https://www.studiobinder.com/blog/what-is-lut/
