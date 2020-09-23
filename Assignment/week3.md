@@ -42,4 +42,4 @@ https://www.studiobinder.com/blog/what-is-lut/
 
 
 # 3. What is Logspace?
-## what is main difference with sRGB, why and when we use?
+## what is the main difference with sRGB, why and when we use?
