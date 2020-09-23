@@ -40,3 +40,6 @@ https://groundcontrolcolor.com 에서 LUT를 무료로 다운가능
 
 출처
 https://www.studiobinder.com/blog/what-is-lut/
+
+
+# 3.What is Logspace?
