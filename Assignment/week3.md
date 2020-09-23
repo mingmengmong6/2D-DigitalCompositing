@@ -24,3 +24,18 @@ Groundcontrol 에서 무료로 LUTS 다운 가능
 ### LUT의 종류
 : calibration, transform, viewing, 1D and 3D.
 
+#### 1D LUTS Vs. 3D LUTS
+어떠한 방식으로 이미지를 조정하느냐의 차이이다.
+
+두 유형 모두 lookup table의 정확도를 결정하기 위해 비트 크기와 비트 깊이를 모두 사용한다.
+
+숫자가 클 수록 더 나은 색보정을 얻을 수 있다.
+
+### 1D LUTS
+
+: 한 가지 설정 값으로 조정되는 단순한 색보정 방법이다. 직선의 형태이다. 하지만 3d의 이미지의 색상을 정확히 표현해 낼 수는 없다. 하지만 불변성을 갖고 있다.
+
+### 3D LUTS
+: 구체의 모양으로 색을 개별적으로 조정할 수 있다. 색조, 채도, 명암의 개별적인 축으로 보다 더 정확하게 특정 색상값을 조정하다. z, y, x축의 형태이다. 하지만 불변성을 가지고 있지 않다.
+3d: it moves images, spherical way, you can move color independently, and the number of vectors precision of the curves z y x curve
+1d로는 3d 세상의 이미지를 정확히 표현해낼 수 없다 하지만 쓰리디는 가능
