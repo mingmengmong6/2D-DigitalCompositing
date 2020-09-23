@@ -17,4 +17,10 @@ LUT는 영상에 직접적으로 적용되어, 보정단계를 훨씬 더 빠르
 - 샷이나 보정에서 스타일을 추가한다
 
 ### What uses LUTs? / 무엇이 LUT를 사용하는가?
-색을 조정할 수 있는 모든 프로그램에서 쓰인다 
+색을 조정할 수 있는 모든 프로그램에서 쓰인다 ex) Photoshop, Final cut, Premiere pro, etc
+
+Groundcontrol 에서 무료로 LUTS 다운 가능
+
+### LUT의 종류
+: calibration, transform, viewing, 1D and 3D.
+
