@@ -1,4 +1,7 @@
 # Week 3: What is LUT?
+
+![alt text](https://s.studiobinder.com/wp-content/uploads/2019/02/What-is-LUT-LUT-Color-Grading-Ridley-Scott-Film-LUTs-Pack.jpg)
+
 ## LUT(Look-up table)
   Look-Up Table(LUT)는 색상(hue), 채도(saturation), 명도(brightness)를수학적으로 정확하게 조정하여 촬영된 원본 이미지의 RGB값을 새로운 RGB값으로 만들어주는 방법이다.
 특정 계산의 바로 가기를 제공하는 미리 결정된 숫자의 배열을 설명하는 데 사용되는 용어로 컬러 그레이딩(Color Grading)에서 LUT는 색상 입력 값(카메라)을 원하는 출력 값(최종 영상)으로 변환한다.일반적으로 배열이나 연관 배열로 된 데이터 구조로, 런타임 계산을 더 단순한 배열 색인화 과정으로 대체하는 데 자주 쓰인다 자료를 다른 형태로 변환시키기 위한 컴퓨터 프로그램이 빠른 시간 내에 접근이 가능하도록 만들어졌다.
@@ -31,10 +34,6 @@ LUT는 영상에 직접적으로 적용되어, 보정단계를 훨씬 더 빠르
 
 #### 3D LUTS
 : 구체의 모양으로 색을 개별적으로 조정할 수 있다. 색상, 채도, 명도의 개별적인 축으로 보다 더 정확하게 특정 색상값을 조정하다. z, y, x축의 형태이다. 하지만 불변성을 가지고 있지 않다.
-
-
-![alt text](https://s.studiobinder.com/wp-content/uploads/2019/02/What-is-LUT-LUT-Color-Grading-Ridley-Scott-Film-LUTs-Pack.jpg)
-
 
 https://groundcontrolcolor.com 에서 LUT를 무료로 다운가능
 
