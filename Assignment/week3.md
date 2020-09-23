@@ -33,4 +33,4 @@ Groundcontrol 에서 무료로 LUTS 다운 가능
 
 #### 3D LUTS
 : 구체의 모양으로 색을 개별적으로 조정할 수 있다. 색상, 채도, 명도의 개별적인 축으로 보다 더 정확하게 특정 색상값을 조정하다. z, y, x축의 형태이다. 하지만 불변성을 가지고 있지 않다.
-![alt text] https://s.studiobinder.com/wp-content/uploads/2019/02/What-is-LUT-LUT-Color-Grading-Ridley-Scott-Film-LUTs-Pack.jpg
+![alt text](https://s.studiobinder.com/wp-content/uploads/2019/02/What-is-LUT-LUT-Color-Grading-Ridley-Scott-Film-LUTs-Pack.jpg)
