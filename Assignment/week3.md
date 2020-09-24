@@ -31,11 +31,18 @@ LUT는 영상에 직접적으로 적용되어, 보정단계를 훨씬 더 빠르
 
 #### 1D LUTS
 : 한 가지 설정 값으로 조정되는 단순한 색보정 방법이다. 직선의 형태이다. 하지만 3d의 이미지의 색상을 정확히 표현해 낼 수는 없다. 하지만 불변성을 갖고 있다.
+- 출력 값에 대한 모든 입력 값을 가져야 한다. 입력 값은 해당 한계 내에서 정확하며 보간이 필요하지 않다.
+- 밝기/대비/감마 변화에 유용하다.
+- 세 가지 기본(RGB) 사이에 필요한 상호 작용이 없는 경우 색상 수정에 사용할 수 있다.
+- 기본 색상 등급 지정 및 표준 색상 공간 간 변환(예: Rec.709에서 sRGB로, Rec.2020에서 Rec.709로)에 주로 유용하다.
 
 ![alt text](https://cdn.serif.com/spotlight/content/qty/8x9/hl4/1d-lut-graph--article-lg@2x.jpg)
 
 #### 3D LUTS
 : 구체의 모양으로 색을 개별적으로 조정할 수 있다. 색상, 채도, 명도의 개별적인 축으로 보다 더 정확하게 특정 색상값을 조정하다. z, y, x축의 형태이다. 하지만 불변성을 가지고 있지 않다.
+- 색상 값이 서로 상대적으로 변경될 수 있기 때문에 게이머트 변경, 포화 및 채널 혼합과 같은 복잡한 작업을 처리 가능. 색깔 또한 완전히 바뀔 수 있다(파란색 -> 초록색, 반대로 초록색이 될 수도 있다).
+- 3D 공간의 모든 포인트에 대해 입력 및 출력 값을 생성하면 파일 크기가 비싸기 때문에 interplation이 필요하다. interpolation 여부는 소프트웨어에 달려 있다.
+- 색상 값이 예측 불가능하고 다양한 카메라 색상 공간과 사이를 변환하는 데 이상적
 ![alt text](https://cdn.serif.com/spotlight/content/cqf/xns/yfx/3d-cube-right--article-sm@2x.jpg)
 
 ![alt text](https://cdn.serif.com/spotlight/content/xlp/n5x/swz/3d-point-cloud--article-sm@2x.jpg)
@@ -46,6 +53,7 @@ https://groundcontrolcolor.com 에서 LUT를 무료로 다운가능
 
 출처
 https://www.studiobinder.com/blog/what-is-lut/
+https://affinityspotlight.com/article/1d-vs-3d-luts/
 
 
 # 3. What is Logspace?
