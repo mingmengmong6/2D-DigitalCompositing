@@ -32,11 +32,15 @@ LUT는 영상에 직접적으로 적용되어, 보정단계를 훨씬 더 빠르
 #### 1D LUTS
 : 한 가지 설정 값으로 조정되는 단순한 색보정 방법이다. 직선의 형태이다. 하지만 3d의 이미지의 색상을 정확히 표현해 낼 수는 없다. 하지만 불변성을 갖고 있다.
 
+![alt text](https://cdn.serif.com/spotlight/content/qty/8x9/hl4/1d-lut-graph--article-lg@2x.jpg)
+
 #### 3D LUTS
 : 구체의 모양으로 색을 개별적으로 조정할 수 있다. 색상, 채도, 명도의 개별적인 축으로 보다 더 정확하게 특정 색상값을 조정하다. z, y, x축의 형태이다. 하지만 불변성을 가지고 있지 않다.
+![alt text](https://cdn.serif.com/spotlight/content/cqf/xns/yfx/3d-cube-right--article-sm@2x.jpg)
+
+![alt text](https://cdn.serif.com/spotlight/content/xlp/n5x/swz/3d-point-cloud--article-sm@2x.jpg)
 
 ![alt text](https://noamkroll.com/wp-content/uploads/2020/06/How-To-Apply-Color-Grading-LUTs-Professionally-My-Workflow-Explained.jpg)
-![alt text](https://support.d-imaging.sony.co.jp/support/ilc/movie/share/images/grading/S-Log_pct_11.jpg)
 
 https://groundcontrolcolor.com 에서 LUT를 무료로 다운가능
 
