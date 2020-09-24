@@ -68,7 +68,7 @@ y = logspace(a,b)는 10^a와 10^b 사이의 50개의 로그 간격 점의 행 �
 y = 로그스페이스(a,b,n)는 10^a와 10^b 사이에 n개의 포인트를 생성한다.
 
 y = 로그스페이스(a,pi)는 10^a와 pi 사이의 포인트를 생성하며, 이 간격에 걸친 주파수가 단위 원을 도는 디지털 신호 처리에 유용하다.
-## What is the main difference with sRGB, why and when we use?
+
 ### Log and Color Space in Compositing
 #### Log footage는 포스트 프로덕션 워크플로우에서 중요한 부분이다.
 디지털 영화 제작이 점점 더 저렴해짐에 따라, 기술은 컬러리스트나 제작 후 전문가들에게 점점 더 많이 보급되고 있다. 이 경우, Log color space는 꽤 오래전부터 존재해왔다. 처음에 high end post houses들은 그것을 cineon log(시네온 로그)라고 불리는 color space에서 스캔한 film negatives와 함께 사용했다. 현재 거의 모든 카메라 제조업체는 자체 로그 곡선(또는 다중 로그)을 제공한다. S-Log 2&3(소니), LogC(아리), 캐논 로그, V-Log(파나소닉), 레드 로그필름, 블랙매직 로그 등이 있다. 이들 각각은 서로 다르며, 대개 특정 제조업체 제품의 색 과학에 맞게 조정된다.
@@ -86,4 +86,7 @@ y = 로그스페이스(a,pi)는 10^a와 pi 사이의 포인트를 생성하며, 
 
 우리의 눈은 정확한 휘도 값과 색을 다르게 보고 밝고 어두운 영역에서 더 자세한 것을 볼 수 있기 때문에, 이것은 어떤 부분에서는 매우 어둡고 질퍽하게 보일 것이고 다른 부분에서는 지나치게 노출될 것이다. 따라서 우리는 색 정보를 좀 더 미적으로 보기 위해 다른 색 공간을 적용해야 하고, 디스플레이와 모니터의 색 값을 표준화해야 한다.
 
-
+## What is the main difference with sRGB, why and when we use?
+### Linear vs. sRGB
+#### Linear color-space
+직선 color space에서, 저장된 숫자와 그것들이 나타내는 값 사이의 관계는 직선 1:1 비율이다. 예를 들어 숫자를 두 배로 늘리면 강도가 두 배가 된다는 것을 의미한다.
