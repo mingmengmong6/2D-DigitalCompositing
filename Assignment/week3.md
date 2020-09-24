@@ -135,7 +135,7 @@ Tip: under View>Proof Setup, CTRL+Y를 누르면 색상 값를 빠르게 설정�
 - Nuke 변환: 만약 Nuke에 접근할 수 있다면, 그 안에 ref를 가지고 와서 적절한 color space에 그것들을 쉽게 출력할 수 있다. 이 과정은 심지어 스크립트의 도움으로 자동화될 수 있고, 또한 가장 정확하다
 
 3. Converting back to linear
-3. 다시 선형으로 변환
+
 앞서 살펴본 바와 같이, compositing, lighting, lookdev와 같은 다른 모든 CG workflow/pipelines들은 직선 공간 처리를 기반으로 한다. 우리는 로그 공간만을 이용해서 우리가 쉽게 사용하고 있지만, 페인팅을 완성하고 나면 32비트 직선으로 다시 변환해서 다른 단계에서 사용할 수 있도록 해야 한다.
 가장 쉬운 방법은 Nuke에서 변환을 하는 것이지만, 스튜디오마다 자체 변환 툴이 있으니 먼저 확인하자.
 
