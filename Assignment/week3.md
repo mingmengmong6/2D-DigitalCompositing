@@ -42,4 +42,14 @@ https://www.studiobinder.com/blog/what-is-lut/
 
 
 # 3. What is Logspace?
-## what is the main difference with sRGB, why and when we use?
+## What is the main difference with sRGB, why and when we use?
+
+: Generate logarithmically spaced vectors
+
+로그공간 함수는 로그 간격 벡터를 생성한다. 특히 주파수 벡터 생성에 유용하며, linspace와 ":" 또는 콜론 연산자와 동등한 로그 값이다.
+
+y = logspace(a,b)는 10^a와 10^b 사이의 50개의 로그 간격 점의 행 벡터 y를 생성한다.
+
+y = 로그스페이스(a,b,n)는 10^a와 10^b 사이에 n개의 포인트를 생성한다.
+
+y = 로그스페이스(a,pi)는 10^a와 pi 사이의 포인트를 생성하며, 이 간격에 걸친 주파수가 단위 원을 도는 디지털 신호 처리에 유용하다.
