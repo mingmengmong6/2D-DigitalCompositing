@@ -88,5 +88,15 @@ y = 로그스페이스(a,pi)는 10^a와 pi 사이의 포인트를 생성하며, 
 
 ## What is the main difference with sRGB, why and when we use?
 ### Linear vs. sRGB
-#### Linear color-space
-직선 color space에서, 저장된 숫자와 그것들이 나타내는 값 사이의 관계는 직선 1:1 비율이다. 예를 들어 숫자를 두 배로 늘리면 강도가 두 배가 된다는 것을 의미한다.
+직선 color space에서, 저장된 숫자와 그것들이 나타내는 값 사이의 관계는 직선 1:1 비율이다. 예를 들어 숫자를 두 배로 늘리면 강도가 두 배가 된다는 것을 의미한다. 그것은 쉬워보이지만, 문제는 빛에 대한 인간의 눈 감도가 높은 강도보다 낮은 강도에서는 훨씬 더 미세하다는 것이다. 특히 값을 나타내기 위해 8비트를 사용한다면(총 256개의 음영), 너무 많은 밝은 음영을 사용하게 되고, 충분히 어두운 그림자를 갖지 못한다. (그림 1).
+그러므로 linear 공간은 컴퓨터 프로세싱에 사용하기에 완벽하지만 우리의 눈은 같은 간격의 밝기 변화를 거의 같은 간격으로 볼 것으로 예상하기 때문에 인간의 시야에 적합하지 않다. 예를 들어, 우리의 뇌는 그늘이 16보다 두 배, 그늘이 48 (32+16과 같은)이 32보다 두 배 밝기를 기대한다. 이 문제를 해결하기 위해 대부분의 최신 모니터는 sRGB의 변환을 적용하는데, 감마선을 사용하여 색상을 비직선적으로 만드는 표준이다(그림 2). 곡선은 아래쪽보다 얕아서 어두운 값을 더 많이 표시할 수 있고, 위쪽에 더 가파르게 표시할 수 있어 더 적은 빛의 값을 가질 수 있다.
+
+![alt text](https://cdnb.artstation.com/p/media_assets/images/images/000/394/819/medium/image00.jpg?1552184196)
+
+![alt text](https://cdna.artstation.com/p/media_assets/images/images/000/394/820/large/image02.jpg?1552184260)
+
+
+출처 
+https://www.rocketstock.com/blog/tips-for-log-color-space-compositing/
+
+https://www.artstation.com/tiberius-viris/blog/3ZBO/color-space-management-srgb-linear-and-log
