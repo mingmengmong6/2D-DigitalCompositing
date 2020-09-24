@@ -109,7 +109,13 @@ y = 로그스페이스(a,pi)는 10^a와 pi 사이의 포인트를 생성하며, 
 ![alt text](https://cdnb.artstation.com/p/media_assets/images/images/000/185/191/medium/comparison2.jpg?1516129275)
 
  포토샵 툴은 8비트 또는 16비트 모드에서만 제대로 작동하기 때문에 32비트 형식으로 이용 가능하거나 대부분의 정보를 유지하는 그런 모드에서 그림을 그릴 수 있는 방법을 찾아야 한다. 
- #### 그래서 로그를 사용한다.
+ #### So, this is why Log exists 그래서 로그가 존재한다!
+ 
+ #### Log (short for logarithmic)
+로그는 color space "archiver"로 생각할 수 있다(zip 또는 rar의 파일과 같은 방식). 이는 직선 공간은 동일한 단계로 값을 증가시키지만 Log color space은 이미지의 흰색과 검은색 영역에 있는 값을 압축하여 정보를 저장하는 데 필요한 공간을 최소화하기 때문이다[그림 4].
+
+[그림 4]
+![alt text](https://cdnb.artstation.com/p/media_assets/images/images/000/394/821/medium/image01.jpg?1552184324)
 
 출처 
 https://www.rocketstock.com/blog/tips-for-log-color-space-compositing/
