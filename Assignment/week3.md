@@ -58,9 +58,8 @@ https://affinityspotlight.com/article/1d-vs-3d-luts/
 
 
 # 3. What is Logspace?
-## What is the main difference with sRGB, why and when we use?
 
-: Generate logarithmically spaced vectors
+Logspace: Generate logarithmically spaced vectors
 
 로그공간 함수는 로그 간격 벡터를 생성한다. 특히 주파수 벡터 생성에 유용하며, linspace와 ":" 또는 콜론 연산자와 동등한 로그 값이다.
 
@@ -69,11 +68,7 @@ y = logspace(a,b)는 10^a와 10^b 사이의 50개의 로그 간격 점의 행 �
 y = 로그스페이스(a,b,n)는 10^a와 10^b 사이에 n개의 포인트를 생성한다.
 
 y = 로그스페이스(a,pi)는 10^a와 pi 사이의 포인트를 생성하며, 이 간격에 걸친 주파수가 단위 원을 도는 디지털 신호 처리에 유용하다.
-
-### Log space reduction
-
-A log-space reduction은 A타입의 문제를 매우 적은 메모리를 사용하는 B타입의 문제로 변환시키는 알고리즘이다. 간단한 예시로는 계산 로그/초과로 곱셈을 줄이는 것이다. 문제 A를 문제 B로 줄이고 싶은 이유는 우리가 문제 B를 해결하는 방법을 알고 있기 때문에 이를 문제 A를 해결하는데 사용하고 싶기 때문이다. A 문제가 어렵다고 믿기 때문에, 만약 우리가 A 문제를 B 문제로 축소 된다면, B 문제가 적어도 A만큼 어렵다는 것을 의미한다. 인접한 두 노드가 동일한 색상이 되지 않도록 3가지 색상으로 그래프의 노드를 효율적으로 칠할 수 있다면, 한 묶음의 무게를 같은 무게의 두 세트로 효율적으로 나눌 수도 있다.
-
+## What is the main difference with sRGB, why and when we use?
 ### Log and Color Space in Compositing
 #### Log footage는 포스트 프로덕션 워크플로우에서 중요한 부분이다.
 디지털 영화 제작이 점점 더 저렴해짐에 따라, 기술은 컬러리스트나 제작 후 전문가들에게 점점 더 많이 보급되고 있다. 이 경우, Log color space는 꽤 오래전부터 존재해왔다. 처음에 high end post houses들은 그것을 cineon log(시네온 로그)라고 불리는 color space에서 스캔한 film negatives와 함께 사용했다. 현재 거의 모든 카메라 제조업체는 자체 로그 곡선(또는 다중 로그)을 제공한다. S-Log 2&3(소니), LogC(아리), 캐논 로그, V-Log(파나소닉), 레드 로그필름, 블랙매직 로그 등이 있다. 이들 각각은 서로 다르며, 대개 특정 제조업체 제품의 색 과학에 맞게 조정된다.
