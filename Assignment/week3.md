@@ -35,6 +35,9 @@ LUT는 영상에 직접적으로 적용되어, 보정단계를 훨씬 더 빠르
 #### 3D LUTS
 : 구체의 모양으로 색을 개별적으로 조정할 수 있다. 색상, 채도, 명도의 개별적인 축으로 보다 더 정확하게 특정 색상값을 조정하다. z, y, x축의 형태이다. 하지만 불변성을 가지고 있지 않다.
 
+![alt text](https://noamkroll.com/wp-content/uploads/2020/06/How-To-Apply-Color-Grading-LUTs-Professionally-My-Workflow-Explained.jpg)
+![alt text](https://support.d-imaging.sony.co.jp/support/ilc/movie/share/images/grading/S-Log_pct_11.jpg)
+
 https://groundcontrolcolor.com 에서 LUT를 무료로 다운가능
 
 출처
@@ -56,4 +59,6 @@ y = 로그스페이스(a,pi)는 10^a와 pi 사이의 포인트를 생성하며, 
 
 ### Log space reduction
 
-TL;DR: A log-space reduction은 A타입의 문제를 매우 적은 메모리를 사용하는 B타입의 문제로 변환시키는 알고리즘이다. 간단한 예시로는 계산 로그/초과로 곱셈을 줄이는 것이다:
+A log-space reduction은 A타입의 문제를 매우 적은 메모리를 사용하는 B타입의 문제로 변환시키는 알고리즘이다. 간단한 예시로는 계산 로그/초과로 곱셈을 줄이는 것이다. 문제 A를 문제 B로 줄이고 싶은 이유는 우리가 문제 B를 해결하는 방법을 알고 있기 때문에 이를 문제 A를 해결하는데 사용하고 싶기 때문이다. A 문제가 어렵다고 믿기 때문에, 만약 우리가 A 문제를 B 문제로 축소 된다면, B 문제가 적어도 A만큼 어렵다는 것을 의미한다. 인접한 두 노드가 동일한 색상이 되지 않도록 3가지 색상으로 그래프의 노드를 효율적으로 칠할 수 있다면, 한 묶음의 무게를 같은 무게의 두 세트로 효율적으로 나눌 수도 있다.
+
+로그 계산은 다음을 포함한다.
