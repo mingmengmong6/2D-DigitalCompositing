@@ -117,6 +117,29 @@ y = 로그스페이스(a,pi)는 10^a와 pi 사이의 포인트를 생성하며, 
 [그림 4]
 ![alt text](https://cdnb.artstation.com/p/media_assets/images/images/000/394/821/medium/image01.jpg?1552184324)
 
+### Log Painting Workflow for Matte Painting / 매트 페인팅을 위한 로그 페인팅 워크플로우
+로그 플레이트를 직선의 값으로 변경했든 간에 정확한 페인팅을 위해 우리는 색 조정을 해야한다.
+
+1. Displaying the log material with the target LUT
+
+"log" 이미지는 큰 다이나믹 range를 나타내기 때문에 대부분의 중간톤 픽셀은 coding space의 중간 부분에 위치한다. 따라서 일반 sRGB 모니터에 'log' 영상을 직접 표시하면 대비가 약하고 불포화도가 낮은 색상으로 나타나므로 올바른 색의 플레이트를 미리 보기 위해서는 색 조정이 필요하다. 포토샵에서 이것을 하는 방법은 Log 이미지의 색과 값을 타겟 프로파일처럼 보이게 하기 위해 소프트웨어에 톤 맵을 하는 LUT를 기반으로 한 'Color Proof' 미리보기를 적용하는 것이다. 이 디스플레이 변환은 이미지에 구운 것이 아니며 color space를 보존하려는 것이므로 미리 보기만 유효하다.
+Tip: under View>Proof Setup, CTRL+Y를 누르면 색상 값를 빠르게 설정하거나 해제할 수 있다. 특히 어둠 값에서.
+
+2. Converting reference images to the log color space
+
+매트 페인터들은 보통  photo refs를 갖고 공간을 만든다. 문제는 같은 카메라에서 만들어지지 않는 한 일반적으로 8비트 sRGB로 다른 포맷으로 만들어질 가능성이 매우 높다. 플레이트를 보존하고 우리에게 제공된 것과 같은 공간에서 페인팅을 전달할 생각이므로 레퍼런스를 사용하기 전에 변환해야 한다. 이것의 3가지 방법이 있다.(점점 더 좋은 순)
+- 조정 레이어: 눈이 매우 예리한 경우 로그 공간에 대한 레퍼런스를 일치시키기 위해 Curves, Hue/Saturation and/or Color Balance과 같은 조정 레이어와 매치 해야한다. 그렇게 하는 동안, 당신은 모든 레벨이 일치하는지 확인하면서 color proofing을 끄고 플레이트의 raw, 낮은 대비를 보아 모든 값을 일치시켜야 한다.
+
+- Photoshop 변환: 컬러 조회 조정 레이어를 사용하고 3D LUT 파일을 불러와 포토샵에서 직접 레퍼런스를 변환할 수 있다. 그러나 이 방법은 정확한 LUT 파일을 제공하는 데 의존하며 오류가 발생하기 쉬우므로 변환 후 모든 항목을 확인해야 한다.
+
+- Nuke 변환: 만약 Nuke에 접근할 수 있다면, 그 안에 ref를 가지고 와서 적절한 color space에 그것들을 쉽게 출력할 수 있다. 이 과정은 심지어 스크립트의 도움으로 자동화될 수 있고, 또한 가장 정확하다
+
+3. Converting back to linear
+3. 다시 선형으로 변환
+앞서 살펴본 바와 같이, compositing, lighting, lookdev와 같은 다른 모든 CG workflow/pipelines들은 직선 공간 처리를 기반으로 한다. 우리는 로그 공간만을 이용해서 우리가 쉽게 사용하고 있지만, 페인팅을 완성하고 나면 32비트 직선으로 다시 변환해서 다른 단계에서 사용할 수 있도록 해야 한다.
+가장 쉬운 방법은 Nuke에서 변환을 하는 것이지만, 스튜디오마다 자체 변환 툴이 있으니 먼저 확인하자.
+
+
 출처 
 https://www.rocketstock.com/blog/tips-for-log-color-space-compositing/
 
