@@ -4,19 +4,23 @@
 색 공간(color space)는 색 표시계(color system)를 3차원으로 표시한 공간개념이다. 색의 3속성인 색상, 명도, 채도를 3차원 공간에서 각각의 축으로 형성하도록 하고 있다.
 
 - RGB 색 공간
+
 웹 색상 표현의 기본 원리. 색을 혼합하면 명도가 올라가는 가산 혼합 방식으로 색을 표현한다.(RG 가산 혼합의 3원색: 빨강, 녹색, 파랑) RGB 색 공간은 삼원색의 해당하는 세 가지 채널의 밝기를 기준으로 색을 지정한다.
 ![alt text](https://www.researchgate.net/profile/Sanjay_Antony-Babu/publication/40768762/figure/fig1/AS:601637223690242@1520452900835/Colour-space-cube-representation-of-colour-space-with-red-green-and-blue-colour.png)
 
 - CMYK 색 공간
+
 인쇄과정에서 쓰이는 감산혼합 방식. 흰 바탕에 네가지 잉크의 조합으로 색을 나타내는 것을 말한다. 색을 혼합하면 명도가 낮아지기에 감산 혼합이라고 한다. 4가지 색: 옥색(cyan), 자청색(magenta), 노랑(yellow), 검정(black)
 
 ![alt text](https://i.pinimg.com/originals/fc/40/1e/fc401eb9ddb361415c66445074cf8fc1.jpg)
 
 - HSV 색 공간
+
 색상(), 채도(), 명도()를 기준으로 색을 구성하는 방식. 감산 혼합이나 가산 혼합보다 색상의 지정이 직관적이기 때문에 시각예술에서 자주 쓰인다.
 ![alt text](https://i1.wp.com/www.loopandbreak.com/wp-content/uploads/2013/08/untitled9.jpg?resize=350%2C350)
 
 - CIE 색 공간
+
 컬러 매칭 실험을 통하여 생성된 R, G, B 데이터를 바탕으로 만들어진 CIEXYZ 색 공간과 CIELAB 색 공간 그리고 CIEXYZ 색 공간이 대표적인 색 공간이다. 여기서 CIEXYZ 색 공간은 '균등 색 공간'이 아니어서 이를 수직적으로 변환하여 만들어진 것이 CIELAB 색 공간과 CIEXYZ 색 공간이다.
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/CIE1931xy_blank.svg/300px-CIE1931xy_blank.svg.png)
 
