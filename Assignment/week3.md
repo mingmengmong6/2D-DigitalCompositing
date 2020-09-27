@@ -1,11 +1,12 @@
 # Week 3
 # 1. Color space and Gamma
-## What is Color space?
+## Color space?
 색 공간(color space)는 색 표시계(color system)를 3차원으로 표시한 공간개념이다. 색의 3속성인 색상, 명도, 채도를 3차원 공간에서 각각의 축으로 형성하도록 하고 있다.
 
 - RGB 색 공간
 
 웹 색상 표현의 기본 원리. 색을 혼합하면 명도가 올라가는 가산 혼합 방식으로 색을 표현한다.(RG 가산 혼합의 3원색: 빨강, 녹색, 파랑) RGB 색 공간은 삼원색의 해당하는 세 가지 채널의 밝기를 기준으로 색을 지정한다.
+
 ![alt text](https://www.researchgate.net/profile/Sanjay_Antony-Babu/publication/40768762/figure/fig1/AS:601637223690242@1520452900835/Colour-space-cube-representation-of-colour-space-with-red-green-and-blue-colour.png)
 
 - CMYK 색 공간
@@ -23,6 +24,10 @@
 
 컬러 매칭 실험을 통하여 생성된 R, G, B 데이터를 바탕으로 만들어진 CIEXYZ 색 공간과 CIELAB 색 공간 그리고 CIEXYZ 색 공간이 대표적인 색 공간이다. 여기서 CIEXYZ 색 공간은 '균등 색 공간'이 아니어서 이를 수직적으로 변환하여 만들어진 것이 CIELAB 색 공간과 CIEXYZ 색 공간이다.
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/CIE1931xy_blank.svg/300px-CIE1931xy_blank.svg.png)
+## Gamma
+감마 보정(감마 교정)은 비디오 카메라, 컴퓨터 그래픽 등에서 비선형 전달 함수(nonlinear transfer function)를 사용하여 빛의 강도(intensity) 신호를 비선형적으로 변형하는 것
+
+감광 재료의 콘트라스트 상태를 나타내는 척도로 농도 변화 및 노광량의 변화를 수치로 나타낸 것
 
 # 2. What is LUT?
 
