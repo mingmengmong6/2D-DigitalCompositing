@@ -1,4 +1,7 @@
-# Week 3: What is LUT?
+# Week 3: 1. Color space and Gamma
+## What is Color space?
+색 공간(color space)는 색 표시계(color system)를 3차원으로 표시한 공간개념이다. 색의 3속성인 색상, 명도, 채도를 3차원 공간에서 각각의 축으로 형성하도록 하고 있다.
+# What is LUT?
 
 ![alt text](https://s.studiobinder.com/wp-content/uploads/2019/02/What-is-LUT-LUT-Color-Grading-Ridley-Scott-Film-LUTs-Pack.jpg)
 
