@@ -1,6 +1,6 @@
 # Week 3
 # 1. Color space and Gamma
-## Color space?
+## Color space
 색 공간(color space)는 색 표시계(color system)를 3차원으로 표시한 공간개념이다. 색의 3속성인 색상, 명도, 채도를 3차원 공간에서 각각의 축으로 형성하도록 하고 있다.
 
 - RGB 색 공간
@@ -24,10 +24,32 @@
 
 컬러 매칭 실험을 통하여 생성된 R, G, B 데이터를 바탕으로 만들어진 CIEXYZ 색 공간과 CIELAB 색 공간 그리고 CIEXYZ 색 공간이 대표적인 색 공간이다. 여기서 CIEXYZ 색 공간은 '균등 색 공간'이 아니어서 이를 수직적으로 변환하여 만들어진 것이 CIELAB 색 공간과 CIEXYZ 색 공간이다.
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/CIE1931xy_blank.svg/300px-CIE1931xy_blank.svg.png)
-## Gamma
-감마 보정(감마 교정)은 비디오 카메라, 컴퓨터 그래픽 등에서 비선형 전달 함수(nonlinear transfer function)를 사용하여 빛의 강도(intensity) 신호를 비선형적으로 변형하는 것
+## Gamma/ Linear workflow
+감마 보정(감마 교정)은 비디오 카메라, 컴퓨터 그래픽 등에서 비선형 전달 함수(nonlinear transfer function)를 사용하여 빛의 강도(intensity) 신호를 비선형적으로 변형하는 것,
+감광 재료의 콘트라스트 상태를 나타내는 척도로 농도 변화 및 노광량의 변화를 수치로 나타낸 것,  35mm 필름에서는 0.6이 표준이며 이보다 높으면 콘트라스트가 큰 경조, 이보다 낮으면 콘트라스트가 약한 연조이다. 동일한 감광 재료로 노광 및 현상 조건을 일정하게 하면 일정한 감마치를 얻을 수 있으며 현상 데이터의 기준으로 이용된다. 감마는 필름 고유의 특성에 의해 좌우되나 현상에 의한 조절도 가능하다. 현상 시간과 온도를 크게 하면 감마를 상승시킬 수 있다
 
-감광 재료의 콘트라스트 상태를 나타내는 척도로 농도 변화 및 노광량의 변화를 수치로 나타낸 것
+![alt text](https://japanistry-yvxqriqk.netdna-ssl.com/wp-content/uploads/2017/09/Gamma-Signal-v01.jpg)
+
+실제 세상의 빛은 linear로 작용, 우리가 보는 빛의 양은 광원들의 빛의 양을 합친 값이다. 즉, 실제 세상에서는 input이 output과 일정, 동등하다. 이를 linear라고 한다
+
+![alt text](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbbgqoR%2FbtqtYsBUPhQ%2FKqxpfoRYebKGOQlX3a9H0k%2Fimg.jpg)
+
+하지만 모니터에서는 이와 다르게 아래 그래프처럼 표시한다.
+모니터가 이미지를 표현하기 위해서는 전압이 공급(input)되고, 모니터는 이를 빛의 정도로 환산해서 이미지(output)로 표현한다. 하지만 컴퓨터 모니터는 우리의 눈이 받아들일 수 있는 빛의 양을 표현할 방법이 없기 때문에 컴퓨터는 눈에 보이는 것과 유사하게 표시한다. 이를 color space라고 부른다
+![alt text](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FGRrao%2Fbtqt0tMXZlA%2F7rH1Raq1Q6rmKCHcKuZOz1%2Fimg.jpg)
+
+모니터가 가장 많이 사용하는 color space는 sRGB(non-linear, 8bit, gamma 2.2) 안에서 이뤄진다. sRGB안에서는 gamma correction이라는 것이 작용하는데, 이는 우리가 본 luminance값을 비디오나 사진에서 암호화, 해독하던 방식을 말한다.
+그래서 이를 다시 linear로 바로잡기 위해 의도적으로 수치값을 대입한다. 이 수치를 gamma라고 한다.
+
+![alt text](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FkI5tJ%2FbtqtYLHZ3Gs%2Fet3rchG3M94RLRGvnd0Mek%2Fimg.jpg)
+
+### 3d 프로그램에서 Gamma의 작용
+HDR을 제외한 텍스쳐 이미지들이나 컬러 피커가 스크린에서 바르게 보일 수 있는 이유는 감마값이 미리 적용되어 있기 때문이다. 하지만 렌더 엔진들은 linear에서 작용하고 있다. 그렇기 때문에 텍스쳐 이미지들의 gamma 수치를 없애지 않고 linear로 작용하는 엔진에서 렌더한다면 감마가 섞인 결과물이 나오게 될 것이다. 최종 결과물인 텍스쳐 이미지에는 감마가 두배로 적용이 되는 것이다. 내가 예상했던 이미지와 다른 결과물이 나오게 될 것이다.
+ 
+해결 방법
+
+텍스쳐 이미지들과 컬러피커에서 gamma 수치를 뺀 후 (렌더엔진과 동일한) linear로 렌더, 최종 결과물에서 gamma를 다시 대입한다.
+linear workflow는 씬 안의 모든 라이트, 텍스쳐, 머터리얼이 렌더할 때 같은 color space에서 존재함을 보장한다.
 
 # 2. What is LUT?
 
