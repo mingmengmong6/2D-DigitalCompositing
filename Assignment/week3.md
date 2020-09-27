@@ -9,7 +9,7 @@
 
 - CMYK 색 공간
 인쇄과정에서 쓰이는 감산혼합 방식. 흰 바탕에 네가지 잉크의 조합으로 색을 나타내는 것을 말한다. 색을 혼합하면 명도가 낮아지기에 감산 혼합이라고 한다. 4가지 색: 옥색(cyan), 자청색(magenta), 노랑(yellow), 검정(black)
-![alt text](https://upload.wikimedia.org/wikipedia/commons/d/db/CMYK-color_model.png)
+![alt text](https://i.pinimg.com/originals/fc/40/1e/fc401eb9ddb361415c66445074cf8fc1.jpg)
 
 - HSV 색 공간
 색상(), 채도(), 명도()를 기준으로 색을 구성하는 방식. 감산 혼합이나 가산 혼합보다 색상의 지정이 직관적이기 때문에 시각예술에서 자주 쓰인다.
