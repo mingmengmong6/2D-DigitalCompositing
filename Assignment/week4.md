@@ -23,9 +23,16 @@
 ## Sharpness contrast
 
 선명도를 높이며 질감이 증가하며 날카로워진다. 초점으로 이미지의 부드러움부터 날카로움까지 나타낼 수 있다. 짧은 초점 렌즈는 넓은 영역의 깊이를 만들어 내고 경향이 긴 초점 렌즈는 얕은 영역의 깊이를 생성한다.
+
 ![alt text](http://filmschoolonline.com/images/sample_light_focus.jpg)
+
+soft vs. sharp 
 
 ![alt text](https://pixelsandwanderlust-com.exactdn.com/wp-content/uploads/2019/04/sharpness0-e1555406784704.jpg?strip=all&lossy=1&w=648&ssl=1)
 낮은 선명도
 ![alt text](https://pixelsandwanderlust-com.exactdn.com/wp-content/uploads/2019/04/sharpness-e1555406711270.jpg?strip=all&lossy=1&w=648&ssl=1)
 높은 선명도
+
+![alt text](https://constructiveconsumption.files.wordpress.com/2014/02/master-phoenix-quell-portrait-photographer.png) <마스터(2012)>
+
+사진기와 배우를 제외한채 배경의 초점을 날려 부드럽게 만들었다.
