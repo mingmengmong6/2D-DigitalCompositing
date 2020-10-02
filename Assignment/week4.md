@@ -40,6 +40,6 @@ soft vs. sharp
 
 사진기와 배우를 제외한채 배경의 초점을 날려 부드럽게 만들었다.
 
-![alt text](https://cdn.collider.com/wp-content/uploads/2020/04/a-serious-man-goys-teeth.jpg)
+![alt text](https://cdn.collider.com/wp-content/uploads/2020/04/a-serious-man-goys-teeth.jpg)<시리어스 맨(2009)>
 
 의미가 담긴 부분에만 초점을 맞춤으로써 원하는 곳에 시선을 집중하게 만든다.
