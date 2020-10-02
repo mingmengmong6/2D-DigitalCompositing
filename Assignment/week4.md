@@ -4,11 +4,11 @@
 
 ![alt text](http://filmschoolonline.com/images/sample_light_contrast1.jpg)
 
-낮은 대비/ 강한 대비
+낮은 대비/강한 대비
 
 ![alt text](https://i.pinimg.com/originals/b3/07/0e/b3070e0dd0d20fb7fbe05340dbf3575d.jpg) <페이퍼맨(2012)>
 
-어두운 도시배경 종이비행기의 하얀색이 대비되어 돋보인다.
+어두운 도시배경과 종이비행기의 하얀색이 대비되어 돋보인다.
 
 ## Color contrast
 색의 대비
