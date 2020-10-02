@@ -1,6 +1,6 @@
 # Week 4: Value, Contrast, Sharpness
 ## Value contrast
-밝기의 대비: 순수 흰색과 검은색의 대비로 강할수록 관계가 명확히 드러난다.
+명도 대비: 순수 흰색과 검은색의 대비로 강할수록 관계가 명확히 드러난다.
 
 ![alt text](http://filmschoolonline.com/images/sample_light_contrast1.jpg)
 
@@ -8,7 +8,7 @@
 
 ![alt text](https://i.pinimg.com/originals/b3/07/0e/b3070e0dd0d20fb7fbe05340dbf3575d.jpg) <페이퍼맨(2012)>
 
-어두운 도시배경과 종이비행기의 하얀색이 대비되어 돋보인다.
+어두운 도시배경과 종이비행기의 하얀색의 명도가 대비되어 돋보인다.
 
 ## Color contrast
 색의 대비
