@@ -4,7 +4,7 @@
 
 ![alt text](http://filmschoolonline.com/images/sample_light_contrast1.jpg)
 
-낮은 대비/강한 대비
+Low contrast는 넓은 범위를 갖고 있어 우리 눈에게 부드럽게 보이며 High contrast는 좁은 범위를 갖고 있어 차이가 극명하게 보인다.
 
 ![alt text](https://i.pinimg.com/originals/b3/07/0e/b3070e0dd0d20fb7fbe05340dbf3575d.jpg) <페이퍼맨(2012)>
 
