@@ -34,16 +34,44 @@
 - 이야기의 변화를 보여준다
 
 ![alt text](https://s.studiobinder.com/wp-content/uploads/2016/09/2-How-to-Use-Color-in-Film-Example-of-Movie-Color-Palette-and-Schemes-Color-Theory-Film-Monochromatic-Complementary-Analogous-and-Triadic-min.png)
-
-- Red
-스크린에서 가장 강력한 색상, 특성: 공격성, 분노, 힘, 사랑
+#### Red
+공격성, 분노, 힘, 사랑, 열정
 ![alt text](https://pbblogassets.s3.amazonaws.com/uploads/2016/07/RED-Ex-Machina.jpg)
 불길한 영역으로 건너가는 순간에 붉은 빛이 강렬함을 주며, 중요한 일이 일어날 것임 알리는 신호 역할을 한다.
+![alt text](https://pbblogassets.s3.amazonaws.com/uploads/2016/07/Her-RED.jpg)
+사랑에 빠지려는 그의 감정을 나타낸다.
+#### Yellow
+행복, 안정, 질투, 배신, 순진
+![alt text](https://pbblogassets.s3.amazonaws.com/uploads/2016/07/Wes-anderson.jpg)
+![alt text](https://pbblogassets.s3.amazonaws.com/uploads/2016/07/Birdman-YELLOW.jpg)
+#### Green
+자연, 위험, 미숙, 불길, 어둠
+![alt text](https://pbblogassets.s3.amazonaws.com/uploads/2016/08/GREEN-Machinist.jpg)
+![alt text](https://pbblogassets.s3.amazonaws.com/uploads/2016/08/Gravity-GREEN.jpg)
 
+#### Blue
+차가움, 차분, 충성심, 우울, 수동적, 고립, 믿음
+![alt text](https://pbblogassets.s3.amazonaws.com/uploads/2016/07/Midnight-Special-Blue.jpg)
+![alt text](https://pbblogassets.s3.amazonaws.com/uploads/2016/07/BLUE-There-will-be-blood.jpg)
+![alt text](https://pbblogassets.s3.amazonaws.com/uploads/2016/07/Only-God-BLUE.jpg)
+
+#### Purple
+판타지, 천상, 에로티시즘, 애매함, 신비, 불길, 화려
+![alt text](https://pbblogassets.s3.amazonaws.com/uploads/2016/07/Lost-River-Purple.jpg)
+![alt text](https://pbblogassets.s3.amazonaws.com/uploads/2016/07/Guardians-PURPLE.jpg)
+#### Pink
+사랑, 로맨스, 달콤함, 공감, 장난기, 열정
+![alt text](https://pbblogassets.s3.amazonaws.com/uploads/2016/07/Grand-Buda.jpg)
+![alt text](https://pbblogassets.s3.amazonaws.com/uploads/2016/08/PINK-It-Follows.jpg)
+![alt text](https://pbblogassets.s3.amazonaws.com/uploads/2016/08/Scott-Pilgrim-Pink.jpg)
+![alt text]()
+![alt text]()
 출처
 https://www.studiobinder.com/blog/depth-of-field/
 
 https://www.studiobinder.com/blog/low-angle-shot-camera-movement-angle/
 
 https://www.studiobinder.com/blog/rules-of-shot-composition-in-film/
+
+https://www.premiumbeat.com/blog/manipulate-emotions-with-color-in-film/
 
