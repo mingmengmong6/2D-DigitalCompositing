@@ -7,15 +7,18 @@
 
 ### Rule of third / 3등분의 법칙
 3등분의 법칙은 프레임의 상하, 좌우를 가상의 선으로 삼등분한 뒤 피사체를 가상선상이나 화면의 인상적인 포인트를 세 개의 가상선이 만나는 네 개의 꼭짓점 위에 위치시키는 것을 말한다. 영화나 사진에 사용되는 가장 일반적인 카메라 프레임 기법 중 하나로, 캐릭터가 다른 요소와의 관계를 보여줄 수 있도록 배치하는 것이다.
+
 ![alt text](https://s.studiobinder.com/wp-content/uploads/2019/04/Rules-of-Shot-Composition-Rule-of-Thirds-Grid-min.jpg)
 
 ### Symmetry / 좌우대칭
 시선을 화면 중앙으로 이끌어 이야기를 전달하며 관객을 압도하는 효과를 준다
+
 ![alt text](https://s.studiobinder.com/wp-content/uploads/2019/04/Rules-of-Shot-Composition-Balance-and-Symmetry-Wes-min.jpg)
 ![alt text](https://s.studiobinder.com/wp-content/uploads/2019/04/Rules-of-Shot-Composition-Balance-and-Symmetry-min.jpg)
 
 ## Patterns
 씬과 프레임을 구성하는데 다양한 분위기를 전달할 수 있는 효과적인 요소이다. 
+
 ![alt text](https://external-preview.redd.it/AfzseaSJOcOmPGFqbm5q_qGliHDh9Z9rTc7aRtainXY.jpg?auto=webp&s=f3041b284c2d10ade960e3a1f7c2ea1dc5b3747e)
 ![alt text](https://www.readersnews.com/news/photo/201912/96921_62339_244.jpg)
 ![alt text](https://www.wickedhorror.com/wp-content/uploads/2019/08/cube.jpg)
@@ -23,9 +26,13 @@
 ## Depth
 
 피사체 심도(Depth of field)란 어느 정도까지 이미지가 선명하게 나타나는지에 대한 사이즈이다.
+
 ![alt text](https://s.studiobinder.com/wp-content/uploads/2018/11/Depth-of-Field-Diagram-Select-Focus-StudioBinder.png)
+
 초점의 깊이는 날카로움의 영역이다. 더 많은 물체를 포커스로 가져오면서 그 깊이감을 더 길게 만든다면 더 넓은 영역의 깊이가 생긴다.
+
 ![alt text](https://s.studiobinder.com/wp-content/uploads/2019/04/Rules-of-Shot-Composition-depth-of-field-1024x660-min.jpg)
+
 더 큰 깊이감은 더 많은 물체에게 초점이 생긴다. 얕은 depth는 대상과 주변 물체를 분리할 수 있다. 
 ## Color
 영화에서 색은 이미지를 화려하고, 역동적이고, 아름답게 만든다. 그리고 시각적 스토리텔링(Visual storytelling)을 위한 2차적인 이유가 있다. 색은 미장센의 큰 부분을 차지하며 우리가 프레임에서 보는 모든 것의 전체적인 효과다. 색은 우리가 의식하지 않아도 정서적으로, 심리적으로 그리고 심지어 신체적으로 우리에게 영향을 줄 수 있다.
