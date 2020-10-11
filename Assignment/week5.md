@@ -7,7 +7,6 @@
 ![alt text](https://s.studiobinder.com/wp-content/uploads/2019/04/Rules-of-Shot-Composition-Rule-of-Thirds-Grid-min.jpg)
 
 ### Symmetry / 좌우대칭
-시선을 화면 중앙으로 이끌어 이야기를 전달하며 관객들은 압도된다.
-![alt text](https://s.studiobinder.com/wp-content/uploads/2019/04/Rules-of-Shot-Composition-Balance-and-Symmetry-min.jpg)
-
+시선을 화면 중앙으로 이끌어 이야기를 전달하며 관객을 압도하는 효과를 준다
+![alt text](https://s.studiobinder.com/wp-content/uploads/2019/04/Rules-of-Shot-Composition-Balance-and-Symmetry-Wes-min.jpg)
 ![alt text](https://s.studiobinder.com/wp-content/uploads/2019/04/Rules-of-Shot-Composition-Balance-and-Symmetry-min.jpg)
