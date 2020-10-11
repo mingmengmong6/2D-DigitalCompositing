@@ -10,3 +10,10 @@
 시선을 화면 중앙으로 이끌어 이야기를 전달하며 관객을 압도하는 효과를 준다
 ![alt text](https://s.studiobinder.com/wp-content/uploads/2019/04/Rules-of-Shot-Composition-Balance-and-Symmetry-Wes-min.jpg)
 ![alt text](https://s.studiobinder.com/wp-content/uploads/2019/04/Rules-of-Shot-Composition-Balance-and-Symmetry-min.jpg)
+
+## Depth
+Depth of field란 어느 정도까지 이미지가 선명하게 나타나는지에 대한 사이즈이다.
+![alt text](https://s.studiobinder.com/wp-content/uploads/2018/11/Depth-of-Field-Diagram-Select-Focus-StudioBinder.png)
+초점의 깊이는 날카로움의 영역이다. 더 많은 물체를 포커스로 가져오면서 그 깊이감을 더 길게 만든다면 더 넓은 영역의 깊이가 생긴다.
+![alt text](https://s.studiobinder.com/wp-content/uploads/2019/04/Rules-of-Shot-Composition-depth-of-field-1024x660-min.jpg)
+더 큰 깊이감은 더 많은 물체에게 초점이 생긴다.
