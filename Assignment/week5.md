@@ -15,9 +15,11 @@
 ![alt text](https://s.studiobinder.com/wp-content/uploads/2019/04/Rules-of-Shot-Composition-Balance-and-Symmetry-min.jpg)
 
 ## Patterns
-씬과 프레임을 구성하는데 다양한 분위기르 전달할 수 있는 효과적인 요소이다. 
-![alt text](https://forthefloorandmore.com/wp-content/uploads/2018/03/featuredimage-780x300.jpg)
+씬과 프레임을 구성하는데 다양한 분위기를 전달할 수 있는 효과적인 요소이다. 
 ![alt text](https://external-preview.redd.it/AfzseaSJOcOmPGFqbm5q_qGliHDh9Z9rTc7aRtainXY.jpg?auto=webp&s=f3041b284c2d10ade960e3a1f7c2ea1dc5b3747e)
+![alt text](https://www.readersnews.com/news/photo/201912/96921_62339_244.jpg)
+![alt text]https://www.wickedhorror.com/wp-content/uploads/2019/08/cube.jpg)
+
 ## Depth
 
 피사체 심도(Depth of field)란 어느 정도까지 이미지가 선명하게 나타나는지에 대한 사이즈이다.
