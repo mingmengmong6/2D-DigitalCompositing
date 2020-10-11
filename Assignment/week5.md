@@ -35,6 +35,11 @@
 
 ![alt text](https://s.studiobinder.com/wp-content/uploads/2016/09/2-How-to-Use-Color-in-Film-Example-of-Movie-Color-Palette-and-Schemes-Color-Theory-Film-Monochromatic-Complementary-Analogous-and-Triadic-min.png)
 
+- Red
+스크린에서 가장 강력한 색상, 특성: 공격성, 분노, 힘, 사랑
+![alt text](https://pbblogassets.s3.amazonaws.com/uploads/2016/07/RED-Ex-Machina.jpg)
+불길한 영역으로 건너가는 순간에 붉은 빛이 강렬함을 주며, 중요한 일이 일어날 것임 알리는 신호 역할을 한다.
+
 출처
 https://www.studiobinder.com/blog/depth-of-field/
 
