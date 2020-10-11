@@ -18,7 +18,7 @@
 씬과 프레임을 구성하는데 다양한 분위기를 전달할 수 있는 효과적인 요소이다. 
 ![alt text](https://external-preview.redd.it/AfzseaSJOcOmPGFqbm5q_qGliHDh9Z9rTc7aRtainXY.jpg?auto=webp&s=f3041b284c2d10ade960e3a1f7c2ea1dc5b3747e)
 ![alt text](https://www.readersnews.com/news/photo/201912/96921_62339_244.jpg)
-![alt text]https://www.wickedhorror.com/wp-content/uploads/2019/08/cube.jpg)
+![alt text](https://www.wickedhorror.com/wp-content/uploads/2019/08/cube.jpg)
 
 ## Depth
 
