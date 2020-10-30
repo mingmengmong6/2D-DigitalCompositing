@@ -29,5 +29,5 @@ GG 기술은 처음에는 이러한 SFX를 보조하는 수단으로 사용되�
 
 >출처
 
-네이버 지식백과, "VFX와 SFX" https://terms.naver.com/entry.nhn?docId=3434977&cid=58460&categoryId=58460<sup>1)</sup>
+>네이버 지식백과, "VFX와 SFX" https://terms.naver.com/entry.nhn?docId=3434977&cid=58460&categoryId=58460<sup>1)</sup>
 
