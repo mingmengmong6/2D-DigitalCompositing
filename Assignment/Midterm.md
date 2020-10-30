@@ -178,17 +178,47 @@ Matte World Digital-The Last Samurai(2003),
 Matte World Digital-Zodiac(2007),Matte World Digital-The Curious Case of Benjamin Button(2008),
 Matte World Digital-Hugo(2011),Michael Pangrazio-Raiders of the Lost Ark(1981)
 
-
+년도|설명|
 |:-----:|:-----|
-dfdfd|dfdfd
+1966|**Richard Fleischer의 Fantastic Voyage** 크고, 디테일이 높은 모델을 사용하여 영화용 신체 부위 제작
+1966|**Don Chaffey의 One Million Years B.C.** 레이 해리하우젠의 스톱모션 크리쳐 효과
+||**1966 오스카 수상 Fantastic Voyage**
+||**1967 오스카 수상 Doctor Dolittle**
+1968|**Aristid Lindenmayer가 L-System 개발한다**
+1968|**Stanley Kubrick의 2001: A Space Odyssey** 영화에서 역반사 매팅(Matting)이 있는 전면 투영법 최초 사용
+||**1968 오스카 수상 2001: A Space Odyssey**
+1969|**UNIX가 톰슨과 리치에 의해 개발되었다.**
+||**1969 오스카 수상 Marooned**
+1970|**Utah 대학의 Ivan Sutherland가 최초의 3D 디지털화 장치를 만들었다**
+1970|**IMAX 필름 포맷이 발명되었다.**
+||**1970 오스카 수상 Tora!Tora!Tora!**
+1971|**Robert Wise의 The Andromeda Strain** Douglas Trumbull의 효과로, 공상과학 영화에서 컴퓨터 렌더링을 최초로 사용한 것이었다.
+1971|**Gouraud shading이 Utah대학의 Henri Gouraud에 의해 개발되었다** Gouraud shading은 삼각형 표면에서 지속적인 라이팅을 얻기 위해 가장 많이 사용된다
+1971|**최초의 플로피 디스크(floppy disks)가 상업적 이용이 가능해졌다.** 플로피디스크라는 문구는 IBM이 첫 매체를 Type 1 디스켓(Type 1 Diskette)으로 발표했음에도 1970년 초에 인쇄되었다
+||**1971 오스카 수상 Bedknobs and Broomsticks**
+1972|**Ed Catmull이 A Computer Animated Hand라는 유명한 시퀀스를 만들었다.**
+1972|**For special achievement in VISUAL EFFECTS로 오스카 부문 변경**
+1972|**Stan Winston Studios가 Stan Winston에 의해 설립되었다.** 스탠 윈스턴 1946-2008/Stan Winston이 사망한 지 1년 후인 2009년에는 Legacy Effects로 적절한 명칭을 변경하였다.
+|**1972 오스카 수상 The poseidon adventure - Special Achievement Academy Award**
+1973|**콴텔(Quantel)이 피터 마이클(Peter Michael)에 의해 설립되었다**시스템 포함: Paintbox, Harry, Henry, HAL, Editbox, Domino, İQ, Pablo 및 revolutionQ
+1973|**Jon Meads와 Bob Schiffman은 첫 번째 SIGGRAPH 컨퍼런스를 조직화했다.** 그래픽 특별 이익 위원회(Special Interest Committee in Graphics)'로 1969년 시작된 시그그래프(Siggraph)
+1973|**Michael Crichton의 Westworld**  장편영화에서 2D 컴퓨터 그래픽 및 디지털 이미지 과정의 최초 사용
+1974|**텍스처 맵핑이 유타 대학 Ed Catmull에 의해 개발되었다.**
+1974|**Ed Catmull은 Z-Buffer도 개발했다.**
+1974|**Phong reflection model이 유타 대학 Bui Tuong Phong에 의해 개발되었다.**
+1974|**Richard Heffron의 Futureworld** 장편영화에서 3D 컴퓨터 그래픽 및 디지털 이미지 과정의 최초 사용
+1974|**Alvy Ray Smith와 Richard Shoup이 SuperPaint 제작** 최초의 페인트 프로그램 중 하나
+||**1971 오스카 수상 Earthquake - Special Achievement Academy Award**
+1975|**Benoit Mandelbrot가 프랙탈 기하학에 대한 연구를 처음 시작했다.** Mandelbrot는 프랙탈(fractal)이라는 용어는 라틴어 프랙토스(fractus)에서 유래한 말로 ' 깨진' 또는 '흔든 유리'를 의미한다.
+1975|**유타 대학 Martin Newell이 CGI 찻주전자를 개발한다.** 뉴웰의 아내 산드라는 차주전자를 모델링하자고 제안했다. 그는 bézier control points를 이용해 모델을 만들기 전 차주전자 전체를 눈으로 스케치했다.
+||**1975 오스카 수상 The Hindenburg - Special Achievement Academy Award**
+1976|**최초 애니메이션 트위닝 소프트웨어(Tweening software)는 유타 대학 Ed Catmull에 의해 개발되었다/**
+1976|**빌게이츠가 마이크로소프트를 세웠다**
+1976|**스티브 잡스와 Steve Wonzniak이 최초의 애플 컴퓨터를 출시했다.**
+||**1971 오스카 수상 King Kong and Logan's run - Special Achievement Academy Award**
 
-#### 작품
-
-1964|****
-1964|****
-1964|****
-1964|****
-
+1975|**
+1975|**
 >출처
 
 네이버 지식백과, "VFX와 SFX" https://terms.naver.com/entry.nhn?docId=3434977&cid=58460&categoryId=58460<sup>1)</sup>
