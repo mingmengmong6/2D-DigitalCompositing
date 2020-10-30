@@ -165,10 +165,23 @@ GG 기술은 처음에는 이러한 SFX를 보조하는 수단으로 사용되�
 ||**1964 오스카 수상 Mary Poppins**
 ||**1965 오스카 수상 Thunderball**
 - Glass Matte Painting
-#### 작품
 A glass painting setup, E.G.Lutz 1927. 'The Motion Picture Cameraman'
 - Negative Matte Painting
 - Matte Painting
+Norman Dawn -Robin Hood(1922),Willy Muller - Metropolis(1927), Paul Grimm - Noah's Ark(1929), Mario Larrinaga - King Kong(1933),Jack Cosgrove - Gone with the wind(1939),Warren Newcombe-The Wizard of Oz(1939),Charles Foster Kane - Citizen Kane(1941),
+Peter Ellenshaw-Spartacus(1941),Jan Domela - Vertigo(1958),Emil Kosa Jr.-Planet of the Apes(1968),Albert Whitlock -The Sting(1973),
+Ralph McQuarrie-The Empire Strikes Back(1980), Matthew Yuricich- Blade Runner(1982),Ghost Busters(1984),
+Michael Pangrazio - Indiana Jones and the Temple of Doom(1984),Bob Cuff-The Princes Bridge(1987)
+Yusei Uesugi-Die Hard 2: Die Harder(1990), Morgan Trotter-Casino(1995)
+Chris Evans-Titanic(1997),Brett Northcutt-The Truman show(1998),Digital Domain- How the Grinch Stole Christmas(2000)
+Matte World Digital-The Last Samurai(2003),
+Matte World Digital-Zodiac(2007),Matte World Digital-The Curious Case of Benjamin Button(2008),
+Matte World Digital-Hugo(2011),Michael Pangrazio-Raiders of the Lost Ark(1981)
+
+년도|설명|
+|:-----:|:-----|
+dfdfd|dfdfd
+
 #### 작품
 
 1964|****
