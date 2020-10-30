@@ -123,7 +123,31 @@ GG 기술은 처음에는 이러한 SFX를 보조하는 수단으로 사용되�
 ||**1948 오스카 수상 Portrait of Jennie**
 ||**1949 오스카 수상 Blithe spirit**
 1949|**Erbest B. Schoedsack의 'Mighty Joe Young'** Wilis O'Brien과 Ray Harryhaussen은 효과를 스톱 모션, 라이브 액션, 후면 투영법을 사용했다.
-|**
+1950|**Irving Pichel의 Destination Moon**
+||**1950 오스카 수상 Destination Moon**
+1951|**Rudolph Mate의 When worlds collide** 외계의 풍경을 보여주는 마지막 씬은 매트 페인팅이 아닌 스케치였다.
+1951|**Robert Wise의 The Day the Earth Stood Still**
+||**1951 오스카 수상 When Worlds Collide**
+||**1952 오스카 수상 Plymouth Adventure**
+1953|**Byron Laskin의 War of the Worlds** 화성 전쟁 효과는 144개의 분리된 매트페인트로 만들었다.
+||**1953 오스카 수상 The war of the Wordls**
+1954|**Richard Fleischer의 20,000 Leagues Under the Sea** 제작 중 원가 초과로 당시 영화 중 가장 비싼 영화였다.
+1954|**Ishiro Honda의 Godzilla**
+1954|**Alex Poniatoff가 2인치 VR1000 비디오 테이프 레코더 소개**
+||**1954 오스카 수상 20,000 Leagues Under the Sea**
+||**1955 오스카 수상 The Bridges at Toko-Ri**
+1956|**Cecil B. DeMille의 The ten commandments** 효과 시퀀스에 미니어처, 폭약 기술, 이동 매트 페인팅 및 후면 촬영 기법이 사용되었다.
+1956|**Fred M. Wilcox의 Forbidden Planet** 손으로 그린 애니메이션 시퀀스, 특히 id 몬스터의 공격은 베테랑 애니메이터 조슈아 미 도르(Joshua Meador)에 의해 만들어졌다.
+||**1956 오스카 수상 The Ten Commandments**
+||**1957 오스카 수상 The Spirit of St. Louis**
+1958|**Alfred Hitchcock의 Vertigo** Saul Bass가 만든 광학적 합성된 타이틀
+1958|**냉전을 위해 The SAGE Machine이 만들어졌다.** 펜과 태블릿 스타일 인터페이스 최초로 사용했다.
+||**1958 오스카 수상 Tom Thumb**
+1959|**William Wyler의 Ben-Hur** 효과를 위한 매트 페인팅 및 모델 미니어처의 광범위한 사용
+
+
+
+
 >출처
 
 네이버 지식백과, "VFX와 SFX" https://terms.naver.com/entry.nhn?docId=3434977&cid=58460&categoryId=58460<sup>1)</sup>
