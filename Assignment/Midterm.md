@@ -199,7 +199,7 @@ Matte World Digital-Hugo(2011),Michael Pangrazio-Raiders of the Lost Ark(1981)
 1972|**Ed Catmull이 A Computer Animated Hand라는 유명한 시퀀스를 만들었다.**
 1972|**For special achievement in VISUAL EFFECTS로 오스카 부문 변경**
 1972|**Stan Winston Studios가 Stan Winston에 의해 설립되었다.** 스탠 윈스턴 1946-2008/Stan Winston이 사망한 지 1년 후인 2009년에는 Legacy Effects로 적절한 명칭을 변경하였다.
-|**1972 오스카 수상 The poseidon adventure - Special Achievement Academy Award**
+||**1972 오스카 수상 The poseidon adventure - Special Achievement Academy Award**
 1973|**콴텔(Quantel)이 피터 마이클(Peter Michael)에 의해 설립되었다**시스템 포함: Paintbox, Harry, Henry, HAL, Editbox, Domino, İQ, Pablo 및 revolutionQ
 1973|**Jon Meads와 Bob Schiffman은 첫 번째 SIGGRAPH 컨퍼런스를 조직화했다.** 그래픽 특별 이익 위원회(Special Interest Committee in Graphics)'로 1969년 시작된 시그그래프(Siggraph)
 1973|**Michael Crichton의 Westworld**  장편영화에서 2D 컴퓨터 그래픽 및 디지털 이미지 과정의 최초 사용
