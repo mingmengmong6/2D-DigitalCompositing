@@ -178,7 +178,7 @@ Matte World Digital-The Last Samurai(2003),
 Matte World Digital-Zodiac(2007),Matte World Digital-The Curious Case of Benjamin Button(2008),
 Matte World Digital-Hugo(2011),Michael Pangrazio-Raiders of the Lost Ark(1981)
 
-년도|설명|
+
 |:-----:|:-----|
 dfdfd|dfdfd
 
