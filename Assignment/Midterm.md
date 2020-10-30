@@ -28,7 +28,7 @@ GG 기술은 처음에는 이러한 SFX를 보조하는 수단으로 사용되�
 ## 시대 별 Vfx의 발전
 ### 1829 - 1992: 초창기 / The Early years
 년도|설명|
-|:-----:|:-----:|
+|:-----:|:-----|
 |1829|**페나키스토스코프는 조셉 플라토에 의해 확고히 자리잡았다.** 시각의 지속성을 이용해 움직임의 착시를 만들어낸 초기 애니메이션 시스템.  움직이는 영상을 위해 둥근 원판을 분할하고 동작을 차례로 그려 넣은 후 거울에 비추어 돌려보면 움직이는 동작을 볼 수 있게 고안하였다.|
 1833|**The Modern Zoetrope(조에트로프)가 윌리엄 조지 호너에 의해 발명되었다.** 가장 오래된 조에트로프는 기원넌 180년경 중국에서 팅환이라는 발명가에 의해 만들어졌다|
 1868|**최초의 플립북은 John Barnes Linett 존 반스 린넷이 Kineograph(키네그래프)라는 이름으로 특허를 얻었다.** 키네그래프: Moving picuture(움직이는 그림)
@@ -86,7 +86,7 @@ GG 기술은 처음에는 이러한 SFX를 보조하는 수단으로 사용되�
 - '위고 카브렛의 발명('The Invention of Hugo Cabret)'이라는 책과 각색 영화 'Hugo'에 등장했는데, 벤 킹슬리(Ben Kingsley)에 의해 묘사되었다.
 
 년도|설명|
-|:-----:|:-----:|
+|:-----:|:-----|
 1892|**Eadweard Muybridge의 'Animal in Motion'** 오늘날까지 애니메이션 제작 레퍼런스로 사용된다|
 1901|**Eadweard Muybridge의 'Human Figure in Motion'** 드로잉과 애니메이션 레퍼런스로 활용|
 1903|**Edwin S.Porter의 'The Great Train Robbery'** 은행 강도 씬을 위해 포터는 멜리에스의 'The Man with the Rubber Head'와 같은 매트 기술을 사용했다.
@@ -111,7 +111,7 @@ GG 기술은 처음에는 이러한 SFX를 보조하는 수단으로 사용되�
 1939|**빅터 플레밍(Victor Fleming)의 '바람과 함께 사라지다','Gone with the Wind'** 스토리 중심의 그랜드 하우스를 위한 대규모 매트 페인팅 사용. 
 1939|**빅터 플레밍(Victor Fleming)의 오즈의 마법사** A.Arnold Gillespie 효과에는 매트페인탕, 카메라에 가까운 토네이도 촬영에 실크 스타킹 사용 등이 포함됐다.
 1939|**클라렌스 브라운(Clarence Brown)의 'The rains came'** 오즈의 마법사를 제치고 아카데미 특수효과상을 수상한 최초의 영화
-1939|The rains came이 오스카 수상 
+|1939 The rains came이 오스카 수상|
 1940|**Tim Whelan의 'The thief of bagdad' Ludwing Berger', Michael Powel
 |**
 |**
