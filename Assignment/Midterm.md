@@ -400,8 +400,78 @@ RenderDotC, RenderMan Studio (Maya. Houdini. Katana)
 ### 1989 - 1993: 광학의 몰락 / THE FALL OF OPTICAL
 년도|설명|
 |:-----:|:-----|
-1989|**Scanline VFX 설립** 영화:
-||**
+1989|**Scanline VFX 설립** 영화:Poseidon, 300, Iron Man, 2012, Hereafter, Gulliver's Travels, Silent River,Super 8, Immortals, The Apparition, Battleship, The Avengers등
+||**Adobe Photoshop이 Thomas and John Knoll)에 의해 ILM에서 쓰여졌다**
+||**EIAS(Electric Image, Inc., Electric Image Animation System) 출시**
+||**Autudesk가 DOS용 최초의 셀 기반 애니메이션 시스템 'Animator'를 출시**
+||**Apollo Computer에서 AVID/1 출시**
+||**Mental ray 출시** 영화: Walking with Dinosaurs, The Grinch, Panic Room, Flight Club, The City Of The Lost Children, Terminator 3: Rise of the Machines, The Hulk, Star Wars: Episode Il: Attack of the Clones
+||**PDI가 'Locomotion' 제작**
+||**제임스 카메론 - The Abyss** 카메론은 처음에 water pseudopod 애니메이션을 만들기 위해 셀애니메이션이나 go motion 애니메이션을 고려했고 Industrial Light and Magic에 연락을 제안한 사람은 Phil Tippett 이었다, 특수효과 작업은 여러 기업들로 나누어 진행하였다.
+||**Chris Walas - The Fly 2**
+||**스티븐 스필버그의 Indiana Jones and the Last Crusade**Industrial Light and Magic은 Walter Donovan의 노화 시퀀스를 위한 최초의 디지털 합성 샷을 만들었다
+||**Terry Cilliam - The Adventures if Baron Munchausen**
+||**Ivan Reitman - Ghostbusters 2**
+||**Joe Johnston - Honey, I shrunk the Kids**
+||**Tim Burton - Batman**
+||**William Shatner- Star Trek V: The Final Frontier**
+||**Robert Zemeckis - 'Back to the Future, Part II'** Industrial Light and Magic은 복수의 Michael J가 포함된 장면에 VistaGlide Motion Control 카메라 시스템을 사용했다.
+||**1989 오스카 수상 The Abyss**
+1990|**The Mill이 설립** 영화: Twelve Monkeys, G. I. Jane, Lost in Space, The Avengers, Enemy of the State, Gladiator, Proof of Life, Hannibal,Lara Croft: Tomb Raider, Black Hawk Down, Harry Potter, Doctor Who, Torchwood 등
+||**Metrolight Studio가 설립** 영화: Total Recall, Home Alone 2: Lost in New York, Virtuosity, Mortal Combat, Batman Forever, Under Slege 2: Dark Territory, Daylight, Eraser, Broken Arrow, Batman and Robin, Basketball 등
+||**VIFX 설립** 영화: Darkman, Predator 2, Bill and Ted's Bogus Journey, Cliff Hanger, Terminator 2: Judgement Day, Free Willy, Demolition Man, Speed, Timecop, Mighty Morphing Power Rangers, From Dusk TII Dawn,Home Alone 3 등
+||**Yost Group에서 3DStudio(DOS)가 출시**
+||**NewTek에서 Video Toaster Suite의 일부로 Electric Lightwave를 출시**
+||**Jeff Kleiser와 Diana Walczak이 뮤직비디오 'Dozo - Don't Touch Me'를 연출, 애니메이션 제작** 애니메이션 및 렌더링 소프트웨어가 Wavefront의 'Personal Visualizer'로 사용
+||**'Die Hard 2: Die Harder'** traditional glass matte으로 디지털 합성된 실사 영상을 최초로 사용한 필름
+||**Robert Zemeckis - Back to the Future Part III**
+||**Paul Verhoeven - Total Recall**
+||**Warren Beatty - Dick Tracy**
+||**Jerry Zucker - Ghost**
+||**Johen Milius - Flight of the Intruder**
+||**Irvin Kershner - RoboCop 2'** 실시간 컴퓨터 그래픽을 사용하여 캐릭터의 얼굴을 만드는 최초 사용
+||**1990 오스카 수상 Total Recall - Special Achievement Academy Award**
+1991|**Hybride 설립** 영화: Highlander III, The Peacemaker, The Faculty, Spy Kids, Battlefield Earth, The Adventures of Shark Boy and Lava Girl, Final Destination, Whiteout, Avatar, Machete, Saw 3D 등
+||**Animal Logic 설립**영화:Babe, Face/Off, The Thin Red Line, Chopper, Planet of the Apes, Darkness Falls, The Matrix Reloaded, Harry Potter and the Goblet of Fire, Happy Feet, 300, Australia, Knowing, Sucker Punch 등
+||**최초의 Macintosh 노트북, the Powerbook 100**
+||**Linus Torwalds가 Linux 출시**
+||**Scoott Squires가 Community Pro를 출시**
+||**FastRay, 나중에 'Cinema 4D'가 되어 Amiga에 출시**
+||**Alias에서 Power Animator 1.0을 출시**
+||**마이클 잭슨이 'Black and White' 녹음** 모핑효과를 사용한 뮤직비디오
+||**James Cameron - Terminator2: Judgement Day** 특수효과 작업은 여러 회사와 나누어 진행하였다
+||**Gary Trousdale and Kirk Wise - Beauty and the Beast**디즈니는 3D 애니메이션 시퀀스를 그들의 애니메이션 특징 중 하나에 추가했다.
+||**Martin Campbell - cast a Deadly Spell**
+||**Joe Johnston - The Rocketeer**
+||**Nicholas Meyer - Star Trek VI: The Undiscovered Country**
+||**David Cronenberg - Naked Lunch**
+||**Ron Howard - Backdraft** photorealistic 컴퓨터의 첫 사용으로 장편 영화에서 불을 만들어냈다, Effects by Industrial Light and Magic.
+||**스티븐 스필버그의 'Hook’**
+||**1991 오스카 수상 Terminator2: Judgement Day**
+1992|**Hydrainx 설립** 영화: Terminator 3, The Day after Tomorrow, Aeon Flux, 300, Jumper, Wanted, The Day the Earth Stood Still, Fast and Furious, 2012, The Book of Ell, The A-Team, Skyline, Battle Los Angeles 등
+||**Sony Pictures Imageworks 설립** 영화:Die Hard with a Vengeance, Contact, Starship Troopers, Stuart Little, Hollow Man, Monster House, Superman Returns 등
+||**Robert Zemeckis - Death Becomes Her** 장편영화에 컴퓨터 생성 스킨(computer generated skin)을 최초 사용,Effects by Industrial Light and Magic
+||**1992 오스카 수상 Death Becomes Her**
+||**David Fincher - Alien3**
+||**Brett Leonard - Lawnmower Man**
+||**Randal Kleiser - Honey I Blew up the kid**
+||**Francis Ford Coppola - Dracula**
+||**Barry Levinson - Toys**
+1993|**Cafe FX 설립** 영화:Lord of Illusions, Flubber, Armageddon, Battlefield Earth, Panic Room, The League of Extraordinary Gentlemen, Hellboy, Blade: Trinity, Mr. & Mrs. Smith, Memoirs of a Geisha, Pan's Labyrinth 등
+||**James Cameron, Stan Winston, and Scott Ross가 Digital Domain을 설립**영화:True Lies, Apollo 13, The Fifth Element, Titanic, Fight Club, How the Grinch Stole Christmas, I, Robot, Stealth, Flags of our Fathers, Zodiac, The Curlous Case of Benjamin Button 등
+||**Weta Digital이 Peter Jackson과 Richard Taylor에 의해 설립** 영화: Heavenly Creatures, The Frightners, Contact, The Lord of the Rings, Van Helsing, I, Robot, King Kong, X-Men: The Last Stand, 30 Days of Night, The Day the Earth Stood Still, The Lovely Bones, Avatar, Rise of the Planet of the Apes, The Adventures of Tintin 등
+||**컴퓨터 게임 ‘Doom’이 출시**
+||**CoSA가 에프터 이펙트를 출시**
+||**Discreet Logic가 Flame을 출시**
+||**Digital Domain에서 자체 노드 기반 컴포지터 NUKE(New-Compositor) 출시**
+||**Babylon 5'는 CG를 1차적 수단으로 사용해 특수효과를 낸 최초의 공상과학 TV 시리즈였다.**
+||**Renny Harlin - Cliffhanger**
+||**Tim Burton - The Nightmare Before Christmas**
+||**John McTiernan - Last Action Hero**
+||**Fred Dekker - Robocop3**
+||**Christopher Guest - Attack of the 50 Foot Woman** tv 영화
+||**Marco Brambilla - Demolition Man**
+
 ||**
 ||**
 ||**
