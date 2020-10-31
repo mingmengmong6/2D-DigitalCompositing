@@ -597,7 +597,7 @@ RenderDotC, RenderMan Studio (Maya. Houdini. Katana)
 ||**Mousehunt directed byGore Verbinski** 
 ||**Flubber directed by Les Mayfield** Industrial Magic & Light
 ||**The Star Wars Trilogy: Special Edition이 ILM에 의해 350 숏**
-||**1997 오스카 수상 Titanic **
+||**1997 오스카 수상 Titanic**
 1998|**Method Studio 설립**
 ||**Double Negative 설립** 유럽에서 가장 큰 visual effects company
 ||**Banned from the Ranch가 문을 닫았다**
@@ -636,7 +636,7 @@ RenderDotC, RenderMan Studio (Maya. Houdini. Katana)
 ||**Star wars Episode1 - The Phantom Menace directed by George Lucas**디지털 캐릭터, 디지털 효과 사용
 ||**The Mummy directed by Stephen Sommers**디지털 메이크업
 ||**Stuart Little directed by Rob Minkoff** 마야로 캐릭터 모델링 
-||**Fight Club directed by David Fincher
+||**Fight Club directed by David Fincher**
 ||**The Haunting directed by Jan de Bont** Tippet studio
 ||**My Favorite Martian directed by Donald Petrie**
 ||**Deep blue sea directed by Renny Harlin**
@@ -736,7 +736,7 @@ Grown up , modern visual effects, 많은 회사들과 영화들이 혁신적으�
 ||**Hulk directed by Ang Lee** / 스킨과 근육 시스템이 잘 표현됨
 ||**The Matrix Reloaded directed by Andy Wachowski and Lana Wachowski**
 ||**Seabiscuit directed by Gary Ross**
-||**Spy Kids 3-D: Game Over directed by Robert Rodriguez
+||**Spy Kids 3-D: Game Over directed by Robert Rodriguez**
 ||**Terminator 3: Rise of the Machines directed by Jonathan Mostow**
 ||**Peter Pan directed by P.J. Hogan**
 ||**Master and Commander: The Far Side of the World directed by Peter Weir**/ 오토워킹이 사용되었다
@@ -753,7 +753,7 @@ VISUAL EFFECTS를 사용한 영화들이 증가하기 시작하였고 할리우�
 ||**Silhouette 출시** /메인 reading program – 로토스코핑 가능
 ||**Chris Landreth의 ryan이 아카데미 어워드 수상**
 ||**Van Helsing directed by Stephen Sommers**
-||**The Day After Tomorrow directed by Ronald Emmerich 
+||**The Day After Tomorrow directed by Ronald Emmerich** 
 ||**Sky Captain and the World of Tomorrow directed by Kerry Conran**/인공적인 cg background, 블루 스크린 사용
 ||**Spider-Man2 directed by Sam Raimi**
 ||**I,Robot directed by Alex Proyas**/ Digital domain이 제작, nuke, Gizmo사용
@@ -778,7 +778,7 @@ VISUAL EFFECTS를 사용한 영화들이 증가하기 시작하였고 할리우�
 ||**The Island directed by Michael Bay**
 ||**Batman Begins directed by Christopher Nolan**/ digital character 사용
 ||**Stealth directed by Rob Cohen**/그린 스크린에서 비행기, cg 제트기사용
-||**War of the Worlds directed by Steven Spielberg/ 카메라 무빙
+||**War of the Worlds directed by Steven Spielberg**/ 카메라 무빙
 ||**The Chronicles of Narnia: The Lion, the Witch and the Wardrobe directed by Andrew Adamson**
 ||**Corpse Bride directed by Tim Burton**
 ||**Son of the Mask directed by Lawrence Guterman**
@@ -790,10 +790,9 @@ VISUAL EFFECTS를 사용한 영화들이 증가하기 시작하였고 할리우�
 2006|**디즈니가 픽사를 74억달러에 인수**
 ||**오토데스크가 alias를 1억 9천7백 달러에 인수**
 ||**Michael Bay & Wyndcrest Holdings가 Digital Domain 인수**
-||**George Lucas가 ILM's model shop을 팔았고 Kerner Optical이 되었다**
-||**ILM은 PhysBam에 기반하여 in-house fluid dynamics system을 개발했다./physBAM은 다물리학 시뮬레이션 라이브러리로서, 여러 자연 현상뿐만 아니라 강체 및 변형성 유체, 결합성 및 변형성 고형물, 결합성 및 변형성 고형물, 관절성 강체 및 인체, 골절, 화재, 연기, 머리카락, 근육 및 기타 자연 현상들을 시뮬레이션할 수 있다
+||**George Lucas가 ILM's model shop을 팔았고 Kerner Optical이 되었다**/ILM은 PhysBam에 기반하여 in-house fluid dynamics system을 개발했다./physBAM은 다물리학 시뮬레이션 라이브러리로서, 여러 자연 현상뿐만 아니라 강체 및 변형성 유체, 결합성 및 변형성 고형물, 결합성 및 변형성 고형물, 관절성 강체 및 인체, 골절, 화재, 연기, 머리카락, 근육 및 기타 자연 현상들을 시뮬레이션할 수 있다
 ||**Superman Returns directed by Bryan Singer**/ 3d 모델에 텍스쳐를 입혔다
-||**Poseidon directed by Wolfgang Petersen/ Industrial light & Magic,MPC 등이 visual effects
+||**Poseidon directed by Wolfgang Petersen/ Industrial light & Magic,MPC 등이 visual effects**
 ||**x-Men: The Last Stand directed by Brett Ratner**
 ||**Flags of our Fathers directed by Clint Eastwood**
 ||**Pirates of the Caribbean: Dead Man's Chest directed by Gore Verbinski**
@@ -802,7 +801,7 @@ VISUAL EFFECTS를 사용한 영화들이 증가하기 시작하였고 할리우�
 ||**Pan's Labyrinth directed by Guillermo del Toro**
 ||**Children of Men directed by Alfonso Curaon**
 ||**300 directed by Zack Snyder**
-||**Apocalypto directed by Mel Gibson
+||**Apocalypto directed by Mel Gibson**
 ||**Casino Royale directed by Martin Campbell**
 ||**The Da Vinci Code directed by Ron Howard**
 ||**Lady in the Water directed by M.Night Shyamalan**
@@ -899,8 +898,7 @@ VISUAL EFFECTS를 사용한 영화들이 증가하기 시작하였고 할리우�
 ||**2010 오스카 수상 Inception**
 2011|**Kerner Optical가 문을 닫았다**
 ||**Animal Logic and Weta Digital이 the rendering technology 출시- Deep compositiong**
-||**Sony Picture Imageworks와 ILM이 Alembic 출시**/Alembic : vertex레벨로
-애니메이팅 된 모델을 저장하는 방식, Fluency나 particle도 포함,한 파일에 프레임 데이터 저장
+||**Sony Picture Imageworks와 ILM이 Alembic 출시**/Alembic: vertex레벨로 애니메이팅 된 모델을 저장하는 방식, Fluency나 particle도 포함,한 파일에 프레임 데이터 저장
 ||**The Foundry가 Storm출시**
 ||**The Foundry가 katana 출시**
 ||**eyeon Softare가 Generation AM출시**
@@ -933,8 +931,6 @@ VISUAL EFFECTS를 사용한 영화들이 증가하기 시작하였고 할리우�
 ||**The Pixel Farm이 PFDepth출시**/Conversion tool  
 ||**Isotropix거 Clarisse iFX 출시**/ Animation, texturing, rendering, lighting, compositing이 가능한 툴
 ||**John Carter directed by Andrew Stanton**
-
-
 ||**Snow White and Huntsman directed by Rupert Sanders**
 ||**Battleship directed by Peter Berg**
 ||**The Avengers' directed by Joss Whedon**
