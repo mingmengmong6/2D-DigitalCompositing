@@ -993,6 +993,9 @@ VR영화의 실현 가능성이 보다 구체화되었고 게임과 영화 분�
 
 실제로 이러한 추세로 인해 [Foundry's Modeling Software] Modo에 구독 기반 가격 책정 모델을 도입하여 소규모 아티스트와 스튜디오가 보다 접근 가능하고 경제적인 방법으로 흥미진진하고 최첨단 컨텐츠를 제작할 수 있게 되었다
 
+
+
+----------
 >출처
 
 네이버 지식백과, "VFX와 SFX" https://terms.naver.com/entry.nhn?docId=3434977&cid=58460&categoryId=58460<sup>1)</sup>
@@ -1002,4 +1005,5 @@ fxphd, "History of Visual Effects taught by Matt Leonard" Courses
 씨네21,"국내 최고 VFX 전문가들이 진단하는 미래의 시각효과기술" http://m.cine21.com/news/view/?mag_id=86920<sup>1)</sup>
 
 젠미디어,“10년 뒤 영화 속 주인공 모두 CG로 제작” http://www.genmedia.co.kr<sup>1)</sup>
-fxphd, "History of Visual Effects taught by Matt Leonard" Courses
+
+VFXV,"THE FUTURE OF VFX:INDUSTRY LEADERS LOOK AHEAD" https://www.vfxvoice.com/the-future-of-vfx-industry-leaders-look-ahead/<sup>1)</sup>
