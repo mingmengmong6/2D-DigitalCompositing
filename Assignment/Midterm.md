@@ -303,8 +303,7 @@ RenderDotC, RenderMan Studio (Maya. Houdini. Katana)
 년도|설명|
 |:-----:|:-----|
 1983|**Alias Research Inc. (Alias/1) 설립** Steve 'Spaz' Williams는 첫 직원 중 한 명으로 ILM에서 일하는 세계 최고의 애니메이션 제작자 중 한 명이 되었다
-||**'Where the Wild Things Are, 존 라세터(John Lasseter)는 디즈니의 공식이었다.** - MAGI liaison 담당,  캐릭터 애니메이션 - 디즈니(글렌 킨(Glen Keane) 주연)
-,3D 및 컴포지팅 - MAGI / Synthavision (Chris Wedge & Jan Carlee),프로젝트 감독자 - Ken Perlin, 소프트웨어 - Chris Pines, Gene Miller 및 Ken Perlin
+||**'Where the Wild Things Are, 존 라세터(John Lasseter)는 디즈니의 공식이었다.** - MAGI liaison 담당,캐릭터 애니메이션 - 디즈니(글렌 킨(Glen Keane) 주연),3D 및 컴포지팅 - MAGI / Synthavision (Chris Wedge & Jan Carlee),프로젝트 감독자 - Ken Perlin, 소프트웨어 - Chris Pines, Gene Miller 및 Ken Perlin
 ||**Bosch FGS 컴퓨터 그래픽 시스템이 NAB에서 도입**최초의 턴키(turnkey) 3D 애니메이션 시스템
 ||**Simutrek Inc가 만든 Cube Quest** 레이저디스크(laserdisc) 배경은 Robert Abel과 Associates에 의해 만들어졌다
 ||**Richard Marquand의 스타워즈 에피소드 6: 제다이의 귀환(Star Wars Episode VI: Return of the Jedi)** Lucasfilm Computer Graphics Group에서 만든 Endor moon sequence, Bill Reeves and Tom Duf는 백터 그래픽을 사용
@@ -392,10 +391,10 @@ RenderDotC, RenderMan Studio (Maya. Houdini. Katana)
 ||**최초로 CG와 라이브 액션을 결합한 작품, Who Framed Roger Rabbit**
 ||**Ron Howard - Willow** digital morphing을 사용한 첫 번째 장편영화
 ||**Philip Saville - The Fruit Machine** CFC(런던)가 미국 외에서 수행한 장편 영화 최초의 all-digital 합성물
-||**Tim Burton - Beetlejuice
-||**David Cronenberg - Dead Rigers
-||**Graham Baker- Alien Mation
-||**Chuck Russell -The Blob
+||**Tim Burton - Beetlejuice**
+||**David Cronenberg - Dead Rigers**
+||**Graham Baker- Alien Mation**
+||**Chuck Russell -The Blob**
 ||**1988 오스카 수상 Who Framed Roger Rabbit**
 
 ||**
