@@ -712,8 +712,7 @@ Grown up , modern visual effects, 많은 회사들과 영화들이 혁신적으�
 ||**mental ray가 마야 4.5와 함께 무료로 동봉**
 ||**Alias/Wavefront가 Scientific and Technical Academy Award for Maya 수상
 ||**Paul Debevec - Light Stage** /Light stage,사람이 안에 있고 hdr로 촬영/light LED, 오브젝트에 맞는 다른 색상코드 값을 생산함
-||**Star Wars Episode2: Attack of the Clones directed by George Lucas** ,Sony 의 HDW F900을 사용해 HD Video로 촬영된 
-첫 할리우드 주류 영화 / 블록버스터
+||**Star Wars Episode2: Attack of the Clones directed by George Lucas** ,Sony 의 HDW F900을 사용해 HD Video로 촬영된 첫 할리우드 주류 영화 / 블록버스터
 ||**The Time Machine directed by Simon Wells/ 타임랩스 효과 사용: 빌딩과 산이 무너진다
 ||**Reign of Fire directed by Rob Bowman**
 ||**The Lord of the Rings:The Two Towers directed by Peter Jackson** 
