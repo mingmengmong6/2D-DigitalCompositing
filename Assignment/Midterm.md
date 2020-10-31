@@ -878,6 +878,7 @@ VISUAL EFFECTS를 사용한 영화들이 증가하기 시작하였고 할리우�
 
 ### 2010 - 2014: 불가능을 넘어서/BEYOND THE IMPOSSIBLE
 년도|설명|
+|:-----:|:-----|
 2010|**C.O.R.E Digital Pictures가 문을 닫았다**
 ||**Cafe FX가 문을 닫았다**
 ||**Sony Picture Imageworks가 Open Shading Language(OSL)출시/ 렌더엔진
