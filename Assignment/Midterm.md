@@ -265,7 +265,7 @@ RenderDotC, RenderMan Studio (Maya. Houdini. Katana)
 1979|**Ary Ray Smith가 최초의 24비트(RGB) 도색 시스템 'Paint3' 구현
 1979|**Ary Ray Smith, Ed Emshwiller, Lance Williams & Garland Stern 유명한 '선스톤(Sunstone)' 애니메이션 제작**
 1979|**Nolan Bushnell과 Ted Dabney 최초의 아타리 컴퓨터 (Atari computers)를 소개**
-||**1979 오스카 수상 Alien **
+||**1979 오스카 수상 Alien**
 1980|**Pacific Data Images가 설립** 영화: Terminator 2, Star Trek VI, Robocop 3, True Lies, Natural Born Killers, Batman Forever등
 1980|**Kleiser-Walczak Construction Company가 설립** 영화:Flash Gordon, Tron, Flight of the Navigator, Honey, I Blew up the Kids, Clear and Present Danger, Stargate
 1980|**Michael Crichton의 Looker
@@ -280,14 +280,14 @@ RenderDotC, RenderMan Studio (Maya. Houdini. Katana)
 1981|**ILM이 '잃어버린 방주의 습격자(Raiders of the Lost Ark)'의 클라이맥스에 광학적이고 실용적인 효과를 사용**
 1981|**Phil Tippett이 Dragonslayer 효과를 위해 Go-Motion을 사용**
 1981|**Donkey kong이 닌텐도에 의해 개발**
-||**1981 오스카 수상 Raiders of the Lost Ark **
+||**1981 오스카 수상 Raiders of the Lost Ark**
 1982|**Commodore 64 출시**
 1982|**ZX 스펙트럼이 출시**
 1982|**SGI(Silicon Graphics Inc.)가 설립**
 1982|**SGI Machines** 
 1982|**SGI IRIX operating system**
 1982|**Adobe Systems 회사가 설립**
-1982|**Autodesk가 설립
+1982|**Autodesk가 설립**
 1982|**최초의 모션 캡처 시스템 개발** New York Institute of Technology Computer Graphics Lab의 레베카 알렌(Rebecca Allen)이 최초의 모션 캡쳐 시스템을 도입
 1982|**The Mandrill이 텍스처 맵핑 또는 배경 이미지 용도로 처음 사용**
 1982|**NYIT에서 Paul Heckbert와 Pat Hanrahan의 '빔 트레이싱 (Beam tracing)'의 텍스처 맵으로 사용된 Lena 레나 이미지** Lena Sjooblom은 플레이보이 매거진 1972년 11월호에서 중심 인물이었다.
