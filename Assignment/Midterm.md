@@ -217,8 +217,87 @@ Matte World Digital-Hugo(2011),Michael Pangrazio-Raiders of the Lost Ark(1981)
 1976|**스티브 잡스와 Steve Wonzniak이 최초의 애플 컴퓨터를 출시했다.**
 ||**1971 오스카 수상 King Kong and Logan's run - Special Achievement Academy Award**
 
-1975|**
-1975|**
+### 1977 - 1982: 황금해 / THE GOLDEN YEARS
+년도|설명|
+|:-----:|:-----|
+1977|**George Lucas가 Industrial Light & Magic을 설립** 영화: Star Wars, Star Trek, Indiana Jones, Back to the Future, The Abyss, Terminator 2, Death Becomes Her, Jurassic Park, Twister, The Perfect Storm, War of the Worlds, Mission: Impossible 등
+1977|**R/Greenberg Associates이 설립되었다.** 영화: Superman, Alien, Altered States, Blow Out, The World According to Garp, Ghostbusters 등/ 오프닝 시퀀스 Cape Fear, 21 Jump Street, Twin Peaks, North by Northwest, Se7en, Broadwalk Empire, Smokin' Aces, Oceans 11, Hollow Man, Inner Space, I, Robot, Splice 등
+1977|**For outstanding achievement in VISUAL EFFECTS로 오스카 부문 변경**
+1977|**John Dykstra 모션 컨트롤 시스템인 'Dykstraflex' 개발**스타워즈에서 복합 효과 숏에 사용되는 모션픽쳐 카메라 시스템이다,VistaVision 카메라와 7개 축 모션:roll, pan, tilt, swing, boom, traverse, track, lens focus, motor drive, shutter control
+1977|**Nelson Max이 최초로 Scientific Visualisation의 일부 제작**
+1977|**Computer Graphics World 잡지는 'Computer Graphics Newsletter'로 처음 출판.**
+1977|**처음으로 완전한 CG 타이틀 시퀀스가 'Superman'을 위해 제작**
+1977|**Star Wars의 Visual effects by Industrial Light & Magic**
+1977|**Close Encounters of the Third Kind는 메인 우주선(main ship)에 400Ib 섬유유리 모델(fiber-glass model)을 사용했다.**
+1977|**VHS(Video Home System가 일본의 Matsushita 회사에 의해 발명**
+1977|**Franklin Crow가 텍사스 대학에서 Anti-Aliasing을 소개**:화면의 영상을 자연스럽고 매끄럽게 표현하도록 해 주는 화면 처리 기법, 계단현상을 해결하기 위한 방법 
+1977|**James Blinn이 Blinn-phong shading 개발**
+1977|**James Blinn이 Bump mapping 개발**
+||**1977 오스카 수상 Star Wars Episode 4: A New Hope**
+1978|**'반지의 제왕' 만화가 광범위한 로토스코핑 사용으로 기록**
+1978|**The Mechanical Universe가 James Blinn에 의해 제작**52부로 구성된 시리즈는 코페르니쿠스(Copernicus)에서 양자역학에 이르는 주제를 다루는 대학 수준의 물리학을 소개하고 있다
+1978|**유명한 raytracing 씬, 벨 연구소의 Turner Whitted - The Compleat Angler'
+1978|**Ed Catmull이 George Lucas에 의해 Lucasfilm의 컴퓨터 사업부장으로 영입**  Lucas의 위시리스트:a digital nonlinear film editing system, 디지털 사운드 편집 시스템, 디지털 필름 프린터, 컴퓨터 그래픽의 추가적 탐구
+1978|**James Clark이 그의 미래 회사 SGI를 위한  'Geometry Engine'기초를 설계**
+||**1978 오스카 수상 Superman - Special Achievement Academy Award**
+1979|**Dream Quest Images가 Hoyt Yeatman과 Scott Squires에 의해 설립**영화:Blade Runner, Gremlins, Short Circuit, Blue Thunder, The Lost Boys, Total Recall 등
+1979|**Robert Abel과 Associates이 설립** 영화: Star Trek: The Motion Picture, Tron, Cube Quest, The Andromeda Strain
+1979|**Jim Henson's Creature Shop이 설립** 영화:The Muppets, Teenage Mutant Ninja Turtles, The Flintstones, 101 Dalmatian 등
+1979|**REYS 렌더링**
+- 오리지널 Reyes software는 1979 - 1981년경 루카스필름의 컴퓨터 그래 픽 연구 그룹의 로버트 쿡(Robert Cook)과 로렌 카펜터(Loren Carpenter)에 의해 작성
+- Reyes는 Render Everything You Ever Saw의 약자
+- Star Trek Il: The Wrath of Khan와 Genesis effect sequence에 처음 사용
+- REYES의 소스 코드는 수년간 다수의 렌더 엔진에 사용되어 왔다.
+>Aqsis (Maya . Houdini . Blender), Bakery Relight Renderer Blue Moon Rendering Tools (Maya),Firefly (Poser)
+Gelato - GPU (Maya. 3DSMax),Guerilla Render (Maya),JrMan,Mantra (Houdini),Pixels3D Renderer,Pixie RenderAnts - GPU,
+RenderDotC, RenderMan Studio (Maya. Houdini. Katana)
+년도|설명|
+|:-----:|:-----|
+1979|**Ridley Scotts의 Alien이 Nostromo의 navigational charts를 보여주기 위해 사용**
+1979|**Jim Blinn이 나사를 위한 'Voyager' 애니메이션 fly-by 제작**
+1979|**디즈니가 컴퓨터 그래픽을 사용하여 'The Black Hole'의 오프닝 타이틀 제작**
+1979|**스티븐 스필버그의 '1941'**
+1979|**Lewis Gilbery의 Moomraker**
+1979|**Ronald Neame의 Meteor**
+1979|**Douglas Trumbull과 John Dykstra가 Star Trek: The Motion Picture에서 효과를 제작**
+1979|**Buck Rogers in the 25th Century에서 매트 페인팅 널리 사용**
+1979|**Ary Ray Smith가 최초의 24비트(RGB) 도색 시스템 'Paint3' 구현
+1979|**Ary Ray Smith, Ed Emshwiller, Lance Williams & Garland Stern 유명한 '선스톤(Sunstone)' 애니메이션 제작**
+1979|**Nolan Bushnell과 Ted Dabney 최초의 아타리 컴퓨터 (Atari computers)를 소개**
+||**1979 오스카 수상 Alien **
+1980|**Pacific Data Images가 설립** 영화: Terminator 2, Star Trek VI, Robocop 3, True Lies, Natural Born Killers, Batman Forever등
+1980|**Kleiser-Walczak Construction Company가 설립** 영화:Flash Gordon, Tron, Flight of the Navigator, Honey, I Blew up the Kids, Clear and Present Danger, Stargate
+1980|**Michael Crichton의 Looker
+1980|**Irvin Kershner의 스타워즈 에피소드 5:The Empire Strikes Back**
+1980|**Quantel이 Paintbox 1을 출시**
+1980|**소니가 Walkman 출시**
+1980|**Pac-Man이 Namco에 의해 개발**
+1980|**Cinefex #1이 출시 세계 최고 visual effect 저널로 발표됨**
+||**1980 오스카 수상 스타워즈 5: The Empire Strikes Back- Special Achievement Academy Award**
+1981|**Adam Powers가 유명한 애니메이션 The Juggler 제작** 소프트웨어는 James Blinn, Frank Crow, Craig Reynolds, and Larry Malone에 의해 사용되고 작성됨
+1981|**Nelson Max가 Carla's Island'를 위한 최초의 CGI 구름과 물을 제작**
+1981|**ILM이 '잃어버린 방주의 습격자(Raiders of the Lost Ark)'의 클라이맥스에 광학적이고 실용적인 효과를 사용**
+1981|**Phil Tippett이 Dragonslayer 효과를 위해 Go-Motion을 사용**
+1981|**Donkey kong이 닌텐도에 의해 개발**
+||**1981 오스카 수상 Raiders of the Lost Ark **
+1982|**Commodore 64 출시**
+1982|**ZX 스펙트럼이 출시**
+1982|**SGI(Silicon Graphics Inc.)가 설립**
+1982|**SGI Machines** 
+1982|**SGI IRIX operating system**
+1982|**Adobe Systems 회사가 설립**
+1982|**Autodesk가 설립
+1982|**최초의 모션 캡처 시스템 개발** New York Institute of Technology Computer Graphics Lab의 레베카 알렌(Rebecca Allen)이 최초의 모션 캡쳐 시스템을 도입
+1982|**The Mandrill이 텍스처 맵핑 또는 배경 이미지 용도로 처음 사용**
+1982|**NYIT에서 Paul Heckbert와 Pat Hanrahan의 '빔 트레이싱 (Beam tracing)'의 텍스처 맵으로 사용된 Lena 레나 이미지** Lena Sjooblom은 플레이보이 매거진 1972년 11월호에서 중심 인물이었다.
+1982|**Skeleton Animation System이 오하이오 주 CGRG에서 Dave Zeltzer에 의해 개발**
+1982|**Douglas Trumbull의 Blade Runner에 광학(optical), 미니어처 등의 효과가 혼합.**
+1982|**Star Trek II: The Wrath Of Khan'는 'Genesis effect에 시퀀스에 첫 particle system을 사용**
+1982|**Tron visual effects by Abel, MAGI, DE**
+1982|**Tobe Hooper의 Poltergeis**
+1982|**Dennis Muren이 E.T.the Extra-Terrestrial 감독**
+||**1980 오스카 수상 E.T.the Extra-Terrestrial**
+
 >출처
 
 네이버 지식백과, "VFX와 SFX" https://terms.naver.com/entry.nhn?docId=3434977&cid=58460&categoryId=58460<sup>1)</sup>
