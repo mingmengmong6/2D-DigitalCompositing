@@ -471,7 +471,233 @@ RenderDotC, RenderMan Studio (Maya. Houdini. Katana)
 ||**Fred Dekker - Robocop3**
 ||**Christopher Guest - Attack of the 50 Foot Woman** tv 영화
 ||**Marco Brambilla - Demolition Man**
+||**1993 오스카 수상 Jurrasic park**
 
+쥬라기 공원 제작
+- Live action dinosaurs
+- 모션 블러 추가, 와이어 제거
+- 티렉스의 뼈를 만들고 애니메이팅함 컴퓨터 generator를 통해서
+- Muscle jiggle, breathing, viewpaint (3d paint system)
+- Pixar’s renderman으로 렌더링함
+- 티펫 스튜디오가 공룡 애니메이팅을 도와줌
+- 스켈레톤을 만들어서 메탈로 만든 후 Stopmotion puppet 방식으로 움직임
+- Eye liner poles로 배우들에게 공룡이 어느 위치에 있는 지 알려줌
+- 와이어 있이 촬영 후 인터랙션 추가
+- 호수를 캘리포니아에서 촬영하고 합성함
+- 3d 새를 만들어서 합성
+- 메인 도로 씬은 11개 CG shot이 요구되었는데 그 중 8개는 Tippett studio에서 함
+- D.I.D data는 손가락, 발가락, 입 같은 작은 애니메이팅 부분에 더 나아가 클린업과 개선했다
+- Renderman shader는 티렉스(T-rex)씬에서 비가 흘러 넘치는 것을 시뮬레이션 했다
+- 티렉스와 더 상호작용하기 위해서 2개의 숏 중 지프차가 cg로 대체되었다
+- 카메라가 액션을 따라가며 수직으로 올라갔다
+- 스턴트맨은 디지털 스턴트맨으로 대체됨 
+- 티렉스의 입이 가까이 올 때 티렉스 애니메이션의 위에서 Industrial Light and Magic은 프레임의 한 면을 조절했다
+- 핸드핼드 카메라 움직임의 문제를 해결하기 위해서 day-glow 골프공을 놓아서 애니메이터에게 카메라 움직임을 재조정하는데 도와줬다.
+- 갈리미무스 각각에게 달리는 싸이클을 Stand in을 사용해 paths, 각각의 stand in에게 full animated character로 대체,각각 다른 개인적인 움직임을 갖도록 공룡들을 각각 비틀었다
+
+### 1994 - 1996: 주류로 가다/GOING MAINSTREAM
+년도|설명|
+|:-----:|:-----|
+1994|**Eric Wenger와 Kai Krause가 Bryce 개발** (3d 프로그램)
+||**Caligari corporation가 Truespace 개발
+||**Larry Grit가 Blue moon render tools 개발**첫번째의 오픈소스 RenderMan/ REYES compliant renderer 이었다
+||**Silicon Graphics가 Alias Research and Wavefront Technologies를 인수** 인수비용은 5백만달러
+||**Microsoft가 Softimage를 인수** 모델링, 효과 작업을 유용하게 하는 프로그램, 매우 세부적으로 조절하여 자연스럽게 애니메이팅 할 수 있다
+||**Iomega가 Zipdrive 개발**
+||**Cinesite회사 설립** 영화: Harry potter, Avengers, Charile and the chocolate factory, Golden compass 등
+||**C.O.R.E. Digital Pictures가 설립**후디니를 주로 사용, 영화:Darkman 2,Cube, Blade2,Resident Evil 등
+||**Floyer films 문을 닫음**
+||**Reboot Effects by Mainframe Entertainment** 최초로 100% 컴퓨터로 만든 텔레비전 시리즈, 2007년에 Rainmaker Animation으로 이름 바꿈
+||**라이언킹** 디즈니 애니메이션에서 처음으로 crowd simulation이 사용됨
+||**포레스트 검프** 디지털 이미지와 효과를 결합함
+||**The Flinstones** 디지털 fur rendering과 효과가 Industrial Light and Magic에 의해 사용됨
+||**The mask** 만화적인 효과가 사용됨, Industrial Light and Magic과 스티븐 윌리엄스 제작
+||**The Hudsucker Proxy**
+||**True lies
+||**Frankenstein directed by Kenneth Branagh**
+||**Interview with the vampire** 모핑효과
+||**Star Trek : Generations**
+||**1994 오스카 수상 Forest Gump**
+1995|**Manex Visual Effects 설립** 영화: Matrix, Mission Impossible 2, Deep Blue Sea,Judge Dredd, Exit 등
+||**Blur studios 설립** 영화: Rocky, Avatar, Deep Rising, Battleship 등
+||**Banned from the Ranch 설립** 영화:Man in Black, Deep Rising, Dr. Dolittle, Spawn 등
+||**POP(Pacific Ocean Post)설립** 영화: Crimson Tide, Die Hard3: Water World, Batman Forever, Broken Arrow, Dalylight 등
+||**Rising Sun Pictures설립** 
+||**Adobe가 Aldus인수하고 After effects 얻음**
+||**Parallax software가 Matador 출시**Instrumental roto paint work program
+||**Parallax software가 Matador 출시**후에 Illusion이 됨
+||**Kaydra가 Filmbox를 출시**모션 컨트롤 시스템, 후에 MotionBuilder가 됨
+||**ADSG가 Elastic Reality 출시**모핑(Morphing) 워핑(Warping) 툴
+||**1995 Autodesk가 3D Studio MAX 출시**
+||**'The Simpsons’ Halloween special** 3d 컴퓨터 그래픽으로 심슨을 잘 구현함
+||**Chris Noonan - Babe** 컴퓨터로 동물이 말하는 것을 최초 구현
+||**The City of Lost Children / French film**초록색 particle과 효과들이 사용됨, 컴퓨터 그래픽으로 표현
+||**Robert Longo - Johnny Mnemonic** SF film
+||**Danny Cannon -‘Judge Dredd’** 최초 완전히 컴퓨터로 디지털 스턴트맨
+||**Brad Silberling - Casper** 실사영화(live action film)에서 첫 3d lead character, Industrial Light and Magic이 제작
+||**Frank Marshall - Congo**
+||**Ron Howard - Apollo 13**
+||**Batman forever directed by Joel Schumacher** 완전히 컴퓨터로 디지털 스턴트맨/ 워너 브라더스 Imaging Technology and PDI
+||**Casino directed by Martin Scorsese** 최초로 Radiosity lighting 과 렌더링 기술이 사용됨 / Matte World Digital
+||**Waterworld directed by Kevin Reynolds** 그 당시 제작비용이 제일 비쌌음
+||**Jumanji directed by Joe Johnston** Paricle technology를 기반으로 사실적인 털을 구현 / Industrial Light and Magic
+||**Toy Story directed by Jonn Lasseter**첫 장편 컴퓨터 그래픽 영화 / 픽사, 27명의 애니메이터가 영화 작업,우디는 가장 복잡한 캐릭터로서 723개의 모션 컨트롤이 요구됨, 212개의 얼굴과 58개의 입을 포함해서. 이 영화를 렌더링하기 위해 300대의 컴퓨터가 사용, 각각의 프레임은 렌더링하는데 45분에서 30시간이 걸림, 완성된 애니메이션은 1주에 3분정도 작동했다, 최종적으로 영화는 800,000 기계 시간과 114,200 프레임이 요구됨, 최종 렌더링 해상도는 1536 * 922 픽셀
+||**1995 오스카 수상 Babek**
+1996|**The Foundary가 Bruno Nicoletti and Simon Robinson에 의해 설립** 제품: Nuke, Hiero,Mari, Katana, Modo, CameraTracker, Furnace, Keylight, Ocula,Rolling Shutter, Kronos
+||**Digital Dimension 설립** 영화: Driven, Frailty, Final Destination 2, Elf, The Last Samurai 등
+||**Dream Quest Images가 The Secret Lab가 되다** 영화: Shanghai Noon, Gone in sixty seconds, Unbreakable, The Princess Diaries 등
+||**Eyeon software가 (Digital) Fusion개발**
+||**Side Effects Software가 Houdini 개발**
+||**Spencer Kimball and Peter Mattis GIMP 개발**
+||**PDI/DreamWorks Animation이 Light를 발전시킴**
+||**The Happy Buddha이 Brian Curless and Marc Levoy에 의해 구성됨**
+||**The Stanford Dragon 최초로 디지털화**
+||**Paul Debevec does the first work in photogrammetry에 있어서 첫 작업을 함**
+||**Chris Landreth The End가 아카데미 수상식에 후보로 지명** 마야로 작업
+||**Quake, the follow-up to Doom이 출시**
+||**T2 3-D Battle Across Time directed by John Bruno, James Cameron & Stan Winston**플로리다 유니버셜 스튜디오에서 관람 가능, 화면에서 나와 관객에게 다가가는 3d attraction
+||**Broken Arrow directed by John Woo**
+||**Twister directed by Jan de Bont**
+||**Industrial Light and Magic이 커스텀 인터페이스를 발전**
+||**Event Horizon directed by Paul W.S Anderson**3ds max ver.1 을 사용한 첫 영화
+||**Dragonheart directed by Rob Cohen** 최초의 사진술 컴퓨터로photoreal computer 만들어진 캐릭터 효과. Industrial Light and Magic와 Tippett Studios 제작
+||**James and the Giant Peach directed by Henry Selick**스톱모션 영화, cg 효과 사용됨
+||**Independence Day directed by Ronal Emmerich**거의 모든 효과가 사용됨
+||**Mission: Impossible directed by Brian De Palma** 터널 폭발씬이 놀라움
+||**1996 Multiplicity directed by Harold Ramis**
+||**Escape from LA directed by John Carpenter**
+||**Daylight directed by Rob Cohen**
+||**Mars Attacks! directed by Tim Burton**
+||**Star Trek: First Contact directed by Jonathan Frakes **
+||**1994 오스카 수상 Independence Day**
+
+### 1997 - 1999: EVERY MAN & HIS DOG
+년도|설명|
+|:-----:|:-----|
+1997|**Frantic Films 설립**
+||**Prime Focus**제일 큰 visual effects 회사 전세계의 아티스트들이 일함
+||**VIFX가 Blue Sky Studios 인수**
+||**Framestore가 the Computer FIlm Compnay 인수**
+||**Kleiser-Walczak Construction Company 문을 닫았다**
+||**Boss Film Studios가 문을 닫았다**
+||**Discreet이 Denim의 Software Paint and Effect 인수** Combustion으로서 출시
+||**Nothing Real이 Shake 출시** Sony Picture Imageworks에 의해 개발, Matt Plec과 Ron Brinkmann,
+||**Bob Sabiston이 ColorEngine을 썼다**Rotoshop으로 알려져있다.' Walking Life'와 'A Scanner Darkly'에 사용
+||**Solid Angle의 Marcos Fajardo가 Arnold를 개발** 아놀드가 발전되기 시작했다 
+||**e-on이 Sofrware Vue 출시** Vue 로 환경을 만듬( 땅, 하늘 등)
+||**Dan Ritchie가 'Project Dogwaffle'을 개발** 오픈소스 프로그램
+||**Spawn directed by Mark A.Z. Dippe** 장편영화에서 최초로 3d 모핑이 사용
+||**Contact directed by Robert Zemeckis** 첫 오프닝 3분 시퀀스는 지금까지 촬영된 단일 디지털 효과 중에 젤 길었다
+||**Titanic directed by James Cameron** 23개의 visual effects 회사, 디지털 물과 환경, 모션캡쳐, 모듈 미니어쳐 사용 
+||**The Fifth Element directed by Luc Besson**
+||**Starship Troopers directed by Paul Verhoeven** 티펫 스튜디오, 벌레들을 다 만들고 그 해 큰 영화 중 하나였음
+||**Men in Black directed by Barry Sonnenfeld** 놀라운 시퀀스와 추격씬
+||**Speed 2: Cruise Control directed by Jan de Bont**
+||**Jurassic Park: The lost World directed by Steven Spielberg**
+||**Mousehunt directed byGore Verbinski** 
+||**Flubber directed by Les Mayfield** Industrial Magic & Light
+||**The Star Wars Trilogy: Special Edition이 ILM에 의해 350 숏**
+||**1997 오스카 수상 Titanic **
+1998|**Method Studio 설립**
+||**Double Negative 설립** 유럽에서 가장 큰 visual effects company
+||**Banned from the Ranch가 문을 닫았다**
+||**Metrolight Studios가 문을 닫았다**
+||**POP(Pacific Ocean Post)가 문을 닫았다**
+||**Colossal Pictures가 문을 닫았다**
+||**Avid가 SOFTIMAGE를 샀다/ 3d 3.8 microsoft**
+||**Alias Wavefront가 Maya 출시** 마야 - 실제로 구현함, 다른 오브젝트와 상호작용, 매우 뛰어남, 인터렉티브 라이팅, 브러쉬랑 스컬핑 툴로 컨트롤하게 하는 혁신적인 툴
+||**Robert McNeel & Associates가 Rhinoceros 3d 출시**
+||**Next Limi Technologies가 RealFlow 출시**
+||**NeoGeo & Not A Number Technologies가 Blender 출시**
+||**Paul Debevec-High Dynamic Range Radiance Map(HDRI) 첫번째 작업**
+||**The Visual Effects Society 설립**
+||**Chris Landreth - Bingo**아카데미 어워드에 수상후보로 오
+||**Digital Domain -Tightrope**
+||**ILM 테스트를 제작했다. Frankenstein vs. The Wolfman**Industrial Magic & Light
+||**Lost in Space directed by Stephen Hopkins** UK Houses와 콜라보레이션한 최초의 장편영화.
+||**Mighty Joe Young directed by Ron Underwood**마야가 사용되었다
+||**What Dreams May come directed by Vincent Ward** 컴퓨터 그래픽 나무, 3d environment
+||**Deep Rising directed by Stephen Sommers** 호러영화, 사실적, 3d studio max 로 만듦
+||**Godzilla directed by Roland Emmerich**
+||**Deep Impact directed by Mimi Leder**
+||**Small Soliders directed by Joe Dante**
+||**Armageddon directed by Michael Bay**
+||**The Truman Show directed by Peter Weir** 디지털 작업, 매트작업
+||**Star Trek: Insurrection directed by Jonathan Franks**
+||**1997 오스카 수상 What Dreams May Come**
+1999|**The Orphanage 설립**
+||**Gentle Giant Studios 설립** Head, body skinning
+||**VIFX가 Rhythm & Hues Studios & Blue Sky Studios에 팔리고 자사가 되었다**
+||**ILM이 'openEXR'라는 in- house 파일 포멧을 작업하기 시작했다**Main visual effects file format 3d나 합성분야
+||**2D3(now Vicon)가 Bonjou 출시**
+||**fxguide가 John Montogomery, Mike Seymour, Jeff Heuseer에 의해 설립**
+||**Blue Sky Studios가 Bunny 제작**
+||**Matrix**Multiple camera,  slow motion effects사용
+||**Star wars Episode1 - The Phantom Menace directed by George Lucas**디지털 캐릭터, 디지털 효과 사용
+||**The Mummy directed by Stephen Sommers**디지털 메이크업
+||**Stuart Little directed by Rob Minkoff** 마야로 캐릭터 모델링 
+||**Fight Club directed by David Fincher
+||**The Haunting directed by Jan de Bont** Tippet studio
+||**My Favorite Martian directed by Donald Petrie**
+||**Deep blue sea directed by Renny Harlin**
+||**Wild Wild West directed by Barry Sonnenfeld**
+||**Sleepy Hollow directed by Tim Burton**
+||**Galaxy Quest directed by Dean Parisot**
+||**Bicentennial Man directed by Chris Columbus**
+||**End of Days directed by Peter Hyams**
+||**1999 오스카 수상 MATRIX**
+
+### 2000 - 2003: THE COMING OF AGE
+Grown up , modern visual effects, 많은 회사들과 영화들이 혁신적으로 개발되던 시기
+년도|설명|
+|:-----:|:-----|
+2000|**Fuel VFX 설립**
+||**Avid가 softimage XSI 출시**3d는 제품이 출시되었을 때 모델링 tool이 완성되지 않아 초기에 XSI와 함께 번들로 제공
+||**Pixologic가 inc Zbrush 1.0 출시**
+||**Maxon - BodyPaint 3d출시**
+||**Silicon Grail - Chalice출시**
+||**dna research - 3Delight 발전**
+||**Pose Space Deformation 개발**Skin object를 deforming 하는 데 좋음
+||**첫번째 Linux version of Maya 3.0**
+||**Industrial Light and Magic - 단편 애니메이션Work in Progress 제작**
+||**Framestore이 BBC Series Walking with Dinosaurs를 위한 VFX 제작**쥬라기 공원 이후 첫 장편 공룡 영화
+||**Bruce Branit Jeremy Hunt가 독립 단편 405 제작**Visual effects랑 편집이 lightwave, fusion, premiere로 만들어짐
+||**Gladiator directed by Ridley Scott** 중간에 배우가 죽어서 다른사람이 디지털적으로 대체됨
+
+||**
+||**
+||**
+||**
+||**
+
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
 ||**
 ||**
 ||**
@@ -490,4 +716,5 @@ RenderDotC, RenderMan Studio (Maya. Houdini. Katana)
 >출처
 
 네이버 지식백과, "VFX와 SFX" https://terms.naver.com/entry.nhn?docId=3434977&cid=58460&categoryId=58460<sup>1)</sup>
-fxphd, "History of Visual Effects"
+
+fxphd, "History of Visual Effects taught by Matt Leonard" Courses
