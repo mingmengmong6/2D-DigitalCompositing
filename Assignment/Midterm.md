@@ -236,7 +236,7 @@ Matte World Digital-Hugo(2011),Michael Pangrazio-Raiders of the Lost Ark(1981)
 ||**1977 오스카 수상 Star Wars Episode 4: A New Hope**
 1978|**'반지의 제왕' 만화가 광범위한 로토스코핑 사용으로 기록**
 1978|**The Mechanical Universe가 James Blinn에 의해 제작**52부로 구성된 시리즈는 코페르니쿠스(Copernicus)에서 양자역학에 이르는 주제를 다루는 대학 수준의 물리학을 소개하고 있다
-1978|**유명한 raytracing 씬, 벨 연구소의 Turner Whitted - The Compleat Angler'
+1978|**유명한 raytracing 씬, 벨 연구소의 Turner Whitted - The Compleat Angler'**
 1978|**Ed Catmull이 George Lucas에 의해 Lucasfilm의 컴퓨터 사업부장으로 영입**  Lucas의 위시리스트:a digital nonlinear film editing system, 디지털 사운드 편집 시스템, 디지털 필름 프린터, 컴퓨터 그래픽의 추가적 탐구
 1978|**James Clark이 그의 미래 회사 SGI를 위한  'Geometry Engine'기초를 설계**
 ||**1978 오스카 수상 Superman - Special Achievement Academy Award**
@@ -251,6 +251,7 @@ Matte World Digital-Hugo(2011),Michael Pangrazio-Raiders of the Lost Ark(1981)
 >Aqsis (Maya . Houdini . Blender), Bakery Relight Renderer Blue Moon Rendering Tools (Maya),Firefly (Poser)
 Gelato - GPU (Maya. 3DSMax),Guerilla Render (Maya),JrMan,Mantra (Houdini),Pixels3D Renderer,Pixie RenderAnts - GPU,
 RenderDotC, RenderMan Studio (Maya. Houdini. Katana)
+
 년도|설명|
 |:-----:|:-----|
 1979|**Ridley Scotts의 Alien이 Nostromo의 navigational charts를 보여주기 위해 사용**
