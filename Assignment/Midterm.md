@@ -1,6 +1,6 @@
 # Vfx의 역사
 ## Vfx의 기원
-### Vfx란?
+### Vfx란?<sup>1)</sup>
 visual effects, 시각적인 특수효과를 의미한다. 영화 및 애니메이션 산업에 적용되는 영상제작기법 중 컴퓨터 그래픽스(Computer Graphics, 이하 CG)에 바탕을 두고 있는 모든 종류의 디지털 기법이다.
 ### SFX(special effects) - 특수효과의 종류
 1900년대 이전에는 특수효과라고 불렀다.
@@ -1000,10 +1000,10 @@ VR영화의 실현 가능성이 보다 구체화되었고 게임과 영화 분�
 
 네이버 지식백과, "VFX와 SFX" https://terms.naver.com/entry.nhn?docId=3434977&cid=58460&categoryId=58460<sup>1)</sup>
 
-fxphd, "History of Visual Effects taught by Matt Leonard" https://www.fxphd.com/details/402/<sup>1)</sup>
+fxphd, "History of Visual Effects taught by Matt Leonard" https://www.fxphd.com/details/402/<sup>2)</sup>
 
-씨네21,"국내 최고 VFX 전문가들이 진단하는 미래의 시각효과기술" http://m.cine21.com/news/view/?mag_id=86920<sup>1)</sup>
+씨네21,"국내 최고 VFX 전문가들이 진단하는 미래의 시각효과기술" http://m.cine21.com/news/view/?mag_id=86920<sup>3)</sup>
 
-젠미디어,“10년 뒤 영화 속 주인공 모두 CG로 제작” http://www.genmedia.co.kr<sup>1)</sup>
+젠미디어,“10년 뒤 영화 속 주인공 모두 CG로 제작” http://www.genmedia.co.kr<sup>4)</sup>
 
-VFXV,"THE FUTURE OF VFX:INDUSTRY LEADERS LOOK AHEAD" https://www.vfxvoice.com/the-future-of-vfx-industry-leaders-look-ahead/<sup>1)</sup>
+VFXV,"THE FUTURE OF VFX:INDUSTRY LEADERS LOOK AHEAD" https://www.vfxvoice.com/the-future-of-vfx-industry-leaders-look-ahead/<sup>5)</sup>
