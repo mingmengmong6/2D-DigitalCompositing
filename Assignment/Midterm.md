@@ -26,7 +26,7 @@ GG 기술은 처음에는 이러한 SFX를 보조하는 수단으로 사용되�
 |스턴트|모션캡쳐, 동역학 시뮬레이션, Digital actor|모션캡처를 이용하여 안전한 환경에서 동작을 획득한 후 위험한 배경에 적용시키거나, 모션캡처도 불가능할 경우 동역학 시뮬레이션을 이용한 동작 생성 가능|
 
 ## 시대 별 Vfx의 발전
-### 1829 - 1992: 초창기 / THE EARLY YEARS
+### 1829 - 1959: 초창기 / THE EARLY YEARS
 년도|설명|
 |:-----:|:-----|
 |1829|**페나키스토스코프는 조셉 플라토에 의해 확고히 자리잡았다.** 시각의 지속성을 이용해 움직임의 착시를 만들어낸 초기 애니메이션 시스템.  움직이는 영상을 위해 둥근 원판을 분할하고 동작을 차례로 그려 넣은 후 거울에 비추어 돌려보면 움직이는 동작을 볼 수 있게 고안하였다.|
@@ -262,13 +262,13 @@ RenderDotC, RenderMan Studio (Maya. Houdini. Katana)
 1979|**Ronald Neame의 Meteor**
 1979|**Douglas Trumbull과 John Dykstra가 Star Trek: The Motion Picture에서 효과를 제작**
 1979|**Buck Rogers in the 25th Century에서 매트 페인팅 널리 사용**
-1979|**Ary Ray Smith가 최초의 24비트(RGB) 도색 시스템 'Paint3' 구현
+1979|**Ary Ray Smith가 최초의 24비트(RGB) 도색 시스템 'Paint3' 구현**
 1979|**Ary Ray Smith, Ed Emshwiller, Lance Williams & Garland Stern 유명한 '선스톤(Sunstone)' 애니메이션 제작**
 1979|**Nolan Bushnell과 Ted Dabney 최초의 아타리 컴퓨터 (Atari computers)를 소개**
 ||**1979 오스카 수상 Alien**
 1980|**Pacific Data Images가 설립** 영화: Terminator 2, Star Trek VI, Robocop 3, True Lies, Natural Born Killers, Batman Forever등
 1980|**Kleiser-Walczak Construction Company가 설립** 영화:Flash Gordon, Tron, Flight of the Navigator, Honey, I Blew up the Kids, Clear and Present Danger, Stargate
-1980|**Michael Crichton의 Looker
+1980|**Michael Crichton의 Looker**
 1980|**Irvin Kershner의 스타워즈 에피소드 5:The Empire Strikes Back**
 1980|**Quantel이 Paintbox 1을 출시**
 1980|**소니가 Walkman 출시**
@@ -297,8 +297,124 @@ RenderDotC, RenderMan Studio (Maya. Houdini. Katana)
 1982|**Tron visual effects by Abel, MAGI, DE**
 1982|**Tobe Hooper의 Poltergeis**
 1982|**Dennis Muren이 E.T.the Extra-Terrestrial 감독**
-||**1980 오스카 수상 E.T.the Extra-Terrestrial**
+||**1982 오스카 수상 E.T.the Extra-Terrestrial**
 
+### 1983 - 1988: 디지털 영역 속으로 / INTO THE DIGITAL REALM
+년도|설명|
+|:-----:|:-----|
+1983|**Alias Research Inc. (Alias/1) 설립** Steve 'Spaz' Williams는 첫 직원 중 한 명으로 ILM에서 일하는 세계 최고의 애니메이션 제작자 중 한 명이 되었다
+||**'Where the Wild Things Are, 존 라세터(John Lasseter)는 디즈니의 공식이었다.** - MAGI liaison 담당,  캐릭터 애니메이션 - 디즈니(글렌 킨(Glen Keane) 주연)
+,3D 및 컴포지팅 - MAGI / Synthavision (Chris Wedge & Jan Carlee),프로젝트 감독자 - Ken Perlin, 소프트웨어 - Chris Pines, Gene Miller 및 Ken Perlin
+||**Bosch FGS 컴퓨터 그래픽 시스템이 NAB에서 도입**최초의 턴키(turnkey) 3D 애니메이션 시스템
+||**Simutrek Inc가 만든 Cube Quest** 레이저디스크(laserdisc) 배경은 Robert Abel과 Associates에 의해 만들어졌다
+||**Richard Marquand의 스타워즈 에피소드 6: 제다이의 귀환(Star Wars Episode VI: Return of the Jedi)** Lucasfilm Computer Graphics Group에서 만든 Endor moon sequence, Bill Reeves and Tom Duf는 백터 그래픽을 사용
+||**Philp Kaufman의 'The Right Stuff'** Colossal Pictures와 UAFX에 의한 특수 사진효과
+||**스티븐 스필버그의 Twilight Zone: The Movie
+||**1983 오스카 수상 Star Wars Episode VI: Return of the Jedi- Special Achievement Academy Award**
+1984|**WaveFront Technologies(PreView)가 설립**
+||**Greg Turk and Marc Levoy에 의해 제작된 The Stanford Bunny**
+||**John Lasseter가 Lucasfilm의 CG부서에서 일하기 위해 Ed Catmull에 의해 고용**
+||**Tippett Studio 설립** 영화:The Golden Child, RoboCop, Willow, Ghostbusters, Jurassic Park, Starship Troopers 등
+||**Boss Film Studios가 Richard Edlund에 의해 설립** 영화: 2010, Ghostbusters, Fright Night, Poltergeist II, Big Trouble in Little China, Die Hard, Ghost, Batman Returns, Aliens 3 등
+||**BUF Compagnie 설립(BUF animation studio visual effects)** 영화: The City of Lost Children, Fight Club, Panic Room, Matrix 2 & 3, Silent Hill, Batman Begins, Speed Racer, Avatar등
+||**최초의 매킨토시 컴퓨터(Macintosh computer)가 Apple에 의해 판매**
+||**Ray Tracing 소프트웨어는 루카스필름(Lucasfilm)의 앨비 레이 스미스와 로버트 쿡 (Alvy Ray Smith and Robert Cook)에 의해 쓰여졌다.**
+||**Robert Cook, Thomas Poter, Loren Capenter는 유명한 '1984' 풀볼 슛을 했다. 원래 Siggraph 용지 'Distributed Ray Tracing'에서 유래함**
+||**코헨(Cohen)이 발명한 코넬 조명 박스(Cornell illumination Box)** -면당 49개 패치, 패치 RGB 그림당 일정한 색상
+||**Silicon Graphics가 IRIX 1000 출시
+||**Radioity라는 새로운 글로벌 일루미네이션 기법이 코넬 대학의 Don Greenberg에 의해 Siggraph에서 발표**
+||**Alvy Ray Smith의 안드레와 월리 B(The Adventures of André and Wally B)'의 모험** 모델 제작과 애니메이션은 존 라세터(John Lasseter)가 Cray X-MP/48(비용 1,500만 달러) 을 사용하여 제작했다.
+||**Robert Ability&Associate가 30초간 상업용 'Brillance'를 최초로 생성한 컴퓨터 생산**
+||**스티븐 스필버그의 '인디아나 존스와 죽음의 사원(Indiana Jones and Temple of Doom)’**
+||**Irvin Kershner의 Never Say Never Again**
+||**닉 캐슬(Nick Castle)의 The Last Starfighter**
+||**Peter Hyams의 2010**디지털 프로덕션과 Boss Film Corp's Richard Edlund는 목성을 만들기 위해 유체역학(Fluid Dynamics)를 사용
+||**Ivan Reitman의 Ghostbusters**
+||**Leonard Nimoy의 Star Trek III: The Search for Spock**
+||**1984 오스카 수상 Indiana Jones and Temple of Doom**
+1985|**Amiga 1000 출시**
+||**Dan Silva가 Electronic Arts를 위한 'Deluxe Paint'를 제작**
+||**마이크로소프트가 윈도우1.0을 출시**
+||**CG Achievement에 첫 번째 'Academy of Motion Picture Arts and Sciences'수여**영상예술과 과학의 아카데미/Computer Generated Images를 이용한 영화 촬영의 실제 시뮬레이션 제공,존 휘트니 주니어(John Whitney Jr), 게리 데모스(Digital Productions)
+||**최초의 Computer-enhanced live action 모델,Max Headroom**
+||**Drey Straits의 첫 번째 computer-generated video 'Money For Nothing** Steve Barron이 제작하고 Bosch FGS-4000 CGI 시스템과 Quantel Paintbox를 사용하여 Lan Pearson 및 Gavin Blair가 애니메이션 제작
+||**Barry Levinson의 Young Sherlock Holmes**ILM은 live action plate로 합성되는 첫 번째 CG 캐릭터를 생성한다
+||**Ted Berman& Richard Rich의 The Black Cauldron** 장편 애니메이션 동영상에서 CG 요소를 처음 사용
+||**David Lynch의 Dune**
+||**James Cameron의 The Terminator**
+||**Ron Howard의 Cocoon**
+||**Walter Murch의 Return to Oz**
+||**Joe Dante의 Explorers**
+||**Tobe Hooper의 Lifeforce**
+||**Tom Holland- Fright Night**
+||**Jonathan R. Betuel - My Science Project**
+||**Robert Zemeckis - Back to the Future**
+||**1985 오스카 수상 Cocoon**
+1986|**Softimage(Creative Environment)가 출시**
+||**Framestore 설립 (1994년 영화 작업 시작)** 영화: GoldenEye, Avatar, Charlie and the Chocolate Factory, Children of Men, The Chronicles of Narnia, The Dark Knight, Doom, The Golden Compass, Harry Potter, Prince of Persia, Quantum of Solace, SALT, Sherlock Holmes등 
+||**루카스는 스티브 잡스에게 The Graphics croup을 팔았고 새로운 회사는 '픽사'라고 불렸다.** 루카스는 5백만 달러에 팔았다.Dr. Edwin Catmull는 회장, Alvy Ray Smith는 부사장
+||**픽사가 첫 번째 제품인 픽사 이미지 컴퓨터를 출하**초기 비용은 13만 5천 달러였으며 초기 고객은 디즈니와 NSA였다.최근 eBay에서 'Buy it Now'에서 25,000달러에 팔렸다.
+||**Mick Jagger의 뮤직 비디오 'Hard Woman 발매** 예술가로는 Brad deGraf, Bill Kroyer, Kevin Rafferty
+||**디지털 프로덕션에서 'Labyinth'의 오프닝 타이틀 
+||**픽사의 존 라세터(John Lasseter)가 '룩소 주니어(Luxo Jr.)'를 제작, 아카데미상 후보**
+||**윌러드 후이크(Willard Huyck)의 Howard the Duck**장편 영화 최초로 디지털 와이어 제거
+||**제임스 카메론의 Aliens
+||**Randal Kleiser - Flight of the Navigator** 장편 영화 최초로 reflection mapping사용
+||**Leonard Nimoy - Star Trek IV-The Voyage Home** 필름용 Cyberware 3D 스캐너 최초 사용
+||**David Cronenberg - The Fly**
+||**Frank Oz - Little shop of Horrors**
+||**John Carpenter - Big Trouble in Little China**
+||**Tony Scott  - Top Gun**
+||**John Badham - Short Circuit**
+||**1986 오스카 수상 Aliens**
+1987|**Adobe가 일러스트레이터 1.0을 출시**
+||**Prisms이 side Effects Software에 의해 출시**
+||**Robert Abel과 Associates이 문을 닫았다**영화:Star Trek: The Motion Picture, Tron, Cube Quest, The Andromeda Strain
+||**Rhythm and Hues가 설립** 영화: Batman Forever, Waterworld, Babe, Mousehunt, X-Men, Dr. Dolittle, Night at the Museum, Evan Almighty, Alvin and the Chipmunks 등
+||**Blue Sky Studio, Inc. 설립** 영화:Batman Forever, Copycat, Joe's Apartment, The Relic, Titanic, Alien: Resurrection, Mousehunt, The X-Files, Blade, Pushing Tin 등
+||**코넬 대학의 존 월러스(John Wallace)의 'Dutch Interior'**
+||**Caltech의 John Snyder 및 Alan Barr의 초기 ray tracing test**
+||**Jihn Guilermin - King Kong Lives**
+||**Tibor Takacs - The Gate**
+||**Joe Dante - Innerspace**
+||**George Miller - The Witches of Eastwick**
+||**Gary Goddard - Masters of the Universe**
+||**Matthew Robbins - batteries not included**
+||**Paul Verhoeven - RoboCop**
+||**John McTiernan - Predator**
+1988|**Rez.n8 프로덕션이 빌 코박스(Bill Kovacs)에 의해 설립**NFL 및 CBS용 스포츠 그래픽 포함
+||**Matte World Digital 설립** 영화:Prancer, Gremlins 2, RoboCop 2, Flight of the Intruder, Star Trek VI, Far and Away, Demolition Man, The Shadow, Casino Titanic, Mission: Impossible II, Jurassic Park등
+||**Bill and Susan Froyer가 수상 경력이 있는 애니메이션 스튜디오 'Froyer Films'를 설립** 영화: Beverly Hills, Honey, I Shedd the Kids, National Lampoon's Winter Holiday, Jetsons: The Movie, FenGully: The Last Rainforest, FenGully: The Last Rainforest and Asterix Ceoples Ceoples America 등
+||**Jim Henson & Digital Prodions이 'Jim Hemson Hour'를 위한 real-time 3D 디지털 캐릭터 생성**
+||**Talking Head, 가상 캐릭터의 첫 라이브 공연**Michael Wahrmand와 Brad deGraf/Wahrman이 제작**
+||**픽사와 디즈니사이에서 컴퓨터 애니메이션 제작 시스템(CAPS) 개발**
+||**Pixar의 John Lasseter가 제작한 'Tin Toy' 아카데미상 수상**
+||**최초로 CG와 라이브 액션을 결합한 작품, Who Framed Roger Rabbit**
+||**Ron Howard - Willow** digital morphing을 사용한 첫 번째 장편영화
+||**Philip Saville - The Fruit Machine** CFC(런던)가 미국 외에서 수행한 장편 영화 최초의 all-digital 합성물
+||**Tim Burton - Beetlejuice
+||**David Cronenberg - Dead Rigers
+||**Graham Baker- Alien Mation
+||**Chuck Russell -The Blob
+||**1988 오스카 수상 Who Framed Roger Rabbit**
+
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
 >출처
 
 네이버 지식백과, "VFX와 SFX" https://terms.naver.com/entry.nhn?docId=3434977&cid=58460&categoryId=58460<sup>1)</sup>
