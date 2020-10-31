@@ -255,48 +255,48 @@ RenderDotC, RenderMan Studio (Maya. Houdini. Katana)
 년도|설명|
 |:-----:|:-----|
 1979|**Ridley Scotts의 Alien이 Nostromo의 navigational charts를 보여주기 위해 사용**
-1979|**Jim Blinn이 나사를 위한 'Voyager' 애니메이션 fly-by 제작**
-1979|**디즈니가 컴퓨터 그래픽을 사용하여 'The Black Hole'의 오프닝 타이틀 제작**
-1979|**스티븐 스필버그의 '1941'**
-1979|**Lewis Gilbery의 Moomraker**
-1979|**Ronald Neame의 Meteor**
-1979|**Douglas Trumbull과 John Dykstra가 Star Trek: The Motion Picture에서 효과를 제작**
-1979|**Buck Rogers in the 25th Century에서 매트 페인팅 널리 사용**
-1979|**Ary Ray Smith가 최초의 24비트(RGB) 도색 시스템 'Paint3' 구현**
-1979|**Ary Ray Smith, Ed Emshwiller, Lance Williams & Garland Stern 유명한 '선스톤(Sunstone)' 애니메이션 제작**
-1979|**Nolan Bushnell과 Ted Dabney 최초의 아타리 컴퓨터 (Atari computers)를 소개**
+||**Jim Blinn이 나사를 위한 'Voyager' 애니메이션 fly-by 제작**
+||**디즈니가 컴퓨터 그래픽을 사용하여 'The Black Hole'의 오프닝 타이틀 제작**
+||**스티븐 스필버그의 '1941'**
+||**Lewis Gilbery의 Moomraker**
+||**Ronald Neame의 Meteor**
+||**Douglas Trumbull과 John Dykstra가 Star Trek: The Motion Picture에서 효과를 제작**
+||**Buck Rogers in the 25th Century에서 매트 페인팅 널리 사용**
+||**Ary Ray Smith가 최초의 24비트(RGB) 도색 시스템 'Paint3' 구현**
+||**Ary Ray Smith, Ed Emshwiller, Lance Williams & Garland Stern 유명한 '선스톤(Sunstone)' 애니메이션 제작**
+||**Nolan Bushnell과 Ted Dabney 최초의 아타리 컴퓨터 (Atari computers)를 소개**
 ||**1979 오스카 수상 Alien**
 1980|**Pacific Data Images가 설립** 영화: Terminator 2, Star Trek VI, Robocop 3, True Lies, Natural Born Killers, Batman Forever등
-1980|**Kleiser-Walczak Construction Company가 설립** 영화:Flash Gordon, Tron, Flight of the Navigator, Honey, I Blew up the Kids, Clear and Present Danger, Stargate
-1980|**Michael Crichton의 Looker**
-1980|**Irvin Kershner의 스타워즈 에피소드 5:The Empire Strikes Back**
-1980|**Quantel이 Paintbox 1을 출시**
-1980|**소니가 Walkman 출시**
-1980|**Pac-Man이 Namco에 의해 개발**
-1980|**Cinefex #1이 출시 세계 최고 visual effect 저널로 발표됨**
+||**Kleiser-Walczak Construction Company가 설립** 영화:Flash Gordon, Tron, Flight of the Navigator, Honey, I Blew up the Kids, Clear and Present Danger, Stargate
+||**Michael Crichton의 Looker**
+||**Irvin Kershner의 스타워즈 에피소드 5:The Empire Strikes Back**
+||**Quantel이 Paintbox 1을 출시**
+||**소니가 Walkman 출시**
+||**Pac-Man이 Namco에 의해 개발**
+||**Cinefex #1이 출시 세계 최고 visual effect 저널로 발표됨**
 ||**1980 오스카 수상 스타워즈 5: The Empire Strikes Back- Special Achievement Academy Award**
 1981|**Adam Powers가 유명한 애니메이션 The Juggler 제작** 소프트웨어는 James Blinn, Frank Crow, Craig Reynolds, and Larry Malone에 의해 사용되고 작성됨
-1981|**Nelson Max가 Carla's Island'를 위한 최초의 CGI 구름과 물을 제작**
-1981|**ILM이 '잃어버린 방주의 습격자(Raiders of the Lost Ark)'의 클라이맥스에 광학적이고 실용적인 효과를 사용**
-1981|**Phil Tippett이 Dragonslayer 효과를 위해 Go-Motion을 사용**
-1981|**Donkey kong이 닌텐도에 의해 개발**
+||**Nelson Max가 Carla's Island'를 위한 최초의 CGI 구름과 물을 제작**
+||**ILM이 '잃어버린 방주의 습격자(Raiders of the Lost Ark)'의 클라이맥스에 광학적이고 실용적인 효과를 사용**
+||**Phil Tippett이 Dragonslayer 효과를 위해 Go-Motion을 사용**
+||**Donkey kong이 닌텐도에 의해 개발**
 ||**1981 오스카 수상 Raiders of the Lost Ark**
 1982|**Commodore 64 출시**
-1982|**ZX 스펙트럼이 출시**
-1982|**SGI(Silicon Graphics Inc.)가 설립**
-1982|**SGI Machines** 
-1982|**SGI IRIX operating system**
-1982|**Adobe Systems 회사가 설립**
-1982|**Autodesk가 설립**
-1982|**최초의 모션 캡처 시스템 개발** New York Institute of Technology Computer Graphics Lab의 레베카 알렌(Rebecca Allen)이 최초의 모션 캡쳐 시스템을 도입
-1982|**The Mandrill이 텍스처 맵핑 또는 배경 이미지 용도로 처음 사용**
-1982|**NYIT에서 Paul Heckbert와 Pat Hanrahan의 '빔 트레이싱 (Beam tracing)'의 텍스처 맵으로 사용된 Lena 레나 이미지** Lena Sjooblom은 플레이보이 매거진 1972년 11월호에서 중심 인물이었다.
-1982|**Skeleton Animation System이 오하이오 주 CGRG에서 Dave Zeltzer에 의해 개발**
-1982|**Douglas Trumbull의 Blade Runner에 광학(optical), 미니어처 등의 효과가 혼합.**
-1982|**Star Trek II: The Wrath Of Khan'는 'Genesis effect에 시퀀스에 첫 particle system을 사용**
-1982|**Tron visual effects by Abel, MAGI, DE**
-1982|**Tobe Hooper의 Poltergeis**
-1982|**Dennis Muren이 E.T.the Extra-Terrestrial 감독**
+||**ZX 스펙트럼이 출시**
+||**SGI(Silicon Graphics Inc.)가 설립**
+||**SGI Machines** 
+||**SGI IRIX operating system**
+||**Adobe Systems 회사가 설립**
+||**Autodesk가 설립**
+||**최초의 모션 캡처 시스템 개발** New York Institute of Technology Computer Graphics Lab의 레베카 알렌(Rebecca Allen)이 최초의 모션 캡쳐 시스템을 도입
+||**The Mandrill이 텍스처 맵핑 또는 배경 이미지 용도로 처음 사용**
+||**NYIT에서 Paul Heckbert와 Pat Hanrahan의 '빔 트레이싱 (Beam tracing)'의 텍스처 맵으로 사용된 Lena 레나 이미지** Lena Sjooblom은 플레이보이 매거진 1972년 11월호에서 중심 인물이었다.
+||**Skeleton Animation System이 오하이오 주 CGRG에서 Dave Zeltzer에 의해 개발**
+||**Douglas Trumbull의 Blade Runner에 광학(optical), 미니어처 등의 효과가 혼합.**
+||**Star Trek II: The Wrath Of Khan'는 'Genesis effect에 시퀀스에 첫 particle system을 사용**
+||**Tron visual effects by Abel, MAGI, DE**
+||**Tobe Hooper의 Poltergeis**
+||**Dennis Muren이 E.T.the Extra-Terrestrial 감독**
 ||**1982 오스카 수상 E.T.the Extra-Terrestrial**
 
 ### 1983 - 1988: 디지털 영역 속으로 / INTO THE DIGITAL REALM
@@ -354,10 +354,10 @@ RenderDotC, RenderMan Studio (Maya. Houdini. Katana)
 ||**루카스는 스티브 잡스에게 The Graphics croup을 팔았고 새로운 회사는 '픽사'라고 불렸다.** 루카스는 5백만 달러에 팔았다.Dr. Edwin Catmull는 회장, Alvy Ray Smith는 부사장
 ||**픽사가 첫 번째 제품인 픽사 이미지 컴퓨터를 출하**초기 비용은 13만 5천 달러였으며 초기 고객은 디즈니와 NSA였다.최근 eBay에서 'Buy it Now'에서 25,000달러에 팔렸다.
 ||**Mick Jagger의 뮤직 비디오 'Hard Woman 발매** 예술가로는 Brad deGraf, Bill Kroyer, Kevin Rafferty
-||**디지털 프로덕션에서 'Labyinth'의 오프닝 타이틀 
+||**디지털 프로덕션에서 'Labyinth'의 오프닝 타이틀**
 ||**픽사의 존 라세터(John Lasseter)가 '룩소 주니어(Luxo Jr.)'를 제작, 아카데미상 후보**
 ||**윌러드 후이크(Willard Huyck)의 Howard the Duck**장편 영화 최초로 디지털 와이어 제거
-||**제임스 카메론의 Aliens
+||**제임스 카메론의 Aliens**
 ||**Randal Kleiser - Flight of the Navigator** 장편 영화 최초로 reflection mapping사용
 ||**Leonard Nimoy - Star Trek IV-The Voyage Home** 필름용 Cyberware 3D 스캐너 최초 사용
 ||**David Cronenberg - The Fly**
@@ -397,7 +397,10 @@ RenderDotC, RenderMan Studio (Maya. Houdini. Katana)
 ||**Chuck Russell -The Blob**
 ||**1988 오스카 수상 Who Framed Roger Rabbit**
 
-||**
+### 1989 - 1993: 광학의 몰락 / THE FALL OF OPTICAL
+년도|설명|
+|:-----:|:-----|
+1989|**Scanline VFX 설립** 영화:
 ||**
 ||**
 ||**
