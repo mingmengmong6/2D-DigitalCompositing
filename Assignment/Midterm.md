@@ -943,7 +943,7 @@ VISUAL EFFECTS를 사용한 영화들이 증가하기 시작하였고 할리우�
 ||**The Hobbit: An Unexpected Journey directed by Peter Jackso**/-초당 48프레임으로 촬영된 최초의 영화
 ||**Les Miserables directed by Tom Hooper**
 ||**Abraham Lincoln: Vampire Hunter directed by Timur Bekmambetov**
-|**Skyfall directed by Sam Mendes**
+||**Skyfall directed by Sam Mendes**
 ||**2012 오스카 수상 Life of Pi**
 ||**-Les Miserables directed by Tom Hooper**
 ||**Abraham Lincoln: Vampire Hunter' directed by Timur Bekmambetov**
@@ -976,8 +976,7 @@ VISUAL EFFECTS를 사용한 영화들이 증가하기 시작하였고 할리우�
 ||**47 Ronin directed by Carl Rinsch**
 ||**Walking with Dinosaurs directed by Barry Cook and Neil Nightingale**
 ||**2014 오스카 수상 Gravity**
-2014|**Movies on the Horizon: RoboCop,Lone Survivor Noah,Captain America: The Winter Soldier,
-Dawn of the Planet of the Apes,The Amazing Spider-Man 2,X-Men: Days of Future Past,Transformers: Age of Extinction,Edge of Tomorrow,Teenage Mutant Ninja Turtles,Jupiter Ascending,Interstellar,The Hobbit: There and Back Again,Tomorrowland
+2014|**Movies on the Horizon: RoboCop,Lone Survivor Noah,Captain America: The Winter Soldier,Dawn of the Planet of the Apes,The Amazing Spider-Man 2,X-Men: Days of Future Past,Transformers: Age of Extinction,Edge of Tomorrow,Teenage Mutant Ninja Turtles,Jupiter Ascending,Interstellar,The Hobbit: There and Back Again,Tomorrowland
 ||**
 ||**
 ||**
