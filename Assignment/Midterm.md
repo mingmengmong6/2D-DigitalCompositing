@@ -1000,7 +1000,7 @@ VR영화의 실현 가능성이 보다 구체화되었고 게임과 영화 분�
 
 네이버 지식백과, "VFX와 SFX" https://terms.naver.com/entry.nhn?docId=3434977&cid=58460&categoryId=58460<sup>1)</sup>
 
-fxphd, "History of Visual Effects taught by Matt Leonard" Courses
+fxphd, "History of Visual Effects taught by Matt Leonard" https://www.fxphd.com/details/402/<sup>1)</sup>
 
 씨네21,"국내 최고 VFX 전문가들이 진단하는 미래의 시각효과기술" http://m.cine21.com/news/view/?mag_id=86920<sup>1)</sup>
 
