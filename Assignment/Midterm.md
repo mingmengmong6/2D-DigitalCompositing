@@ -979,7 +979,10 @@ VISUAL EFFECTS를 사용한 영화들이 증가하기 시작하였고 할리우�
 2014|**Movies on the Horizon**: RoboCop,Lone Survivor Noah,Captain America: The Winter Soldier,Dawn of the Planet of the Apes,The Amazing Spider-Man 2,X-Men: Days of Future Past,Transformers: Age of Extinction,Edge of Tomorrow,Teenage Mutant Ninja Turtles,Jupiter Ascending,Interstellar,The Hobbit: There and Back Again,Tomorrowland
 
 ## VFX의 미래
-> VFX 산업이 낙수효과가 크다. 덕분에 3D애니메이션이나 VR 모두 발전할 수 있게 된다. 이제 덱스터 같은 상장회사도 생겼고 기술 인력도 제대로 된 대우를 받고 있으니, 4차산업 혁명 중에서 VFX는 특히 경제 발전에도 도움이 많이 된다.
+> 강윤극, 세종대 만화애니메이션텍에서 영화 특수효과와 가상현실, 3D애니메이션 전공교수
+VFX 산업이 낙수효과가 크다. 덕분에 3D애니메이션이나 VR 모두 발전할 수 있게 된다. 이제 덱스터 같은 상장회사도 생겼고 기술 인력도 제대로 된 대우를 받고 있으니, 4차산업 혁명 중에서 VFX는 특히 경제 발전에도 도움이 많이 된다.
+
+
 >출처
 
 네이버 지식백과, "VFX와 SFX" https://terms.naver.com/entry.nhn?docId=3434977&cid=58460&categoryId=58460<sup>1)</sup>
