@@ -810,102 +810,183 @@ VISUAL EFFECTS를 사용한 영화들이 증가하기 시작하였고 할리우�
 ||**The Fountain directed by Darren Aronofsky**
 ||**Charlotte's Web directed by Gary Winick**
 ||**2006 오스카 수상 Pirates of the Carrivean: Dead Man’s chest**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
+2007|**Prime Focus Group이 Frantic films를 인수**
+||**The Foundry Digital Domain의 Nuke인수**
+||**Skymatter가 Mudbox 인수**/킹콩 영화에서 처음으로 사용됨, 오토데스크가 스카이매터를 2007년 8월에 인수
+||**Paul debevec가 The Acquisition of Specular and Diffuse Normal Maps에 관한 첫 작업을 완성**/이 연구는 ‘벤자민 버튼의 시간을 거꾸로 간다’를 가능하게 했음
+||**The FOundry a scientific and Technicak Academy Awar for Furnace 상을 받았다**
+||**애플이 아이폰 출시**
+||**Zodiac directed by David Fincher**/블루스크린으로 배경, digital domain 제작
+||**Pirates of the Caribbean: At World's End directed by Gore Verbinski**/ 블루스크린으로 배경, digital domain제작
+||**Spider-Man3 directed by Sam Raimi**
+||**Resident Evil:Extinction directed by Russel Mulcahy**
+||**The Golden Compass directed by Chris Weitz**
+||**Harry Potter and the Order of the Phoenix directed by David Yates**
+||**Transformers directed by Michael Bay**
+||**Beowulf directed by Robert Zemeckis**/모션캡쳐를 사용함
+||**I Am Legend directed by Francis Lawrence**
+||**Sweeny Todd: The Demon Barber of FLeet Street directed by Tim Burton**
+||**The Mist directed by Frank Darabont**
+||**Ghost Rider directed by Mark Steven Johnson**
+||**Stardust directed by Matthew Vaughn**
+||**Next directed by Lee Tamahori**
+||**The Last Mimzy directed by Robert Shaye**
+||**2007 오스카 수상  The Golden Compass**
+2008|**Paul Debevec-The Digital Emily Project**/Photo real digital 배우를 구현함,표정 스캔하고 diffuse쉐이딩, 표정 리깅, 애니메이팅 해서 만듬
+||**The Foundry가 Ocula 출시**
+||**Sony Pictures Imageworks가 Flix 개발**/cloudy with a Chanve of Meatballs, The Smurfs, Hotel Transylvania에 사용됨
+||**Weta Digital가 Tissue 개발**/캐릭터의 근육, 피부, 지방을 시뮬레이션하기 위한 직선의 탄성 유한요소 시스템 Linear-elastic finite-element system 
+||**The Incredible Hulk directed by Louis Leterrier**
+||**The Curious Case of Benjamin Button directed by David Fincher**/ photo real human-브래드피트의 노인얼굴을 생성함
+||**Speed Racer directed by Andy Wachowski and Lana Wachowski**
+||**The Chronicles of Narnia: Prince Caspian directed by Andrew Adamson**
+||**Iron Man directed by Jon Favreau**
+||**Hancock directed by Peter Berg**/Digital Emily Project로 이 작업이 가능하게 되었다. 
+||**Indiana Jones and the Kingdom of the Crystal Skull directed by Steven Spielberg**
+||**The Dark Knight directed by Christopher Nolan** /Miniature effect & photography 효과 사용
+||**The Day the Earth Stood Still directed by Scott Derrickson**
+||**Hellboy2: The Golden Army directed by Guillermo del Toro**
+||**Get Smart directed by Peter Segal**
+||**City of Ember directed by Gil Kenan**
+||**Quantum of Solace directed by Marc Forster**
+||**Cloverfielddirected by Matt Reeves**
+||**The Spiderwick Chronicles directed by Mark Water**
+||**10,000 BC directed by Ronald Emmerich**
+||**Inkheart directed by Iain Softley**
+||**Changeling directed by Clint Westwood**
+||**The Spirit directed by Frank Miller**
+||**2008 오스카 수상 The Curious Case of Benjamin Button**
+2009|**The Orphanage가 문을 닫았다**
+||**Sony Picture Imageworks가 Field3D 출시**/Voxel 데이터를 저장하는 오픈 소스 라이브러리, 마야, 소프트이미지, 후디니, 블렌더의 플러그인
+||**Andrew Shpagin(pilgway)가 3D-Coat출시**/ 모델링 프로그램
+||**The Foundry가 Sony Picture Imagework의 Katana 인수**
+||**Watchmen directed by Zack Snyder**
+||**Avatar directed by James Cameron**
+||**Terminator Salvation directed by McG**/ photo real 사용
+||**Star Trek directed by J.J Abrams**
+||**District 9 directed by Neill Blomkamp**/Point position pass – nuke 2d path와 3d environment
+||**Harry Potter and the Half-Blood Prince directed by David Yates**
+||**G.I Joe: The Rise of Cobra directed by Stephen SOmmers**
+||**Transformers: Revenge of the Fallen directed by Michael Bay**
+||**2012 directed by Roland Emmerich**/재난영화
+||**The Mummy: Tomb of the Dragon Emperor directed by Rob Cohen**/digital domain이 메인으로 작업함
+||**G-Force directed by Hoyt Yeatman**
+||**Angels & Demons directed by Ron Howard**
+||**X-Men Origins:Wolverine directed by Gavin Hood**
+||**The Road directed by John Hillcoat**
+||**The Imaginarium of Doctor Parnassus directed by Terry Gilliam** 
+||**2008 오스카 수상 Avatar**
+
+### 2010 - 2014: 불가능을 넘어서/BEYOND THE IMPOSSIBLE
+년도|설명|
+2010|**C.O.R.E Digital Pictures가 문을 닫았다**
+||**Cafe FX가 문을 닫았다**
+||**Sony Picture Imageworks가 Open Shading Language(OSL)출시/ 렌더엔진
+||**The Foundry가 Mari from Weta Digital 인수**
+||**Alice in Wonderland directed by Tim Burton**
+||**Inception directed by Christopher Nolan**
+||**Iron Man2 directed by Jon Favreau**
+||**Harry Potter and the Deathly Hallow: Part 1 directed by David Yates**
+||**Tron: Legacy directed by Joseph Koinski**/Digital Domain 제작, 브이레이와 디지털 캐릭터
+||**Clash of the Titans directed by Louis Letterier**
+||**The A-Team directed by Joe Carnahan**
+||**Prince of Persia: The Sands of Time directed by Mike Newell**
+||**The Chronicles of Narnia: The Voyage of the Dawn Treader directed by Michael Apted**
+||**The Wolfman directed by Joe Johnson** / 3d morphing 기술
+||**The Last Airbender directed by M.Night Shymalan**
+||**Hereafter directed by Clint Eastwood**
+||**Black Swan directed by Darren Arnofsky**
+||**2010 오스카 수상 Inception**
+2011|**Kerner Optical가 문을 닫았다**
+||**Animal Logic and Weta Digital이 the rendering technology 출시- Deep compositiong**
+||**Sony Picture Imageworks와 ILM이 Alembic 출시**/Alembic : vertex레벨로
+애니메이팅 된 모델을 저장하는 방식, Fluency나 particle도 포함,한 파일에 프레임 데이터 저장
+||**The Foundry가 Storm출시**
+||**The Foundry가 katana 출시**
+||**eyeon Softare가 Generation AM출시**
+||**Rango directed by Gore Verbinski**
+||**Thor directed by Kenneth Branagh and Joss Whedon**
+||**X-Men: First Class directed by Matthew Vaughn**
+||**Harry Potter and the Deathly Hallow:part 2 directed by David Yates**
+||**Cowboys & Aliens directed by Jon Favreau**
+||**Captain America: The First Avenger directed by Joe Johnston**
+||**Hugo directed by Martin Scorsese**
+||**Rise of the Planet of the Apes directed by Rupert Wyatt**
+||**Real Steel directed by Shawn Levy**/ v-ray사용
+||**Transformers:Dark of the Moon directed by Michael Bay**
+||**The Adventures of Tintin directed by Steven Spielberg**
+||**Mission Impossible: Ghost Protocol directed by Brad Bird**
+||**Battle: Los Angeles directed by Jonathan Liebesman**
+||**The Tree of Life directed by Terrence Malick**
+||**Priest directed by Scott Stewart**/ nuke & v-ray기반
+||**Anonymous directed by Roland Emmerich**/ photo realistic
+||**Source Code directed by Duncan Jones**
+||**2011 오스카 수상 Hugo**
+2012|**Matte World Digital이 문을 닫았다**
+||**Animal Logic이 Fuel VFX를 인수**
+||**Luxology가 The Foundry와 힘을 합침**
+||**Autodesk가 Exotic Matter 인수**
+||**The Foundry가 Hiero인수**/ Versioning, Editing, conforming tool
+||**Pixar가 RenderMan 출시**
+||**eyeon Software가 Dimension 출시**
+||**Pretend LLC가 beta testing Steroid 시작**
+||**The Pixel Farm이 PFDepth출시**/Conversion tool  
+||**Isotropix거 Clarisse iFX 출시**/ Animation, texturing, rendering, lighting, compositing이 가능한 툴
+||**John Carter directed by Andrew Stanton**
+
+
+||**Snow White and Huntsman directed by Rupert Sanders**
+||**Battleship directed by Peter Berg**
+||**The Avengers' directed by Joss Whedon**
+||**Life of pi' directed by Ang Lee**/호랑이 cg는 실제 호랑이와 분간하기 어려울 정도로 똑같이 제작
+||**The Amazing Spider-Man' directed by Marc Webb**
+||**Prometheus' directed by Ridley Scott**
+||**The Dark Knight Rises' directed by Christoper Nolan**
+||**Cloud Atlas' directed by Tom Tykwer, Ady Wachowski and Lana Wachoski**
+||**The Hobbit: An Unexpected Journey directed by Peter Jackso**/-초당 48프레임으로 촬영된 최초의 영화
+||**Les Miserables directed by Tom Hooper**
+||**Abraham Lincoln: Vampire Hunter directed by Timur Bekmambetov**
+|**Skyfall directed by Sam Mendes**
+||**2012 오스카 수상 Life of Pi**
+||**-Les Miserables directed by Tom Hooper**
+||**Abraham Lincoln: Vampire Hunter' directed by Timur Bekmambetov**
+||**Skyfall directed by Sam Mendes**
+2013|**Prana Studio가 Rhythm and Hues를 인수**
+||**ILM and Weta Digital이 openEXR 2.0을 출시**/-현재 Nuke의 지원을 받고 있으며, 마야, 후디니, 아놀드(Maya, Houdini and Arnold)를 위해 발표. 새로운 버전은 딥 데이터 지원, 멀티 파트 이미지 파일(즉, 스테레오 지원), 최 적화된 픽셀 읽기 및 네임스페이스(Namespacing)를 지원
+||**Pixar가 OpenSubdiv를 출시했다**-현재 Linux, Windows, OSX 및 Android에서 지원됨
+||**Foundry는 Sony Pictures Imageworks로부터 Flix를 인수**
+||**오토데스크에서 Bifrost 소개**
+||**Adobe, Creative Cloud 론칭**
+||**ZYNC - Cloud Rendering 출시**/사용:Zookeeper, The Way Way Back, Looper, Here Comes the Boom, Star Trek: Into Darkness, Transformers: Dark of the Moon, Hall Pass, and Flight
+||**autodesk에서 rental plans 도입** -Rental plans은 다음을 포함한다: Maya, 3ds Max, Softimage, MotionBuilder, Mudbox, Sketchbook Designer, and AutoCAD
+||**Horizon의 새로운 소프트웨어**,Side Effects: Houdini 13/Chaos Group: V-Ray 3/Solid Angle : Arnold for Houdini/Pixar: RenderMan Pro Server 19/The Foundry: Nuke 8/eyeon Software: Fusion 7
+||**VFX의 선구자 레이 해리하우젠(Ray Harryhausen) 92세로 별세**
+||**Btyan Singer-Jack the Gaint Slayer**
+||**Oz: The Great and Powerful directed by Sam Raimi**
+||**Star Trek Into Darkness directed by J.J. Abrams**
+||**White House Down directed by Roland Emmerich**
+||**Oblivion directed by Joseph Kosinski**
+||**Iron Man 3vdirected by Shane Black**
+||**Man of Steel directed by Zack Snyder**
+||**Pacific Rim directed by Guillermo del Toro**
+||**Now You See Me directed by Louis Leterrier**
+||**Elysium directed by Neill Blomkamp**
+||**Rush directed by Ron Howard**
+||**Carrie directed by Kimberly Peirce**
+||**Thor: The Dark World directed by Alan Taylor**
+||**The Hunger Games: Catching Fire directed by Francis Lawrence**
+||**Ender's Game directed by Gavin Hood**
+||**47 Ronin directed by Carl Rinsch**
+||**Walking with Dinosaurs directed by Barry Cook and Neil Nightingale**
+||**2014 오스카 수상 Gravity**
+2014|**Movies on the Horizon: RoboCop,Lone Survivor Noah,Captain America: The Winter Soldier,
+Dawn of the Planet of the Apes,The Amazing Spider-Man 2,X-Men: Days of Future Past,Transformers: Age of Extinction,Edge of Tomorrow,Teenage Mutant Ninja Turtles,Jupiter Ascending,Interstellar,The Hobbit: There and Back Again,Tomorrowland
+||**
+||**
+||**
+||**
+||**
+
 ||**
 >출처
 
