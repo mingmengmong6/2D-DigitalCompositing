@@ -663,50 +663,48 @@ Grown up , modern visual effects, 많은 회사들과 영화들이 혁신적으�
 ||**Framestore이 BBC Series Walking with Dinosaurs를 위한 VFX 제작**쥬라기 공원 이후 첫 장편 공룡 영화
 ||**Bruce Branit Jeremy Hunt가 독립 단편 405 제작**Visual effects랑 편집이 lightwave, fusion, premiere로 만들어짐
 ||**Gladiator directed by Ridley Scott** 중간에 배우가 죽어서 다른사람이 디지털적으로 대체됨
-
-||**
-||**
-||**
-||**
-||**
-
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
-||**
+||**The Perfect Storm directed by Wolfgang Petersen**
+||**O Brother, Where Art Thou? directed by Joel Coen** D.I Suite로 색보정 된 첫 영화
+||**Dinosaur directed by Eric Leighton, Ralph Zondag** 라이브 액션 배경과 photoreal
+||**Hollow Man  directed by Paul Verhoeven** 피부랑 근육을 없애는 효과사용
+||**Vertical Limit directed by Martin Campbell**
+||**How the Grinch Stole Christmas directed by Ron Howard** 후디니 사용, Digital domain 제작
+||**Red Planet directed by Antony Hoffman**
+||**Sinbad:Beyond the Veil of Mists directed by Alan Jacobs, Evan Ricks** 첫 CGI 장편 영화, 오직 모션 캡쳐를 사용한 최초 CGI 장편 영화
+||**Mission to Mars directed by Brian De Palma**
+||**Pitch Black directed by David Twohy** 우주영화
+||**U-571 directed by Jonathan Mostow**
+||**What Lies Beneath directed by Robert Zemeckis**
+||**The Cell directed by Tarsem Singh**
+||**The 6th Day directed by Roger Spottiswoode**
+||**2000 오스카 수상 Gladiator**
+2001|**Manex Visual Effects가 문을 닫았다**
+||**Silicon Grail이 Rayz로 Chalice 대체**
+||**Natural Motion이 Endorphin 개발**최초 단계적, 적응력의 스켈레톤 애니메이션 시스템
+||**첫 OS X version의 MAYA 4.0**
+||**애플이 첫 아이팟을 출시**5기가나 10기가 크기, 10시간 배터리 수명
+||**Vidocq directed by Pitof** 소니 HDW –F9000 Cinealta camera가 디지털적으로 사용되어 촬영된 첫 영화 
+||**Pearl Harbour directed by Michael Bay** 장편영화에 paul debevec의 high dynamic research가 처음으로 사용됨, Industrial Light & Magic 제작
+||**Final Fantasy - The Spirits Within directed by Hironoby Sakaguchi & Montonori Sakakibra** 
+||**The Lord of the Rings: The Fellowship of the Ring directed by Peter Jackson** virtual camera 사용
+||**Driven directed by Renny Harlin** cg animation car사용
+||**The Mummy Returns directed by Stephen Sommers**
+||**Mouling Rouge! directed by Baz Luhrmann**
+||**Lara Croft: Tomb Raider directed by Simon West**
+||**Planet of the Apes directed by Tim Burton**
+||**A.I: Artifical Intelligence directed by Steven Speilberg**
+||**The Fast and the Furious directed by Rob Cohen**
+||**Harry Potter and the Philosopher's stone directed by Chris Columbus**
+||**Black Hawk Down directed by Ridley Scott**
+||**2001 오스카 수상 The Lord of the Rings: The Fellowship of the Ring**
+2002|**Pixomondo가 설립**
+||**Luma Pictures가 설립**
+||**The Magic Camera Company가 문을 닫았다**
+||**The Secret Lab 가 문을 닫았다**
+||**Curious Software가 gFx Pro 출시**
+||**RealViz가 Matchmover 출시**
+||**Chaos Group이 V-ray 출시**Renderer /또 다른 렌더러가 개발됨
+||**SplutterFish가 Brazil 출시** 렌더엔진
 ||**
 ||**
 ||**
