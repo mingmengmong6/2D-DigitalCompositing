@@ -499,7 +499,7 @@ RenderDotC, RenderMan Studio (Maya. Houdini. Katana)
 년도|설명|
 |:-----:|:-----|
 1994|**Eric Wenger와 Kai Krause가 Bryce 개발** (3d 프로그램)
-||**Caligari corporation가 Truespace 개발
+||**Caligari corporation가 Truespace 개발**
 ||**Larry Grit가 Blue moon render tools 개발**첫번째의 오픈소스 RenderMan/ REYES compliant renderer 이었다
 ||**Silicon Graphics가 Alias Research and Wavefront Technologies를 인수** 인수비용은 5백만달러
 ||**Microsoft가 Softimage를 인수** 모델링, 효과 작업을 유용하게 하는 프로그램, 매우 세부적으로 조절하여 자연스럽게 애니메이팅 할 수 있다
@@ -513,7 +513,7 @@ RenderDotC, RenderMan Studio (Maya. Houdini. Katana)
 ||**The Flinstones** 디지털 fur rendering과 효과가 Industrial Light and Magic에 의해 사용됨
 ||**The mask** 만화적인 효과가 사용됨, Industrial Light and Magic과 스티븐 윌리엄스 제작
 ||**The Hudsucker Proxy**
-||**True lies
+||**True lies**
 ||**Frankenstein directed by Kenneth Branagh**
 ||**Interview with the vampire** 모핑효과
 ||**Star Trek : Generations**
@@ -741,7 +741,129 @@ Grown up , modern visual effects, 많은 회사들과 영화들이 혁신적으�
 ||**Peter Pan directed by P.J. Hogan**
 ||**Master and Commander: The Far Side of the World directed by Peter Weir**/ 오토워킹이 사용되었다
 ||**The Matrix Revolution directed by Andy Wachowski and Lana Wachowski**
-||**2002 오스카 수상 The Lord of the Rings:The Return of the King** / 3년 연속 반지의 제왕이 수상
+||**Pirates of the Carribean: The Curse of the Black Pearl directed by Gore Verbinski**
+||**2003 오스카 수상 The Lord of the Rings:The Return of the King** / 3년 연속 반지의 제왕이 수상
+
+### 2004 - 2009: NO GOING BACK
+VISUAL EFFECTS를 사용한 영화들이 증가하기 시작하였고 할리우드는 더 성장할 수 있었다.
+년도|설명|
+|:-----:|:-----|
+2004|**Screaming Death Monkey가 설립**
+||**Nvidia가 Gelato 출시/ 최초의 상업적 GPU 가속 렌더 엔진**
+||**Silhouette 출시** /메인 reading program – 로토스코핑 가능
+||**Chris Landreth의 ryan이 아카데미 어워드 수상**
+||**Van Helsing directed by Stephen Sommers**
+||**The Day After Tomorrow directed by Ronald Emmerich 
+||**Sky Captain and the World of Tomorrow directed by Kerry Conran**/인공적인 cg background, 블루 스크린 사용
+||**Spider-Man2 directed by Sam Raimi**
+||**I,Robot directed by Alex Proyas**/ Digital domain이 제작, nuke, Gizmo사용
+||**Harry Potter and the Prisoner of Azkaban directed by Alfonso Cuaron**
+||**Lemony Snicket's: A Series of Unfortunate Events directed by Brad Silberling**/첫 cg인간 캐릭터 사용
+||**The Polar Express directed by Robert Zemeckis**
+||**The Passion of the Christ directed by Mel Gibson**
+||**Troy directed by Wolfgang Petersen**
+||**AVP: Alien vs. Predator directed by Paul W.S. Anderson**
+||**The Aviator directed by Martin Scorese** 
+||**2004 오스카 수상  Spider-Man2**
+2005|**Image Engine 설립**
+||**Prana Studio 설립**
+||**Adobe가 Macromedia를 34억달러에 인수하다**
+||**Planetside Software이 Terragen 출시** / node based program
+||**Autodesk가 Toxik를 출시**
+||**Luxology가 Modo 출시**/ node based program
+||**King Kong directed by Peter Jackson**
+||**Sin City  directed by Frank Miller, Robert Rodriguez, Quentin Tarantino** 
+||**Harry Potter and the Goblet of Fire directed by Mike Newell**
+||**Star Wars:Episode 3 -Revenge of the Sith directed by George Lucas**
+||**The Island directed by Michael Bay**
+||**Batman Begins directed by Christopher Nolan**/ digital character 사용
+||**Stealth directed by Rob Cohen**/그린 스크린에서 비행기, cg 제트기사용
+||**War of the Worlds directed by Steven Spielberg/ 카메라 무빙
+||**The Chronicles of Narnia: The Lion, the Witch and the Wardrobe directed by Andrew Adamson**
+||**Corpse Bride directed by Tim Burton**
+||**Son of the Mask directed by Lawrence Guterman**
+||**Constantine directed by Francis Lawrence**/ 불 시퀀스, 티펫 스튜디오 제작
+||**The Hitchhiker;s Guide to the Galaxy directed by Garth Jennings**
+||**Fantastic Tour directed by Tim Story**
+||**The Exorcism of Emily Rose directed by Scott Derrikson**
+||**2005 오스카 수상 King Kong**
+2006|**디즈니가 픽사를 74억달러에 인수**
+||**오토데스크가 alias를 1억 9천7백 달러에 인수**
+||**Michael Bay & Wyndcrest Holdings가 Digital Domain 인수**
+||**George Lucas가 ILM's model shop을 팔았고 Kerner Optical이 되었다**
+||**ILM은 PhysBam에 기반하여 in-house fluid dynamics system을 개발했다./physBAM은 다물리학 시뮬레이션 라이브러리로서, 여러 자연 현상뿐만 아니라 강체 및 변형성 유체, 결합성 및 변형성 고형물, 결합성 및 변형성 고형물, 관절성 강체 및 인체, 골절, 화재, 연기, 머리카락, 근육 및 기타 자연 현상들을 시뮬레이션할 수 있다
+||**Superman Returns directed by Bryan Singer**/ 3d 모델에 텍스쳐를 입혔다
+||**Poseidon directed by Wolfgang Petersen/ Industrial light & Magic,MPC 등이 visual effects
+||**x-Men: The Last Stand directed by Brett Ratner**
+||**Flags of our Fathers directed by Clint Eastwood**
+||**Pirates of the Caribbean: Dead Man's Chest directed by Gore Verbinski**
+||**Night as the Museum directed by Shawn Levy**
+||**Eragon directed by Stefen Fanmeler**
+||**Pan's Labyrinth directed by Guillermo del Toro**
+||**Children of Men directed by Alfonso Curaon**
+||**300 directed by Zack Snyder**
+||**Apocalypto directed by Mel Gibson
+||**Casino Royale directed by Martin Campbell**
+||**The Da Vinci Code directed by Ron Howard**
+||**Lady in the Water directed by M.Night Shyamalan**
+||**World Trade Center directed by Oliver Stone**
+||**The Fountain directed by Darren Aronofsky**
+||**Charlotte's Web directed by Gary Winick**
+||**2006 오스카 수상 Pirates of the Carrivean: Dead Man’s chest**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
 ||**
 ||**
 ||**
