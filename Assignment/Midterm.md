@@ -704,7 +704,82 @@ Grown up , modern visual effects, 많은 회사들과 영화들이 혁신적으�
 ||**Curious Software가 gFx Pro 출시**
 ||**RealViz가 Matchmover 출시**
 ||**Chaos Group이 V-ray 출시**Renderer /또 다른 렌더러가 개발됨
-||**SplutterFish가 Brazil 출시** 렌더엔진
+||**SplutterFish가 Brazil 출시**, 렌더엔진
+||**Sony Pictures Imageworks가 Bonsai 개발**/ 사내 독점 2d 합성 시스템
+||**Sony Pictures Imageworks가 BIRPS 개발**/ 사내 독점 라이팅 시스템
+||**Stephen Regelous가 Massive 개발**/ 인공지능 기반의 3d 애니메이션 시스템
+||**D2 Sofrware 가 대중에게 nuke 판매**/ 누크 3.0 출시
+||**mental ray가 마야 4.5와 함께 무료로 동봉**
+||**Alias/Wavefront가 Scientific and Technical Academy Award for Maya 수상
+||**Paul Debevec - Light Stage** /Light stage,사람이 안에 있고 hdr로 촬영/light LED, 오브젝트에 맞는 다른 색상코드 값을 생산함
+||**Star Wars Episode2: Attack of the Clones directed by George Lucas** ,Sony 의 HDW F900을 사용해 HD Video로 촬영된 
+첫 할리우드 주류 영화 / 블록버스터
+||**The Time Machine directed by Simon Wells/ 타임랩스 효과 사용: 빌딩과 산이 무너진다
+||**Reign of Fire directed by Rob Bowman**
+||**The Lord of the Rings:The Two Towers directed by Peter Jackson** 
+||**Men in Black 2 directed by Barry Sonnenfeld**
+||**XXX directed by Rob Cohen**
+||**Star Trek: Nemesis directed by Stuart Baird**
+||**Adapation directed by Spike Jonze** , 차 충돌씬이 돋보인다
+||**Harry Potter and the Chamber of Secrets directed by Chirs Columbus**
+||**2002 오스카 수상 The Lord of the Rings:The Two Towers**
+2003|**Zoic Studio 설립**
+||**Intelligent Creatures 설립**
+||**The Pixel Farm PFTrack 출시**,2002년에 비해 소프트웨어가 많이 출시되진 않았다
+||**Common Lisp and SEGA가 Animanium 개발**/Joint project, 애니메이션 툴
+||**Sony Pictures Imageworks OpenColorlO 출시**/ 많은 프로그램에게 채택되었다
+||**Andersson Technologies SynthEyes 출시**
+||**Sony Picture Imageworks가 Katana와 일하기 시작했다**
+||**Alias/Wavefront가 Alias 이름을 변경**
+||**Daredevil directed by Mark Steven Johnson**
+||**The Core directed by Jon Amiel**
+||**x2 directed by Bryan Singer**/ 모핑 효과가 잘 표현됨
+||**Hulk directed by Ang Lee** / 스킨과 근육 시스템이 잘 표현됨
+||**The Matrix Reloaded directed by Andy Wachowski and Lana Wachowski**
+||**Seabiscuit directed by Gary Ross**
+||**Spy Kids 3-D: Game Over directed by Robert Rodriguez
+||**Terminator 3: Rise of the Machines directed by Jonathan Mostow**
+||**Peter Pan directed by P.J. Hogan**
+||**Master and Commander: The Far Side of the World directed by Peter Weir**/ 오토워킹이 사용되었다
+||**The Matrix Revolution directed by Andy Wachowski and Lana Wachowski**
+||**2002 오스카 수상 The Lord of the Rings:The Return of the King** / 3년 연속 반지의 제왕이 수상
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
+||**
 ||**
 ||**
 ||**
